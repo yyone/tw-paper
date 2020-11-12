@@ -1,0 +1,9 @@
+# 対象外フォルダ
+__pycache__/
+_old/
+output/
+
+# 対象外ファイル
+.env
+*.code-workplace
+*.tsv

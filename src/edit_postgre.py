@@ -9,7 +9,7 @@ import psycopg2.extras
 ## シングルクォーテーションエスケープ
 ################################
 def escape_singlequote(str):
-
+    
     edit_str = ""
     for c in str:
         if c == "'":

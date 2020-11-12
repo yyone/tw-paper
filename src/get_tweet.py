@@ -1,6 +1,8 @@
 import tweepy
 import datetime
 import pandas as pd
+import settings
+
 
 def gettwitterdata(keyword,dfile):
 
@@ -8,14 +10,14 @@ def gettwitterdata(keyword,dfile):
     count = 0
 
     # Twitter APIを使用するためのConsumerキー、アクセストークン設定
-    Consumer_key = '3opn4Ok00sMsQnf79OXauhKoF'
-    Consumer_secret = '1KQH6nPHP28fHQckF097KCtOKdJ5wErD9U2PvSM10cZYNdnIRk'
-    Access_token = '5309772-IsvjEcjFakWgPv3MZKjgbmShmfrb9DEOZpzIGucsRP'
-    Access_secret = 'N104BRGYXmOr64HMhMPobWxtf8DVq1RT9Xe0wx6S7cCsl'
+    CONSUMER_KEY = settings.CONSUMER_KEY
+    CONSUMER_SECRET = settings.CONSUMER_SECRET
+    ACCESS_TOKEN = settings.ACCESS_TOKEN
+    ACCESS_SECRET = settings.ACCESS_SECRET
 
     # 認証
-    auth = tweepy.OAuthHandler(Consumer_key, Consumer_secret)
-    auth.set_access_token(Access_token, Access_secret)
+    auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+    auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
 
     api = tweepy.API(auth, wait_on_rate_limit = True)
 
@@ -60,7 +62,7 @@ def gettwitterdata(keyword,dfile):
         print (e.reason)
 
     # ファイル出力
-    df_tweets.to_csv(dfile + ".tsv", sep="\t", encoding="utf-8", index=False)
+    df_tweets.to_csv("../output/" + dfile + ".tsv", sep="\t", encoding="utf-8", index=False)
 
 
 if __name__ == '__main__':
