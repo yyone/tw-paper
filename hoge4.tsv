@@ -1,0 +1,243 @@
+user_id	user_name	follower	following	tweet	date
+ElectronNest	NaN	125	34	“Statistics &gt; Machine Learning To prune, or not to prune: exploring the efficacy of pruning for model compression” https://t.co/VMPMMKQm7g 式(1)が分からん。第一項がs_{t}でないとつじつまが合わない気がするけどどうなんじゃろ？	2019-07-09 11:42:36
+sei_shinagawa	Seitaro Shinagawa	1644	1809	What's to know? Uncertainty as a Guide to Asking Goal-oriented Questions (CVPR2019) Ehsan Abbasnejad, Qi Wu, Javen Shi, Anton van den Hengel https://t.co/J9BrrZvi5a これ良さそう	2019-07-09 11:18:04
+sei_shinagawa	Seitaro Shinagawa	1644	1809	Unsupervised Image Captioning (CVPR2019) https://t.co/owGOtKN67U image--textのcycle系crazy論文じゃん。読むか	2019-07-09 11:00:01
+NIIIDR	NII IDR	266	57	「楽天データセット」に新規データを追加しました。https://t.co/AYbHL7BAWl 今回はRakuten Franceに掲載の書籍情報と，その一部に正規化した著者名表記を付加したデータです。「Who wrote this book? A challenge for e-commerce」の論文で使用されているものです。 https://t.co/88lUWahQXB	2019-07-09 10:49:26
+L_H_Sullivan	ふー🐯じん🐳	368	320	Pseudo-Spin Versus Magnetic Dipole Moment Ordering in the Isosceles Triangular Lattice Material K3Er(VO4)2 https://t.co/NNKjF7eMRc 薄い結晶	2019-07-09 09:51:51
+yoshikoba113	小林良彦（原子核物理・科学コミュニケーション）	104	25	今日（7月9日）はジョン・ホイーラー博士（1911～2008）が生まれた日。一般相対性理論や量子重力理論の研究で多くの功績を残した物理学者。ニールス・ボーア博士と核分裂の研究も行った。画像は https://t.co/ANpI6MbIL1 より。こちら（https://t.co/o9zDwsNVek）はキップ・ソーン博士による回想録。 https://t.co/EdCVqax0Ed	2019-07-09 09:36:21
+shunk031	しゅんけー	1706	668	特許データ分析やってたからこういう論文は夢があって良いなぁと思う / Patent Claim Generation by Fine-Tuning OpenAI GPT-2. (arXiv:1907.02052v1 [https://t.co/w0CRTvevrb])  https://t.co/qrqdWY3YGz	2019-07-09 08:47:34
+icoxfog417	piqcy	8906	127	画像の一部をDropするCutoutと、画像を合成するMixupを複合させて、Dropさせた箇所に別サンプルの画像をはめ込むCutMixという手法を提案。Cutoutは重要な特徴を落としてしまう可能性がある、Mixupは合成画像が不自然になるという双方の課題を克服し、双方を上回る精度を達成  https://t.co/BNqZPG3tS4	2019-07-09 08:26:30
+GenerateTaiyaki	taiyaki	14	0	BigBiGAN https://t.co/AaqGCYFuwN BigGANと教師なし表現学習手法であるBiGANの組合せ.識別器には画像or潜在変数単独でのスコアを追加することで学習が安定化.教師なし表現学習やImageNetの条件なし生成でsota.強い生成モデルは表現学習に有用である上,良い特徴抽出モデルは生成器の性能を向上させる. https://t.co/6VDXqYM2Lf	2019-07-09 03:19:37
+i4mwh4ti4m	たつお	312	489	一応当該論文投げとく https://t.co/oPnhDjwgy4	2019-07-09 02:58:00
+phys27_	うわばき	153	127	[gr-qc/9405057] General relativity as an effective field theory: The leading quantum corrections  これですかね https://t.co/bXNZDPKgEl	2019-07-09 00:36:03
+KSKSKSKS2	katsugeneration	178	445	文字やウォーターマークなどが挿入されている画像から、どのような物体が挿入されているかの情報無しで元画像を復元するBlind Motif Removalのタスクで、半透明なモチーフや複数のモチーフの除去を行える手法を提案。 https://t.co/iDrfYntLUz https://t.co/G4ovg1vmL5	2019-07-09 00:16:53
+takekujira_	野口篤史	368	92	おおー。 https://t.co/yq26oz2Z60	2019-07-09 00:11:31
+IxtlanJourney	ixtlan journey	48	422	バニラLSTMのgateの値は、実は0から1の間にブロードに分布している。そこで、gateにGumbel-Softmaxを用いて0か1に近づく様にする。精度が落ちず、圧縮が容易になる。  Towards Binary-Valued Gates for Robust LSTM Training https://t.co/bbJ0FYscB6	2019-07-08 23:56:46
+cygnusgm	アルミニ	367	901	@kafukanoochan @UFOprofessor @gigazine arXivのプレプリント Submitted on 9 Nov 2018 https://t.co/DZ9p1JZB2W  Applied Optics誌も2018年11月号なので、内容はほぼ変わってないのかな？ Gigazineに載っている、あの凄まじい数式は見当たりません。	2019-07-08 23:41:43
+myaunraitau	まうん	242	258	代名詞コンペの1stソリューションのACL論文が公開されてたので読んでる https://t.co/cK0GPqLNoo	2019-07-08 23:31:06
+kuto_bopro	きょうへい	67	86	1日1論文の3本目 Improved Technique for Training GANs  GANを効果的に学習するためのテクニックがいくつか紹介されており非常に参考になる論文  理解度は半分くらい。  https://t.co/yFNLgLdXRa	2019-07-08 21:17:41
+re_hako_moon	はこつき＠VR	50	57	https://t.co/BN4UAOUONM Quantization-interval-learningの提案。NNの量子化を学習可能にすることで、精度を維持したまま省ビットなネットワークを実現した。入力の変化に応じた量子化間隔＆変化が激しい箇所に量子化の中心を移動するように学習する。	2019-07-08 20:39:40
+Ay18OS18	まな板の上の鱸	55	51	action！ってこと？  [1907.02550] 4321... axion! https://t.co/ZAk4q1Z5QH	2019-07-08 19:51:44
+masashi162	masashi16	83	129	PFNが以前出してた論文(https://t.co/XDDZwTmqrM)との違いって何なんだろう。考え方はとても似ている気がする。 Deep Graph Infomaxもそうだったけど、グローバルな情報をGNNにどのようにして付与するかが重要な気がする。	2019-07-08 19:19:25
+masashi162	masashi16	83	129	[論文メモ] GraphStar: https://t.co/o4vci6bhVP https://t.co/o82hYoIqR2 GNNが層を重ね過ぎると、表現が一様になってしまう問題に対して、大域的な情報を持つstar(ノード)を導入。GNNは局所的な情報しか取り込まないが、starを通して、大域的な情報を取り込むことを提案。複数のタスクでSOTA。	2019-07-08 19:18:19
+Kazk1018	Kazk1018	317	294	アルゴリズムによる採用候補者のスクリーニングにおけるバイアスに関する論文  https://t.co/tn3CwX6geP	2019-07-08 18:31:57
+naoki_shigehisa	しげ@プログラミング勉強中	59	165	https://t.co/3nAsD64Kj1 読んでみる。 ((英語苦手...	2019-07-08 18:04:40
+colomatico	ｺﾛﾏﾁｺ	152	312	[1811.03792v1] Rigorous analytical formula for freeform singlet lens design free of spherical aberration  あーかいぶ https://t.co/qu4JkJWcit	2019-07-08 17:39:18
+Quantum_Zen	全卓樹	1629	98	"そおいえば守先生の新論文 https://t.co/Syuezqreir、Physical Review Eにもう掲載されますねえ。批評１（表面的的）：おもしろいイイ論文ですよこれ。  ""Voter model on networks and the multivariate beta distribution"" S. Mori, M. Hisakado, and K. Nakayama https://t.co/Cdr8PPKhOv"	2019-07-08 16:51:31
+hiroosa	OSAWA, Hirotaka /WoD	1612	919	機械学習における進化計算の影響。ここ2年の成果で、ぜんぶarXivってのが分野のスピードを感じさせる  https://t.co/8bV2gH06C0 https://t.co/Q4SAAUDbt0 https://t.co/j5DpnzHRF7	2019-07-08 14:16:10
+komiya_atsushi	KOMIYA Atsushi	1575	125	転置インデックスの圧縮表現に使える新しいアルゴリズムだ。 https://t.co/NKck7I0b8y	2019-07-08 13:45:27
+miwamaya_3	Maya3	22	193	https://t.co/15wqcWHxsE ACGAN はクラス間の overap を考慮しないのでクラス数が増えると生成の多様性が損なわれる欠陥がある． ACGAN の構造に新たにもう一つの分類器を追加するアイデアを提案． 追加の分類器は Fake のペアのみで学習し，クラス間のJS-divを最小化することで多様性の劣化を防ぐ． https://t.co/CiV2xolYPj	2019-07-08 13:43:21
+ZFPhalanx	phalanx	1489	414	多分これ DDFlow: Learning Optical Flow with Unlabeled Data Distillation https://t.co/ZHajtFHMmm	2019-07-08 12:22:48
+jaguring1	小猫遊りょう（たかにゃし・りょう）	2601	191	甘利先生が途中でしてるのは、Jacotたちのこの論文の話だと思う Neural Tangent Kernel: Convergence and Generalization in Neural Networks https://t.co/EDEB1BPkSB	2019-07-08 10:41:28
+hrsma2i	ヒ◾️シです。	159	354	衣服の自動折りたたみロボットの目。位置の推定とキーポイントの推定をCNNで同時に学習。 https://t.co/KZcV3kID5G https://t.co/iiQlReJngM	2019-07-08 08:20:51
+pasj_jp	日本加速器学会	115	11	KEKの大谷将士さんらの論文がプレプリントサーバで公開されました。 ミュオン加速用のバンチャー空洞について。 https://t.co/RTp8Dtq3O2 #加速器 https://t.co/lU8czgTcig	2019-07-08 06:10:28
+hackernewsj	Hacker News記事題日本語翻訳	609	4	構成性における7つのスケッチ：応用カテゴリー理論への招待 https://t.co/QISoDV5LiY	2019-07-08 05:00:08
+maomaocyucyu	まおきゅ	592	560	@udoooom @import_godiva 初心者なので間違っていたら恐縮ですが、テスト云々という部分はネタ元のhttps://t.co/71ckU3PHCxが、学習後別に推論を走らせて出力を見るテストをしている関係で出てきた記載でGAN一般の話ではないかもです。ご指摘ありがとうございます！関連する実装は以下です https://t.co/uQVdutPswO	2019-07-08 01:00:41
+ssk_nozmi	ssk	30	67	ツイッタで知ったマクスウェルの悪魔の倒し方が載ってるらしい資料 https://t.co/yydXHp375Y	2019-07-08 00:01:01
+raven_0717	烏（からす）	105	281	2012年、Physical Review Lettersに『ポニーテールの形状と髪の繊維束の統計物理』というタイトルの論文が発表された。 https://t.co/RhOZctSpeG ポニーテールは量子力学を凌駕し、サイエンステクノロジーを開拓し、もはや人類の英知として存在する。ようするにポニテばんじゃーい ∩(・ω・)∩	2019-07-07 23:59:18
+kuto_bopro	きょうへい	67	86	2本目はKaggleでも現在使用しているDCGANの論文。GANの不安定性を解決するためにCNNやバッチ正則化などを用いた例。  潜在変数Zで生成する画像の特徴を変えれるのが面白い。  潜在空間の内部探索の理解がいまいちなのでそれはまた追々。 https://t.co/ZNKWPNCzX9	2019-07-07 22:36:06
+KSKSKSKS2	katsugeneration	178	445	誇張した表現の人物画であるカリカチュアを写真から生成するタスクで、Style Transfer的なテクスチャで表現されるスタイルの適用だけでなく、各パーツのジオメトリックな変換も学習により獲得し、任意の特徴を持つカリカチュアのスタイルを画像に適用し変換できる手法を提案 https://t.co/M2d4x9qCQ8	2019-07-07 22:04:39
+asakura_nazuna	朝桜なづな	23	23	@Spike23645 DNNも隠れ層のノードが無限のとき、ガウス過程として表現できるようですよ  https://t.co/vzK8iD4ZCC	2019-07-07 22:04:30
+candidusflumen	Toshihico　Shiracawa	1503	2015	「Detecting problematic transactions in a consumer-to-consumer e-commerce network」 eコマースのネットワークについて分析した研究のようだ → https://t.co/EMIQbgsC5b	2019-07-07 22:00:36
+asakura_nazuna	朝桜なづな	23	23	@Spike23645 Bayesian CycleGANは一応あるみたいです(私の勉強不足で中身は理解できていませんが…)  https://t.co/coN7CCVxdt	2019-07-07 21:04:39
+ksasao	ミクミンP/Kazuhiro Sasao	7779	2632	UMAPの論文ながめた。 https://t.co/b8QdAsOLkl 解釈性が重要なときはPCAとかのほうがいいとか、アルゴリズム的に500件以下のデータセットでつかうときは気をつけろとか書いてあってよかった。Pythonで簡単に使える。 https://t.co/ADUJJjF9lt	2019-07-07 18:24:04
+rkakamilan	rkakamilan	591	578	Prediction of Small Molecule Kinase Inhibitors for Chemotherapy Using Deep Learning  色々組み合わせも試しましたと言う話 https://t.co/XpOloHNhAI	2019-07-07 17:00:08
+tmaehara	™ 🔰	6885	718	アルゴリズム系に出すときは断らず alphabetical にしていて ( https://t.co/G8tbhMQf0Q )，機械学習系に出すときはだいたい contribution 順にしてる．ただし alphabetical order にすることもあって，そういうときは明記してる ( https://t.co/GUAFNtyFIr )	2019-07-07 16:27:23
+KSKSKSKS2	katsugeneration	178	445	推論の計算のみで、識別器がどこを見て画像のラベルを識別しているかを判定する Response-Based Visual Explanationのタスクで、CNNの識別精度を低下させず、既存の一般的なモデルや様々なタスクに簡単に応用できるVisual Explanation手法を提案 https://t.co/SmLegmmwfV	2019-07-07 15:05:21
+dakuton	Yuji Tokuda	339	217	@azriel1rf ありがとうございます。OODをCIFAR-10,100で優劣つけるのはもう難しく、少し規模大きいもの使う必要あるのかなという印象です。下記論文のほうみてたので追加で読んでみます。 A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks https://t.co/FdfdGi1fbd	2019-07-07 14:14:08
+tentenianbundl2	てん	118	147	観念してFock-Rosly https://t.co/7VEIEnEys6 を眺めるか(読めない)	2019-07-07 14:08:26
+Kurahashi16	Taishi Kurahashi	194	43	数日前ですが、新しい論文を arXiv に投稿しました。 神戸大学の岩田君との共著です。 Fixed-point properties for predicate modal logics https://t.co/6a05yBx1Fc  ResearchGate にもおいてあります。 https://t.co/CoE6zKzLMR	2019-07-07 13:45:51
+masahiro_sakai	Masahiro Sakai	1794	1333	AI Feynman: a Physics-Inspired Method for Symbolic Regression https://t.co/MV8HnkShrU データからの帰納的プログラム合成で物理法則を見つける話。次元解析やNNを代理モデルに用いての対称性や分割可能性の発見などを通じた単純化に工夫があり、遺伝的アルゴリズムを用いるEureqaよりも優れた性能	2019-07-07 10:46:41
+pcneko5	K-neko@秋M3 検討中	279	364	読んでおきたい https://t.co/iiEl1EpibW	2019-07-07 07:08:06
+Spike23645	Spike	188	248	@Khronos2106 代数的構造で例をあげるなら、例えば商。群や環を可換群やイデアルで割って分解。  そんな発想に、機械学習でも似たのがある。  CNNっていう深層学習の1種(下画素)は、下みたいに画像の商を作っていく仕組みに見える面がある。  リンクは数学的に深層学習を読み解く論文。 https://t.co/UtXEolkBJa https://t.co/BAaVcch0MK	2019-07-07 03:30:36
+hackernewsj	Hacker News記事題日本語翻訳	609	4	C ++ソフトウェアフレームワークのモデルチェック、ケーススタディ https://t.co/fMgwqWjWb1	2019-07-07 02:36:08
+Spike23645	Spike	188	248	https://t.co/UtXEolkBJa  なんとなく面白そうな論文を見つけました。  Abstからすると、DLの原理を群論の視点から解説してるみたい。  読んでみよう。  ｢物理学とディープラーニング｣みたいに面白そうな話かも。	2019-07-07 01:47:38
+sugar_underkey	さーたー	280	349	内容的にはこれと同じか https://t.co/ZPutfXrgFF  群ζ、ドストライクだ	2019-07-07 00:57:40
+kinako_bourbon	きなこかすてら	23	55	重力は斉しく万物に働くが近年、この力はエントロピック力だと解釈する向きがある（2010のhttps://t.co/HwJtbIwt2a論文を見よ。）	2019-07-07 00:57:19
+azriel1rf	あずりえる	1380	468	これ写真の識別タスクでAUC1.0なのかと思ったら、乱数から生成された画像セットのOOD検出でTNR at TPR0.95が1.0だった(AUCは0.997💮💯)。  CutMixの論文に出てくるGaussianやUniformの意味はOOD検出の論文に書いてあった。 https://t.co/wQypbEuxKa https://t.co/Ntg8qLhNjY	2019-07-07 00:13:06
+taketo1024	さのたけと	6353	248	そろそろこれも読めるかな🙂  [1001.0354] Topological Quantum Information, Khovanov Homology and the Jones Polynomial https://t.co/TQ6aQgnIBW	2019-07-06 23:58:08
+kuto_bopro	きょうへい	67	86	1本目はやはりこれ。 Goodfellow氏が2014年に出したGANの論文。  GANの数式的理解を今日初めてしたんだけれど、最適化のところが面白くて、比較的単純な目的関数でGとDが訓練できることに驚いたなぁ。  GANの基本となる部分をざっくりではあるものの理解できたのは進歩。  https://t.co/2lEs8WmT0G	2019-07-06 23:15:28
+tov_glowlight	同志ぐろーらいと	175	204	科学用語についてのロ英辞典  https://t.co/XnrkfKEztF	2019-07-06 22:42:53
+tonagai	tomo	408	88	中心極限定理の間違った解説が話題ですが、超一般化中心極限定理というのもあったり。レヴィの安定分布が出てくる。 Super Generalized Central Limit Theorem: Limit distributions for sums of non-identical random variables with power-laws https://t.co/fGVBwU0iMC https://t.co/WpTioIznEL	2019-07-06 21:59:16
+hrsma2i	ヒ◾️シです。	159	354	各タスクのlossの割合が均等になるように、自動で重みを決める。 https://t.co/aXmxGF5MwH	2019-07-06 21:21:39
+ririshida	いっし	189	334	これ完全理解したい Types and Forms of Emergence https://t.co/OXdfZOMje8	2019-07-06 20:15:24
+IxtlanJourney	ixtlan journey	48	422	BERTのアテンションが何を見ているのかを解析した論文。依存タイプの判別精度の表を見ると、まだだいぶ改善の余地があることが分かる。 What Does BERT Look At? An Analysis of BERT's Attention https://t.co/Ybt5rIBD6t	2019-07-06 17:44:14
+cv2aaa	okayasu	32	51	Personlabらへんからそんなに手法変わってない? https://t.co/udd7VOdRaI #cvsaisentan	2019-07-06 16:26:40
+dakuton	Yuji Tokuda	339	217	Data AugmentationでCutoutとMixupのメリットを兼ね備えたCutMixの提案。分類、物体検出タスクでtop-1/top-5 errorに改善がみられた。ROC曲線で100.0(+89.6)とか評価カンストしてる笑 CutMix: Regularization Strategy to Train Strong Classifiers with Localizable Features https://t.co/Q5PloIjz7N	2019-07-06 06:11:02
+mosaico	mosaico ioscinaga	569	86	Magnitude2019が終わりました。初めて会う人ばかりでした。前から気になっている数値実験 https://t.co/sMDRIc7Qqw について、Mさんから「あれは測度ではなくて超関数の枠組みでとらえるべきだ」という解釈を聞いて、一気に視界が開ける思いをしました。	2019-07-06 04:41:03
+__dingdongbell	ロールパンナちゃん	1127	549	https://t.co/SQ8T6kowp7 なんかよく分からんけど、力学次数は可算くらいしか可能性がないのに超越的なものもあるという話らしい。この可算集合の形が気になってきますね。	2019-07-06 03:57:43
+tomonarimitiyam	この先、みてぃなりです	225	262	https://t.co/Po7yxk1EHK このシミュレーションやったという人がいた。世間は狭いのお。 https://t.co/63Oky9nzmf	2019-07-06 03:19:57
+fudoumyousan	宮島	191	162	(Google DeepMind) https://t.co/CJzMieRXO2 他者の心を類推し、理解する能力についての「心の理論」に基づいた振る舞いが出来るようなモデルを深層強化学習で実現．	2019-07-06 01:51:36
+sammy_suyama	須山敦志 Suyama Atsushi	10049	166	dropoutが使えないなら変分推論を使えばいいじゃない Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning https://t.co/4qWem9y5PM	2019-07-06 01:42:40
+NieA7_3170	加藤恵と幸せな家庭を築きたい	486	208	https://t.co/2Rz76SWZrX まんまこれですが	2019-07-06 01:06:26
+shion_honda	Shion Honda	1243	244	Negative Sampling on Link Prediction [Kotnis+, 2018, KBCOM] 知識グラフのlink predictionで負例サンプリングをすると未観測linkを負例としてしまう問題に対して、6種の工夫を複数モデルに適用し比較した。スパースなKGには埋め込みを用いる手法が効く。 https://t.co/r18uU3XnDZ #NowReading https://t.co/xYL0po36gW	2019-07-06 01:04:49
+Ryuhei_Mori	Mori	101	50	今さら FOCS の accepted papers から知った。 https://t.co/sGzUBOfMEn	2019-07-06 00:38:26
+yoshi_and_aki	Yoshi-aki Shimada	631	832	化学式から超伝導になるかどうかを機械学習で予測すると、人より当たるし、新物資(物質としては知られていたが超伝導になるかどうかは分かって無かった)も見つけられるとな。固体物理の歴史を無視してるというよりかは、「周期表すげー」と読む感じ。 https://t.co/UAW6RXTUg9	2019-07-06 00:10:22
+tmasada	Tomonari MASADA	474	67	"""In a Variational Auto-Decoder framework, the approximate posterior distribution is not parameterized by a neural network, but rather using a well-known distribution directly.""…て、それ普通の変分ベイズですけど❓ https://t.co/K8mEss9UVN"	2019-07-05 23:28:32
+re_hako_moon	はこつき＠VR	50	57	https://t.co/EWpedQsFtI The Perfect Match: 三次元点群ための学習ベースの特徴量を提案。局所点群をボクセル化したあとに3D CNNで学習する。対応する局所形状同士の特徴量の差が小さく、対応しない局所形状同士の特徴量の差が大きくなるようにロスを定義する。	2019-07-05 23:18:01
+noan6251	ホテルバルティック（クローン）@築25年	849	846	これはAnnals of Statisticsの論文でFirst authorはE. Candèsです（論文は別にfollowしてません）． https://t.co/h9zBSkLWsM	2019-07-05 23:16:56
+q9ac	將籠林檎 / 𝓓	277	228	ナノ粒子が熱輸送をエンハンスするという話。電磁場のグリーン関数を使った計算。  https://t.co/vwvUGzrIyS	2019-07-05 23:09:36
+q9ac	將籠林檎 / 𝓓	277	228	非線形媒質中の電磁場の揺らぎに関して、熱的な寄与を取り扱うのに、時空の揺らぎ→光円錐の揺らぎを考える  https://t.co/vcdkZsmFs0	2019-07-05 23:01:55
+math_phys	N(eutral).W(-boson).	1267	340	"https://t.co/Yfm23nLVnx SSBを伴う低エネルギー有効場の理論が、機械学習と関わりあるよ、という主張。gauge理論と時系列モデルが関係していて、損失関数を""gauge不変""にする事で収束を早められる、とか述べられている。詳細は読んでみないと分からない。"	2019-07-05 22:50:51
+q9ac	將籠林檎 / 𝓓	277	228	電磁場中のDirac fermionと創発的ゲージ場中の中性fermionが双対な関係になっているらしい  https://t.co/P3CvjLfPcM	2019-07-05 22:46:29
+q9ac	將籠林檎 / 𝓓	277	228	量子熱力学のイントロダクション。古典熱力学とその量子論的フォーミュレーションからスタートして、最後には量子情報のプロセッシングの解析を取り扱っている。大学院生向けのテキストらしい。  https://t.co/IMBlulgPNa	2019-07-05 22:40:04
+q9ac	將籠林檎 / 𝓓	277	228	超絶縁体っていうのがジョセフソン接合素子のアレイを準備すると実現しうるらしい。超絶縁体相では抵抗が無限大になるらしいです。  https://t.co/E0EH7Y9EJ4	2019-07-05 22:36:25
+nebusokuririri	かまたまる	4775	546	これが最新のパブリッシュしたペーパーです。よろしければ引用してください。 https://t.co/iQlpKIXqTn	2019-07-05 22:24:51
+q9ac	將籠林檎 / 𝓓	277	228	デターミニスティックな光学系の上を光が伝搬する様子を説明するのにミュラー行列を使って計算する方法があるが、これでは伝搬にかかる位相を取り入れた議論ができない。そのポイントを改善したピュアなオプティクスの論文だなあ  https://t.co/WGPjbHzva3	2019-07-05 22:23:00
+q9ac	將籠林檎 / 𝓓	277	228	スクイーズド光があれば超強結合なしで超放射相転移が起こる。  https://t.co/1DVBgQNI36	2019-07-05 22:02:28
+q9ac	將籠林檎 / 𝓓	277	228	非慣性系にあるアハロノフボームリング中に閉じ込められたディラック粒子。  複雑だあ(´･ω･｀)  https://t.co/w0qsdDLE2w	2019-07-05 22:00:42
+dmbrkp_	ダムブレークP	56	267	某氏が好きそうな話題 https://t.co/ZCQScg1Oza	2019-07-05 20:27:04
+guicho271828	(phd '(masataro . asai))	783	782	思いついたら取られてた https://t.co/ajoKTbtx2B	2019-07-05 19:59:37
+shiku0304	しく	86	60	ガウス過程みたいに、エルミート行列の逆行列作るのがボトルネックになる系の方法は、量子ビット数が増えていけば、かなり進展しそうな気がします。 https://t.co/rMDwwgfw1O	2019-07-05 19:20:05
+powowowbtc	PoW! WoW! WoW! (Mining, Bitcoin, Blockchain)	433	84	2. 半減期を廃止し、難易度調整が閾値を超えた場合に採掘報酬を変動させる 3. 負の利子率を導入して総供給量を減少させる  論文のダウンロードはこちらから https://t.co/OG0jekguSV	2019-07-05 19:19:53
+r9y9	山本りゅういち / Ryuichi Yamamoto	835	559	https://t.co/pXjrC83jDA fairseqのpaper出てるの最近まで知らなかったけど、extensibleに設計されてるのが良いよなあ。DeepVoice3の実装したときにコード参考にしたのがもう二年前で、それから大分進化してる。Pytorchベースだしapexでmix precision 学習/推論もサポートしてる。良さみがあるなあ	2019-07-05 18:58:31
+Naka_m	nakam	390	444	そういえば、弊研の機械学習論文が出ていた： https://t.co/fes6CCwBr8	2019-07-05 17:12:48
+norihitoishida	Norihito Ishida	263	521	Dance Dance Convolution（CNN+conditional LSTMでDDRの自動譜面作成） https://t.co/vSItn8u5rM  DeepXさんの実装 https://t.co/X6WRvvTGM1	2019-07-05 14:49:27
+hhhhhhaaaaaa2	h.a.	340	526	Dirac magnons in a honeycomb lattice quantum XY magnet CoTiO3 https://t.co/DXLcOaTGZf Dirac magnonなんてのがあるんか	2019-07-05 14:02:09
+udoooom	うどん	1878	1943	Long-Term Feature Banks，今更知ったが発想シンプルで時間特徴をうまい感じに使ってるの凄いなと今更思った  https://t.co/GA7OxgDxmF	2019-07-05 12:25:11
+Vengineer	ソースコード解析職人	1667	80	論文は、これみたい。 「Deep Learning Inference in Facebook Data Centers: Characterization, Performance Optimizations and Hardware Implications」 https://t.co/GLpQDxD0Jo https://t.co/gPHmPPWEzW	2019-07-05 11:32:39
+masashiotani	マサシ	92	94	落とされたが、とりあえずarxivには出した。 https://t.co/drG5Ce7QoZ	2019-07-05 10:55:59
+yu4u	Yusuke Uchida	4463	950	攻めてる / “[1907.02124] Non-structured DNN Weight Pruning Considered Harmful” https://t.co/llPs9QQClG	2019-07-05 10:24:14
+hillbig	Daisuke Okanohara	15948	254	様々な形状の点群の生成モデルとしてPointFlowを提案。形状を表す潜在変数を生成し、それから連続正規化フローのダイナミクスを作り、それに基づき事前分布の点群を目的の形状に変化させる。変分法を使った最尤推定で直接学習可能 https://t.co/VxHqZ7zKL7 https://t.co/KffYbQsKPf	2019-07-05 10:02:26
+hackernewsj	Hacker News記事題日本語翻訳	609	4	GraphQLへの移行：実用的評価 https://t.co/nrwQkSPqTz	2019-07-05 07:18:33
+MasakiTaniguch4	Masaki Taniguchi	21	16	https://t.co/G3dBMgwAHD のCor Dが以前考えたことに似ている… Gromovノルムを使うとは…	2019-07-05 04:47:30
+mocobt	mocobt🐈	234	427	なんかHMMってぐらふっぽいしGNNと組み合わせた方法とかあるのかなと調べてみたら，先月発表された手法があった． やっぱ温故知新というか，昔の理論って大事な感じある．  [Qu et al. arXiv 2019] https://t.co/e5BX1rYl9x	2019-07-05 02:38:38
+pacifinapacific	ぱしふぃん	270	558	https://t.co/MCFPySL4fO Person Re-identificationでGeneratorによる画像生成と識別を同一ネットワークで扱う仕組みを提案。生成された画像を効果的に用いることで精度向上に寄与(CVPR 2019 oral)	2019-07-05 01:11:31
+TomiyaAkio	3刷出ます「ディープラーニングと物理学」 A.Tomiya	1290	505	@astrophys_tan えぇ、それですね https://t.co/FMIPxvKSst  色々と文献読んでて、引いてない奴も多いんですが、説明を聞いた中ではそれが分かり良かった気がします。	2019-07-05 00:21:54
+hsntdo	Hoshino Tadao	286	100	やっぱり既にあるようだ https://t.co/kG2sBHooYj	2019-07-04 23:56:35
+Lepidoptera2015	あおすじあげはちょう	289	347	https://t.co/Kf1BB6p5IY deepの学習をfrank wolfeベースのアルゴリズムにすることで、stepsizeがclosed formで求まり、パラメータ一つ決めればlrの微調整頑張らなくてよく、SGDと同程度の性能が出るよという主張、ICLR19	2019-07-04 22:23:13
+re_hako_moon	はこつき＠VR	50	57	https://t.co/iaNhd5K2Uy 弱教師あり学習による三次元点群のセグメンテーション手法．一貫したセグメンテーション結果となるよう，Consistency Scoreを導入してオンラインで整合するように最適化する．	2019-07-04 20:27:42
+mimura8322	Yukihiro MIMURA	42	121	“Hypercharge Quantisation and Fermat's Last Theorem” (https://t.co/XyQxxHlhpu)  / ハイパーチャージがU(1)の既約表現なら、表現の準同型写像が正しく定義されるためには電荷（の比）は有理数である。よって、著者はチャージの量子化の条件をもっと磨くべきである。（ほら日本語ならまだ字数余る）	2019-07-04 19:54:31
+enakalle	梅谷 武	419	51	Neural Decipherment via Minimum-Cost Flow: from Ugaritic to Linear B https://t.co/hfoCTLNZLx  ＜言語学はこういうことがやりやすい分野なので、若い方はこの方向を目指すという選択肢も検討すべきかもしれない。	2019-07-04 18:31:45
+subarusatosi	中嶋慧	3350	22	“Hypercharge Quantisation and Fermat's Last Theorem” https://t.co/c8qMC1bbD3  ハイパーチャージのパラメーターは5つがあるが、(1)より3つに落ちる。(2)は3パラメーターの3次式となる。 ハイパーチャージの量子化を仮定すると、フェルマーの最終定理(n = 3)より、ハイパーチャージが決まる。 https://t.co/uu5gwGvglK	2019-07-04 18:01:34
+jaguring1	小猫遊りょう（たかにゃし・りょう）	2601	191	Hypercharge Quantisation and Fermat's Last Theorem https://t.co/JQG4yiJYMM フェルマーの最終定理が道具として使われた事例。一見すると、あんな役に立たなさそうな定理でさえ、他分野で使われていく。これが数学の面白さの一側面だと思っている。	2019-07-04 17:43:15
+KUNImt_Sun	陸〇	277	360	めっちゃ現場感あるやつみつけた 例えばSEMとかで十分条件ベースではパスモデルを作らない場合に識別条件引っかかるときの最後段階的フィルタリングみたいな形ですぐ使えるやつだなこれは https://t.co/jEBoDMj3MI	2019-07-04 17:40:53
+benkyouaho	Io NGs	155	181	quark hadron dualityについて https://t.co/fdzO5VC9GC  あとで読む	2019-07-04 14:01:31
+TsuguoMogami	mogami290	12	10	DL without Weight Transport: https://t.co/V13lBlig9f やっぱり眠っている間にランダム発火を使って行列から転置行列にweightを転写できるとう話だ。私の１３年前に書いたこれ https://t.co/gc3FgmrwOt と同じアイデア。やられた。	2019-07-04 13:13:10
+hobbymath2020	hobbymath	81	55	プレプリント  “A New Lower Bound for Kullback-Leibler Divergence Based on Hammersley-Chapman-Robbins Bound”  https://t.co/fZ4WciPrEI  に対するサンプルコードを公開しました。 https://t.co/tQR2pB709O	2019-07-04 12:04:29
+fkm	fkm	891	168	MLの手法を使ってソート、やってみた人いるんだ https://t.co/L2yd7QRHJg	2019-07-04 10:22:55
+_tkato_	tkato	767	310	これおもしろいよ https://t.co/UXXrW86qKt	2019-07-04 10:14:32
+yu4u	Yusuke Uchida	4463	950	tf-liteの話かな。The Minimum-Cost Flow Algorithmとかでてくるし、やはり人類は全てのCS分野に精通すべきと思ってしまう / “[1907.01989] On-Device Neural Net Inference with Mobile GPUs” https://t.co/y94j8xJrTK	2019-07-04 09:54:24
+syuntoku14	しゅんとく	608	673	https://t.co/wCUPhNRqMj  これ、safe rlの中でもかなりシンプルかつ強そうなのですごい(小学生)	2019-07-04 08:30:27
+haruhiko_nishi	Haruhiko Nishi	68	177	https://t.co/4yktLkbaTX @sasaism 今度教えて下さい。	2019-07-04 07:58:06
+1789aorhow	まきゃ	329	229	https://t.co/a5oEYFz2HM 出社したらこれコピーする	2019-07-04 07:54:06
+tonagai	tomo	408	88	AI ファインマン - 測定データ列から、一体どんな関数になっているかを推定する。プランクの法則とか見つけられる？ 論文：AI Feynman: a Physics-Inspired Method for Symbolic Regression https://t.co/iilSfGQvsL サイト：Feynman Symbolic Regression Database https://t.co/2iS7ZgQCDD	2019-07-04 06:52:42
+subarusatosi	中嶋慧	3350	22	素粒子論にフェルマーの最終定理が関係してたら面白いなと思った事はあるけど、本当に関係しているのか… https://t.co/c8qMC1bbD3	2019-07-04 03:17:20
+udoooom	うどん	1878	1943	ESPNetの論文中にはTitanXで112FPSと書かれてるが，1080Tiだと116fps出るし凄まじい しかも精度も良い... https://t.co/cOSZAyefIJ	2019-07-04 01:26:37
+cygnusgm	アルミニ	367	901	The Physics of baking good Pizza https://t.co/iS9z7wweNn 　　　↑ ギガジンで解説している元論文  ちょっと前にはオムレツを流体力学で焼こうとしてた論文があったな✨ https://t.co/SD4JbrT4at	2019-07-04 01:26:08
+nyker_goto	ニューヨーカーGOTO	802	749	2009年時点で https://t.co/Pbodg8v9bU にて bottoun 先生があげていた shuffle が良い理由も2015年に https://t.co/aCYn2Z3FHI で少し明らかになったりしているので SGD にはまだ改善の余地があると信じている。	2019-07-04 00:59:45
+Soliton111	Soliton	78	96	fishnet theoryのholographic dual(?)できてたのかw 作用は近接相互作用をもつ点粒子の集まりのものでかけて、ある意味でAdS5上のstringを離散化したものとみなせるみたいですね。 順当ではある。  https://t.co/om99PMTzke https://t.co/mfsaUU2Zmv	2019-07-03 23:15:35
+tomonoritotani	戸谷友則 (TOTANI, Tomonori)	353	0	https://t.co/VTFF77PRiE 先日ツイートした、単発の高速電波バーストとして始めて FRB 180924 に母銀河が同定されたというニュースに続き、別チームが FRB 190523 の母銀河を同定。こちらも、大きめで星形成をあまりしていない銀河ということで、古い星種族からの FRB を支持。	2019-07-03 23:04:10
+yoshi_and_aki	Yoshi-aki Shimada	631	832	ISCA2019のMartonoshiグループの「Full-Stack, Real-System Quantum Computer Studies」なかなか面白い。Rigetti（超伝導）, IBM（超伝導）, UMD（イオントラップ）の量子コンピュータを複数のプログラムで性能比較。UMDマシンが良いっぽいなぁ。https://t.co/AsuLErJ0Xg	2019-07-03 22:13:46
+s_aiueo32	さしすせ	329	433	GraphSAGEと同じ著者なのか - https://t.co/m6InY1gbBT #xpaperchallenge	2019-07-03 21:32:59
+akihiro_akichan	akihiro_f	125	118	https://t.co/SwjxcFA9jQ 料理画像から材料と作り方を生成する研究。ResNetで特徴量を抽出して材料を推定、Transformer Decoderで再帰的に作り方を構成、という作りになっている。ドメイン絞れば、材料のレコメンドくらいには使えそう。料理写真から材料推定→カロリー計算とかできないかな https://t.co/TorBPMRQCS	2019-07-03 21:25:46
+mocobt	mocobt🐈	234	427	分子構造の学習でGCNは使われていたり。 https://t.co/l78WSOUKkN #xpaperchallenge	2019-07-03 21:22:35
+shion_honda	Shion Honda	1243	244	Deep Drug-Target Binding Affinity Prediction [Ozturk+, 2018, Bioinfo.] タンパク質と化合物の文字列表現をそれぞれCNNでencodeし、それらをDNNに入力して両者の結合を予測するDeepDTAを提案。DavisとKIBAで評価し、CNNの表現学習による精度を確認した。 https://t.co/qTi58Aj5fv #NowReading https://t.co/kVxWkurbrq	2019-07-03 21:21:47
+tenityu	Takayuki Tanabe⛅	69	119	メモリアロケーターごとの比較ベンチみたいなものってどこで手に入りますかね．．．_mm_malloc の性能が知りたい．今年の SIGMOD ポスターでこれ (https://t.co/PPfECiiQBB ) の発展版は見たんですけど，_mm_malloc が入ってなくて．	2019-07-03 19:38:37
+phasetr	相転移P	3353	1314	@yaschan__ https://t.co/EjqSvfadpv もあります。	2019-07-03 19:26:45
+hiromichinomata	H. NOMATA	628	983	予測外したときの責任重大感 https://t.co/SoJBAw3bCg	2019-07-03 18:29:02
+NH_M_	Nmℏm	1134	428	Lohitsiri, Tong. Hypercharge Quantisation and Fermat's Last Theorem https://t.co/FWLFdrxm6y 素粒子標準模型とフェルマーの最終定理の関係性が見つかったようです。ハイパーチャージ量子化、ゲージアノマリー相殺、そしてフェルマーの最終定理によって、標準模型の電荷を導出できることがわかった	2019-07-03 18:06:53
+emerson_et_al	えまーそん	225	199	久々に単著出してみました https://t.co/m6sltV5S0m	2019-07-03 17:26:51
+takasan_san_san	Kazuaki Takasan / 高三 和晃	1621	2007	arXivはこちら High-frequency Expansion for Floquet Prethermal Phases with Emergent Symmetries: Application to Time Crystals and Floquet Engineering https://t.co/IUURrEbvM5	2019-07-03 15:39:34
+norihitoishida	Norihito Ishida	263	521	https://t.co/IsfZTzv1VF L2正則化はバッチ正規化と一緒にやっても意味なし　覚えました	2019-07-03 14:26:04
+Kenji_Sugisaki	杉﨑 研司 (Kenji Sugisaki)	429	128	Symmetry Configuration Mapping for Compact Representation of Quantum Chemistry on Quantum Computers https://t.co/KDRvoIXPCC あとで読む。	2019-07-03 14:19:30
+hiropon_matsu	HIROPON	90	417	"Bengio Prigogineなんかも引かれている。 ""Learning the Arrow of Time."" https://t.co/YaJ8KQ9jOG"	2019-07-03 13:05:59
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	871	1903	マルチGANによるパッチベースでの高解像度医用画像の生成に関するarXivです。 生成に関してはパッチにして計算コストの大きい3DCTや胸部X戦に対応させて、マルチにすることで性能を向上させつつってことだと思うけど、その画像をどう扱うべきかは医師は困りそうではある。 https://t.co/cGgBUpB9gr	2019-07-03 12:33:58
+yu4u	Yusuke Uchida	4463	950	なんかすごいでかい（語彙）カメラ画像からのOCRのためのデータセット (ICDAR 2019) https://t.co/ouadk3eKGj / Brno Mobile OCR Dataset https://t.co/QpvuoNRLKB https://t.co/XYQJkfZgSn	2019-07-03 12:07:39
+Soliton111	Soliton	78	96	half-BPS op.の4点関数において、特別なR-charge polarizationかつ各BPS状態が非常に重い極限をとれば、4点関数の計算は八角形ダイアグラムの二乗に比例した形でかけるらしい。 で、可積分系テクニックをつかえば、all loopの計算が可能とのこと。  https://t.co/TsADi5yrat https://t.co/WKRsKv4Deu	2019-07-03 12:01:25
+masahiro_sakai	Masahiro Sakai	1794	1333	Principled Deep Neural Network Training through Linear Programming https://t.co/MciqNOXhEi NNの学習(経験損失の最小化)を、2進近似の上で木分解を使って指数的サイズのLPに帰着。直接実用的には使えなさそうで、理論的な洞察に繋がると良いと思うのだけど、自分はあまり理解できてない………	2019-07-03 11:49:31
+monizuka	GPO: makoto onizuka	642	533	Graph U-Nets: graph pooling においてグラフそのものを縮退させるという大技を導入． https://t.co/JAwyqlGK6P	2019-07-03 11:17:14
+barinoriron	てんにょ	2105	302	またも FRB の母銀河特定。星形成率がとても低い銀河とのことで、発生源は old stellar population ではないかとのこと。  A fast radio burst localised to a massive galaxy　https://t.co/S7ikI0gg7O	2019-07-03 10:10:31
+iBotamon	iBotamon⛅📷8 CVPR📝⛅	615	1881	これも8万件のレポートからword2vecをゼロベースで構築している。このNeural-Attention Modelは上手く理解できていないけれどself-attentionっぽい？ https://t.co/Ij4vrTJ4PL	2019-07-03 07:38:46
+iBotamon	iBotamon⛅📷8 CVPR📝⛅	615	1881	この論文は既製のEmbeddingを使わずにゼロベースでコーパスから構築している。OOV問題に対処しようとした？ https://t.co/0jvldDZtF8	2019-07-03 06:28:35
+kimar_iidx	星天	292	282	https://t.co/7LQ58MbWBB よくわからないまま読んでるんだけど引用が最近のばっかりでホットなんだなあと思っている	2019-07-03 04:19:07
+norarenmei1	おやー	36	435	数学の話でたので、久しぶりにポアンカレ予想証明論文にてをつけてる https://t.co/oaK9TElJ6m	2019-07-03 02:39:25
+MikasorFlow	A$AP MIKA$A	41	119	Deterministic generation of a two-dimensional cluster state for universal quantum computing  これです  https://t.co/6PNE0gEafM	2019-07-03 02:29:19
+daikinish	Daiki Nishiguchi	1561	833	自分の論文が2つも、各々から図を引用されつつレビュー論文に出て来ると嬉しい…！ https://t.co/dy0GMmaJvV	2019-07-03 01:41:28
+shion_honda	Shion Honda	1243	244	Triangulation Learning Network [Qin+, 2019, CVPR] 2Dステレオ画像を活用して3Dで物体検出を行うという研究。深さ情報を使わず、2枚の画像の差分から三角測量のように物体のアンカーの位置を推定するTLNetを提案。channel reweightingも提案。KITTIでSOTA。 https://t.co/75UuE3wqrb #NowReading https://t.co/aUe2WwgAuj	2019-07-03 00:44:28
+KSKSKSKS2	katsugeneration	178	445	画像からキャプションを生成するタスクで、画像から複数のPOSタグのシーケンスを予測し、その情報をもとにキャプションを生成することにより、多様で精度の高いキャプションを既存手法より高速に生成する手法を提案した。 https://t.co/8wyBRnB3wt	2019-07-02 23:36:39
+shunk031	しゅんけー	1706	668	DropConnect、お前もベイジアンニューラルネットだったんだな… https://t.co/cEEyDfcE1u	2019-07-02 23:10:24
+atsushieeeee	Atsushi Tabata	74	71	#ImageNet 単体だと、テクスチャの要因が強くなるが、style transferしたデータセットを合わせて学習することで、物体の特徴として形状も重視させることが可能に。よりロバストなモデルが作れる。https://t.co/SZKw1oea6P	2019-07-02 22:30:13
+akihiro_akichan	akihiro_f	125	118	https://t.co/hWzbQImOKV 画像中の重要人物を抽出するPOINTを提案。画像中の人物を全て抜き出した後にそれぞれの顔、周囲、位置の３つをまとめてCNNで特徴量化し、関係性を計算するRelation Moduleがコアか。Self-AttentionのようにQKVで関係性を取得するが３項の積でなくQV＋KVの定式化になっている。 https://t.co/5aezltGCqX	2019-07-02 22:22:21
+re_hako_moon	はこつき＠VR	50	57	https://t.co/NKkjbUZ5e1 教師なし学習で三次元特徴点の検出器を学習。点群データセット中のモデルをランダムに剛体変換し、その剛体変換前後で変わらず検出できるような特徴点を検出する。一度局所点群から特徴点を計算し、改めて特徴点同士の相対位置を考慮して最終的な特徴点と信頼度を出力する。	2019-07-02 22:12:53
+MomonariKudo	工藤 桃成 Momonari Kudo	236	185	"論文""Algorithmic study of superspecial hyperelliptic curves over finite fields"" (with Shushi Harashita)をarXivに公開しました。 https://t.co/9cDdmqX05F 一般種数の超楕円曲線のうちsuperspecialなものを数え上げるアルゴリズムと、超楕円曲線の自己同型群を計算するアルゴリズムを提案。"	2019-07-02 22:08:38
+allowfirm	allowfirm	14	38	@shion_honda はじめまして。式10.41のハッチング箇所は「LSTM: A Search Space Odyssey」( https://t.co/p0y5PsKuxV )ですと、p.2の「g」に対応すると思いますが、たしかに図1でもgは「usually tanh」と記載されていました。式10.42の方がシグモイドですから、その相方はtanhが一般的なように思われます。	2019-07-02 21:52:57
+daigo_hirooka	Daigo	105	567	いい表現を得るためにはinductive biasが重要ってICML2019のbest paperでも言ってましたね。 https://t.co/mF8iF9JPdK https://t.co/IE3a1UACOt	2019-07-02 20:42:21
+Pechod_dynol	sepia	627	651	https://t.co/dYymFxo5rh Scheme representation for first-order logic   これのこと？	2019-07-02 19:11:33
+Q7Xf5U4TpGCMDjG	ほ(研究)	0	0	https://t.co/6dgO3MVqOE  https://t.co/QT5Zqs9neq アイスホッケーでの行動認識を行う研究 Keypoint+Optical Flowを用いることで従来手法よりも精度が向上している。 keypointとして関節点の他にアイスホッケーのスティックの始点、終点を加えている。 https://t.co/siSjNhTKB0	2019-07-02 18:51:22
+atushiTAKEDA	武田敦志	77	36	@chokudai 競プロ界隈での著作権は把握していないのですが、情報処理学会だと、著作者の権利（第５条）として規定してます。 https://t.co/Ud1tD1Hx2K  arxivだと、arxvi側の権利を規定しています。 https://t.co/eSiS1ctkWO  こんな感じで、著作権を持たない側の権利を明記した方がいいかなと思います。	2019-07-02 18:32:48
+hobbymath2020	hobbymath	81	55	新しいプレプリントをアップしました。 https://t.co/fZ4WciPrEI  カルバックライブラーダイバージェンスの下限が、分布の平均値と分散で決まることを示したものです。 ベルヌーイ分布に対しては、等号が成立します。	2019-07-02 16:27:01
+akashi_akatsuki	明石暁	426	591	Recent Trends in Deep Learning Based Natural Language Processing https://t.co/U9lvS8LhWg  2017年のだけど読むか…	2019-07-02 15:56:44
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	871	1903	Adversarial Exampleに対してモデルではなく、データセットで対策を行うという考えのarXivです。Adversarial Exampleは専門ではなかったけどこれは面白いと思った。ロバストと非ロバストは面白いな。 https://t.co/iHBDbYzxTo	2019-07-02 15:22:38
+hillbig	Daisuke Okanohara	15948	254	画像に対する敵対的摂動で人間に差がわからない変化で予測ラベルが変わるのは、ノイズや過学習のせいではなく、人間には認識できない汎化可能な特徴を捉えているためであり、実際得られた特徴を使った分類は他のデータセットにも汎化する。https://t.co/1YdGJ02BSe	2019-07-02 13:19:20
+Kenji_Sugisaki	杉﨑 研司 (Kenji Sugisaki)	429	128	Computational Chemistry on Quantum Computers: Ground state estimation https://t.co/Zd6oEaMG5I あとで読む	2019-07-02 13:16:58
+osciiart	OsciiArt◆SPNEXTcRxQ	1909	1166	元々軽量なモデルを作るためにdistillationは提案されているが同じサイズで高性能のモデルを使うために利用することはBorn Again Network (BAN) で提案されている。ただしpseudo labeling がhard targetを使うに対しBANは原則soft targetを使う等ところどころ異なる。 https://t.co/KU9IjCAANN	2019-07-02 12:15:38
+ueda_physics	Shu	1118	1149	Configuration entropy の最小値とダークエネルギーの状態方程式・パラメータの関係から, 後者に制約を付けられるかもしれない https://t.co/gKwPLE5ToQ	2019-07-02 11:22:55
+ueda_physics	Shu	1118	1149	Higgs inflation の一種でアクシオンの質量などを計算してみた, scalar-to-tensor ratio が 1e-12 くらいになるのが特徴 https://t.co/wmdeGiDvrt	2019-07-02 11:22:39
+Ryuhei_Mori	Mori	101	50	短い。https://t.co/D6RMM3HDeX	2019-07-02 11:07:51
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	871	1903	皮膚領域のsegmentationに関するarXivです。 少し珍しいのは皮膚を撮影する装置に組み込めるようにパラメータを削減したGANを提案している点である。ボトルネックをなくし、位置とchannel attentionを追加することでパラメータを削減しつつ、既存より性能を出している。 https://t.co/E8NMLSODVk	2019-07-02 10:58:47
+norita113	nrt@ブルベ冬	711	827	え？まじ？ / [1907.00015] Dark matter heating of gas accreting onto Sgr A$^*$ - https://t.co/NMEv55YkZh	2019-07-02 10:56:12
+whisponchan	NoriakiOshita	1713	722	@AskOkra ソースドメインとターゲットドメインの分布のposterior ratioというのを定義して、その値を訓練することによって転移学習するのは、定式化も綺麗なのでいいと思います。 https://t.co/Su7L8sD3to こちらはチョットテクニカルですが最近の傾向を知るのに良いと思います。 https://t.co/KsQfgagGLs	2019-07-02 10:52:08
+qard_t	T-QARD channel	516	0	論文はこちら https://t.co/MButwL5k8L https://t.co/mT86T0CzSC	2019-07-02 10:38:14
+Ryuhei_Mori	Mori	101	50	グラフの彩色数が O(1.9140^n)時間の量子アルゴリズムで計算できるというお話。 https://t.co/flRkOBKJyY 古典アルゴリズムでは branching が包除原理に負けることが多いけど、量子アルゴリズムでは逆転できる。 量子アルゴリズムなんも知らなくても、古典アルゴリズムが好きなら参戦できるので是非。	2019-07-02 10:00:52
+saeeeeru	さえない / Saeru Yamamuro	1654	483	"『ザ・フォーミュラ』の著者であるバラバシの研究グループが""サッカー選手を評価する専門家の能力""について分析した論文。 https://t.co/RX99b4iXKv"	2019-07-02 09:36:49
+icoxfog417	piqcy	8906	127	失われた言語の解読(翻訳)を行う研究。失われている故に大規模なコーパスは使えないので、同族言語とのアライメントを手がかりに翻訳を行なっている。具体的には、既知の同族言語における文字の並び/単語の出現確率で制約をかけて生成を行なっている。  https://t.co/wyBQd6rOkR	2019-07-02 09:34:09
+TalesOfOdajun	TalesOfOdajun	168	224	読む https://t.co/7MOrnhSH4o	2019-07-02 09:23:56
+akihiro_akichan	akihiro_f	125	118	https://t.co/cYf0mKYOMC 印象の残りやすさを調整できる機構GANalyzeを提案。生成器Gと印象度検査器Aを固定し、調整したいパラメータaと潜在変数zの埋め込み器Tを学習させ、zが固定なのでaを調整すれば同じ構図で印象に残りやすい画像を生成できる。 https://t.co/KbyiCTk1RS	2019-07-02 08:23:51
+tmaehara	™ 🔰	6885	718	わたしはアルゴリズム系に出すときは conclusion カットします．たとえば https://t.co/Trc6I0St7y https://t.co/9na2Pv9CeT https://t.co/XvAQaLYL6w あたりは conclusion なし． https://t.co/EOenzmBYNB	2019-07-02 07:41:51
+fullflu	fullflu	84	137	多重代入法と機械学習のアンサンブル学習をどう結びつけるのか、ってのを研究している事例があれば知りたい。arxivとかにちらほらあるけど、あんまり調べてないのでこれが王道なのかはわからない https://t.co/Rut3mNrOPe	2019-07-02 05:23:22
+hayashiyus	Yusuke HAYASHI 林 祐輔	3523	568	統計モデルに逆温度を導入する一般的な手順．  1. https://t.co/3i7VpTqtOP 2. https://t.co/1yt6OIqScb https://t.co/rcz8YxUPoN	2019-07-01 23:51:50
+KSuzukiii	すずきぃ@求職	348	306	やってることはわかったんだけど、一から作るのめんどいなぁ... / Data-Free Quantization through Weight Equalization and Bias Correction https://t.co/MApWU1ioSs	2019-07-01 22:56:44
+mlmasasing	Masa	69	213	XLNetの論文をメモしておく https://t.co/nHgneekTeM	2019-07-01 22:15:28
+re_hako_moon	はこつき＠VR	50	57	https://t.co/BACDU24k4Q 単眼カメラ画像から人間のメッシュを再構成する。一度画像からメッシュを構築後、Joint、Anchor、Vertexの順に徐々にメッシュの変形を推定していくことで密に細かい形状（衣服など）を含めた再構成を実現。	2019-07-01 21:53:45
+necrophilism	きゃりーねくねく	605	449	全然知らなかったけど，AI Feynman https://t.co/UKvC1C6uU8 なるものが話題になってたのか．	2019-07-01 21:41:53
+diskshima	Daisuke Shimamoto	367	953	時々考え過ぎちゃって、不必要に複雑にしちゃうのかもしれませんね。 ・Forget ゲート ・Chronic initialization で MNIST で良い結果が出たそうです。  The unreasonable effectiveness of the forget gate https://t.co/s73rTYydhx	2019-07-01 21:23:27
+osciiart	OsciiArt◆SPNEXTcRxQ	1909	1166	ラベルありデータとラベルなしデータでクラスの分布が違うと半教師あり学習はやらない方がましになる。というデータはあったわ。 https://t.co/Q7e9PLHbH8 https://t.co/4suteBSRB0	2019-07-01 20:54:08
+en_sof	ℵzero	159	134	さっそく https://t.co/tDgzgYiqyu	2019-07-01 20:38:10
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	871	1903	MaskR-CNNによる乳がんの検出&amp;Segmentationに関するarxivです。 マンモグラフィーをグレーから擬似カラーに変化し、カラーコントラストとして塊状パターンを認識しやすくした点にあります。シーケンスをもつMRIやモダリティ間の差を特徴にすることができる可能性があります。 https://t.co/zZKWdFqiG9	2019-07-01 19:25:04
+atomicchildren	あとむ	258	493	arxivの結果。https://t.co/66RwIHIXp2	2019-07-01 18:06:32
+hhayakawa	早川尚男	1996	426	https://t.co/tJ3tI6tzMI　或いは@Qhapaq_49 のseminarで https://t.co/FUQNoPzUFz の紹介がありました。	2019-07-01 17:59:32
+dojin_tw	安藤道人	3907	904	先週、サイバーエージェントの安井翔太氏@housecat442によるゲスト講義を行った。  学部生向け講義だが、広告業界における機械学習や因果推論の活用がテーマで、私が一番質問してしまった。  安井氏とイェール大の成田氏らとの共著論文（Narita, Yasui, Yata 2019)はこちら https://t.co/IUYAFx27tN https://t.co/9YjPKS3JKb	2019-07-01 17:42:49
+Lepidoptera2015	あおすじあげはちょう	289	347	https://t.co/zojYyqGSQs 推薦におけるfairnessってどう定義すればいいの？って話	2019-07-01 17:37:22
+tmaehara	™ 🔰	6885	718	A History of Metaheuristics https://t.co/IDQ2wrHyFJ 面白かった．	2019-07-01 17:34:48
+levelfour_	Han Bao	1135	532	@tmiya_ なるほど…UCBで考えるとそうなりそうですね。最近だとおそらくそういう問題意識があってgood arm identification（ある程度良い腕をすべて選ぶ）みたいな問題も模索されているんだろうなと思いました。 https://t.co/7Q4Grxv0mC	2019-07-01 16:08:15
+st_red_strat	's.to;t@🍣はご飯の上に魚が乗ってるから神	286	992	@enthal_p ミクロな因果律を指導原理として仮定する、というのならまだ良いけど  そもそもラグランジアンがnon-localな相互作用しか含んでなくてもマクロにconsistentかどうかは全く自明ではない https://t.co/1dvYhnmaIq ミクロな因果律からマクロな因果律は一般には言えないし、逆を無批判に仮定するのもヤバい	2019-07-01 15:42:27
+ikkoham	濵村 一航 Ikko Hamamura🥂	639	518	最近出た良いレビューらしい https://t.co/IdZmLSFZ1l #qikansai26	2019-07-01 15:02:08
+Kenji_Sugisaki	杉﨑 研司 (Kenji Sugisaki)	429	128	Hole-Spin-Echo Envelope Modulations https://t.co/KM7LBvH6eR ESR関係でESEEMはなじみがあるけどそれのhole版。気になる。	2019-07-01 13:56:36
+kawashima2201_	Q学習をかじったKawashima🏕	62	323	参加してる機械学習勉強会で「A free energy principle for a particular physics」って論文の解読会が2,3ヶ月以内に開かれると聞いて泣いて震えてる https://t.co/LDQHmvF3H0	2019-07-01 13:09:58
+hmkz_	はま	1087	2526	GA（正確に言うと進化計算）意外と強いですよ。最近流行りのOne-shot NAS（ニューラルネットの学習と同時に構造探索もする技術）も先の論文の発展形ですし。 https://t.co/Te7VPRkGK7	2019-07-01 13:01:32
+L_H_Sullivan	ふー🐯じん🐳	368	320	Complex magnetic phase diagram of metamagnetic MnPtSi https://t.co/CXM6KGIjel 興味深い	2019-07-01 11:12:18
+L_H_Sullivan	ふー🐯じん🐳	368	320	Lattice and magnetic dynamics in polar chiral incommensurate antiferromagnet Ni2InSbO6 https://t.co/W1I7pQTN2A arkパイセンがファーストちゃうの？	2019-07-01 11:10:56
+yu4u	Yusuke Uchida	4463	950	FPGAﾖｲｼｮｰｯ / “[1906.11879] Comparing Energy Efficiency of CPU, GPU and FPGA Implementations for Vision Kernels” https://t.co/b6KjqFIYTL	2019-07-01 10:06:15
+icoxfog417	piqcy	8906	127	"BERTを超えたと話題になったXLNetのコストについての話。論文中では""512 TPU v3 chips""で2.5 daysと言及されている。1TPUは4chipsで構成されるので128TPUを2.5days=$61,440ほどになるとの試算(660万ほど)。一発で上手くいったはずはないと思うので実態はさらに上と思われる  https://t.co/ZpnHUq3GwV https://t.co/GS0FirpDNV"	2019-07-01 09:37:23
+KSKSKSKS2	katsugeneration	178	445	クエリ画像と同じものが写っている画像を検索するタスクで、ローカル特徴量によるリランキングを後付けできる手法を提案。グローバルな特徴量を出力する既存のCNNを再学習せずに、ベースモデルによる類似度検索と比較し、最大で5ポイントほどmAPやmP@10が向上することを示した https://t.co/2NDZg51F2w	2019-07-01 09:02:16
+kosukemizz0310	kosuke.M	528	499	分位点回帰を用いたDistributional RLの改良。分位点ごとにモデルを近似することをやめ、分位点のembeddingをモデルに加えている。また、リスクを考慮したモデル化も行った。 https://t.co/WDhNDtGC60	2019-07-01 01:36:30
+asam9891	Masa.I	470	128	Adversarial Examples Are Not Bugs, They Are Features さっきの投稿の参考文献。robust な特徴は人の感覚と一致してる普遍的な特徴、non robust な特徴は人の感覚と必ずしも一致しないが特定のクラスの識別に重要な特徴。non robust な特徴が敵対事例の原因となっている https://t.co/78rcMx5FXZ	2019-06-30 22:34:48
+hsntdo	Hoshino Tadao	286	100	タイトルからしてすごそうな論文みつけた（アブストだけ読んだ） https://t.co/E9UcztBbNA	2019-06-30 22:24:28
+KSKSKSKS2	katsugeneration	178	445	画像とその説明文が与えられ、説明文内の単語と画像の対応関係を求めるPhrase Groundingのタスクにおいて、学習時に説明文と画像のペアしか与えられない弱教師あり学習の設定で、既存手法を大幅に上回る性能を示した https://t.co/KPlmlbf2Gt	2019-06-30 22:03:36
+candidusflumen	Toshihico　Shiracawa	1503	2015	「Quantum Computation as Gravity」 情報理論も重力の理論も幾何学で扱えるので、幾何学的観点から統一しようという試みのようだ → https://t.co/c2RKlieNOH	2019-06-30 21:55:59
+candidusflumen	Toshihico　Shiracawa	1503	2015	「A theory of quantum gravity based on quantum computation」 量子計算に基づき重力と量子力学を統一しようという話だ。今流行りの研究のように見えるが、元々2005年に初稿が上げられ、このバージョンは2018年のものだ。結構古い時期に量子情報と重力の関連に注目している https://t.co/WzNtoaNt83	2019-06-30 21:40:20
+KSKSKSKS2	katsugeneration	178	445	ビデオについてのキャプションを生成するタスクにおいて、映像情報を時間方向の変化や物体検出やアクション認識の結果を利用してエンコードするEnriched VisualEncodingという新しい手法を提案。MSVDなどのベンチマークで既存手法を上回る結果を示した。 https://t.co/dmsfNFClJR	2019-06-30 19:55:57
+KSKSKSKS2	katsugeneration	178	445	音声および映像を元にした質問応答のタスクで、マルチモーダルなアテンションを利用したシンプルなモデルで、既存手法をCIDErで20ポイント上回る手法を提案 https://t.co/5mtnOrlCGO	2019-06-30 18:45:53
+Ab_ten	Ab.	60	36	https://t.co/Ql87Nnxj4u mixup: Beyond Empirical Risk Minimization に GAN の学習を stabilize するって書かれとったー。ちゃんと読まねば。	2019-06-30 17:57:15
+KSKSKSKS2	katsugeneration	178	445	2D画像を既存の3DモデルにマッチングさせるVisual Localizationのタスクで、階層的なニューラルネットモデルを使用することにより、頑健性と計算速度を両立させた手法を提案。GPU使用で20FPS出すことができる https://t.co/TnHl0WGHeg	2019-06-30 17:36:18
+mesh1bot	ぼっと@23	108	115	https://t.co/sBTPR2SSbH  これ一回はちゃんと読むべきだと思うんだよなー英語に強くなりたい・・	2019-06-30 17:25:05
+akihiro_akichan	akihiro_f	125	118	https://t.co/dUqP0WZqSi CVPR2019.複数の物体を教師なしで追跡できるRATを提案。検出結果から画像を再構成してロスをとる機構、追跡の被りを防ぐためにFCNで抽出した特徴量ベクトルから１つ物体を検出するたびにメモリの更新(消去)をする機構がポイントか。教師なしでこれは凄いのではなかろうか。	2019-06-30 17:11:50
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	871	1903	学習しやすい画像を生成する方法に関するGAN論文です。 これは今後、どのようなポイントが画像の認識に重要かがわかるかもしれません。 医療では癌などの診断根拠になるような画像特徴を導ける可能性があります。 https://t.co/PCUJuhlPBA	2019-06-30 16:58:46
+syao_ming	しゃをみん	281	108	少し前のGANSynthみたいに、位相推定を正しくできれば、時間周波数域上で高音質の音声合成ができますよという話。STFTについての論考が助かる・・・しかし、時間域信号の直接生成もそこそこ成功しているのに(WaveNet)、未だに位相推定はうまくいかないんだなぁ・・・ https://t.co/JqYuaRoKhR	2019-06-30 14:55:59
+yu4u	Yusuke Uchida	4463	950	同じようにNASを4 hoursでできると言っているこの論文、4 hoursとは言ったがGPU hoursとは言っていない（TPUv2）のが利根川っぽくて良い / Single-Path NAS: Designing Hardware-Efficient ConvNets in less than 4 Hours https://t.co/vBBADsvHB0 #cvsaisentan	2019-06-30 14:50:36
+subarusatosi	中嶋慧	3350	22	量子開放系のBerry位相に興味がある人は、私のD論 https://t.co/OYjL51WnSg や https://t.co/SYFiIZQKwl が面白いと感じるかも知れません。	2019-06-30 12:45:06
+u_vi58	まむ	608	349	一方で、もしブラックボックス関数の入力空間が1次元ならば、ICML2018にhttps://t.co/WwyfgI6tWsが出ていて、タイトなcumulative regret boundを達成するアルゴリズムが得られていることが分かって面白い。	2019-06-30 12:22:59
+toshiki_recruit	たかはしとしき@リクルート	205	391	お https://t.co/I88upzMK6f	2019-06-30 12:19:52
+TsuguoMogami	mogami290	12	10	置換対称性のある集合を出力とするNNをどう作るかは前々から問題だった。 https://t.co/y4OeDu7jpM を私の言葉でぶっちゃければ、多対1で自然に表現できる集合→内部表現の逆関数として、1対多の関数を定義すれば集合を出力できるということ。境界に現れる不連続と置換対称性はソルバに押し付ける。	2019-06-30 11:31:25
+q9ac	將籠林檎 / 𝓓	277	228	二枚のグラフェンがカーボンナノチューブで繋がってる「ワームホール」みたいな不思議な物質を考えている。ワームホールがあるとランダウ量子化みたいなことが起こるらしい。 https://t.co/Yzfj0MDNgb	2019-06-30 07:58:33
+q9ac	將籠林檎 / 𝓓	277	228	半無限のバルクに詰まったディラック場と電磁場の相互作用。トポロジカル物質と電磁場の相互作用の解析にお役立ちらしい。 https://t.co/T1SiAKct18	2019-06-30 07:37:12
+q9ac	將籠林檎 / 𝓓	277	228	時空上に螺旋転位がある系のディラック場とそれを回転させた時の振る舞いの解析。  時空上の螺旋転位(・ω・ )!そんなのあるんだなあ https://t.co/ZvfAQrH4X4	2019-06-30 07:32:26
+q9ac	將籠林檎 / 𝓓	277	228	量子論における時間の矢の問題。コヒーレント状態のエントロピーが時間とともに増大していくことを示している⇔時間には向きがある https://t.co/pVBTRfK5ha	2019-06-30 07:24:29
+q9ac	將籠林檎 / 𝓓	277	228	カシミール効果は、ミラーに挟まれた真空というセットアップで電磁場の揺らぎを考えることで出てくるミラー間の引力相互作用だが、この真空の部分を電解質(液体)に置き換えてみたらどうなる？という試行。非局所応答があったりイオンがあるおかげで縦モードの寄与がでてくる。 https://t.co/IWHVJCuNVt	2019-06-30 07:17:06
+q9ac	將籠林檎 / 𝓓	277	228	ある断熱的な過程を考えたときそれに付随する幾何学的位相というものがあることはよく知られているが、その断熱過程をロスのある過程にしてみるという設定幾何学的位相を複素数にするとうまく説明できるらしい。 https://t.co/YT8yodCxCI	2019-06-30 07:13:31
+amasawa_seiji	ぬん。	1033	467	論文はこちら。 ⇒/[1901.06028] Pancake making and surface coating: optimal control of a gravity-driven liquid film https://t.co/LssnBOJTfp	2019-06-30 02:42:54
+YamanamiBooks	やまなみ書房	142	155	Phys. Rev. Fluid に掲載された論文はこちら。 https://t.co/KQlDHY9RLy arXivにも上げられています。 https://t.co/S2eCKIVKG6  https://t.co/CCrQSNBaD5	2019-06-30 02:30:07
+daegon137	hsdk bd(炯淳)	1370	2633	最近見た中で一番面白い論文だな。「Magic: The Gathering is Turing Complete」https://t.co/hCIUYqH5X3	2019-06-29 23:53:48
+kazmuzik	Kaz Muzik	735	997	Transformer-XL https://t.co/KQndN7mVDc によって、BERTを超えたという噂のXLNet https://t.co/zRXG66hZBd のPythonの実装 https://t.co/McKw6O1QJ3 https://t.co/jKse9gORtu	2019-06-29 23:39:27
+2StagePey	🌈🧚‍♂️じんぺC	202	146	去年にも最高のピザの焼き方って論文が出たっけwww https://t.co/1GmCRq6dpB https://t.co/Ytxd38erSm	2019-06-29 22:40:50

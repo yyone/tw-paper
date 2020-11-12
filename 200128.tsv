@@ -1,0 +1,718 @@
+user_id	user_name	follower	following	tweet	date
+MizunagiKB	水凪工房	943	281	Google Dataset Search使っていて見つけたもの。  実際の顔とイラストの顔では構造が異なって難しい学習を、ランドマークを使用したCycleGANで行おうというもの。  写真からCartoonへ変換だと思って読んでいたら、ギャルゲ風への変換やその逆もやっていて面白い。  https://t.co/RfHuh8M7wi https://t.co/VuFLsXvjih	2020-01-28 10:07:22
+kotonohano_toko	Yuto Minami	159	154	@masazumi318 リソースあればこれやりたいんですよね https://t.co/IZ501JIeHU	2020-01-28 09:46:39
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-28 06:00:44
+q9ac	將籠林檎 / ブラックマジシャン	389	312	arxivみてたらいちにちが終わった…笑 あとちょびっと議論してたくらい…_(:3」 ∠)_	2020-01-28 05:26:49
+q9ac	將籠林檎 / ブラックマジシャン	389	312	光のアンダーソン局在．系の大きさによらない局在性．   https://t.co/53CyGccrM0	2020-01-28 05:21:59
+q9ac	將籠林檎 / ブラックマジシャン	389	312	量子ドット(QD)-超伝導体 (SC) -量子ドットの系でSC/QDsの界面でアンドレーエフ反射→エンタングルした電子がQDsにトンネルする．QDsは非局所的相互作用ができる．QDs+キャビティにしておくとキャビティ間でフォトンを非局所にやり取りできる．  ピタゴラスイッチみたい．   https://t.co/tk2MiF3i0F	2020-01-28 05:16:38
+q9ac	將籠林檎 / ブラックマジシャン	389	312	サイクリックな発展じゃなくても，幾何学的位相がつくという話がOpticsでは昔からある． 偏光状態を変化させたときにつく位相でPancharatnam phaseと呼ばれている． これと類似の幾何学的位相が弱い電場中の結晶 (周期ポテンシャル) 中の電子に現れるという話．   https://t.co/yhGkUmVJIe	2020-01-28 05:03:45
+q9ac	將籠林檎 / ブラックマジシャン	389	312	量子的なコヒーレンスを使った超解像イメージングに疑問を投げかける．適切にフィッシャー情報量を規格化するとコヒーレント＞インコヒーレントということはない．ただこれはモデルが１次元なので現実的にはあと二つ次元を増やさねばなるまいという言及もあり．   https://t.co/lqxEumfLty	2020-01-28 04:48:08
+q9ac	將籠林檎 / ブラックマジシャン	389	312	トポロジカル絶縁体の薄膜→2つの界面間の相互作用が起こるシチュエーションを想定． この系における集団励起 (plasmonicなモード) の分散関係を計算．  https://t.co/gPpdumqHnB	2020-01-28 04:37:10
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ハイゼンベルグ+ハバード模型→強磁性が出たり反強磁性が出たりする．  ↑経路積分のテクニックで有効ハミルトニアンを出すときにオンサイトのポテンシャルと交換相互作用の強さで有効磁場が変わる   https://t.co/Po1rQ0vRQM	2020-01-28 04:32:55
+q9ac	將籠林檎 / ブラックマジシャン	389	312	トランズモン量子ビットとオプトメカニクスの超強結合．   https://t.co/vXcREaCYy7	2020-01-28 04:20:11
+masazumi318	Masazumi Honda	1260	2850	@etsukoitou @NH_M_ 良さそうな正則化はhttps://t.co/14uHwGrsLa　で提案されています！	2020-01-28 04:01:29
+ultimatile	Tsuji Katabira	2021	1901	つよそうな論文が見つけた  A Theory of Trotter Error https://t.co/r01atVvVhx	2020-01-28 03:56:20
+ultimatile	Tsuji Katabira	2021	1901	tensornetの論文でこんなに数式だらけになるとは…  Field Tensor Network States https://t.co/1zsisl94qD	2020-01-28 03:39:06
+TodayInsane	砂時計	99	97	前の2つを経て半教師ありのfew-shotという世界へと拡張 https://t.co/AxbfZN07cz  Relation Networkが各クエリとsupport setの類似度スコアを計算する補助ネットワークを学習(非線形metricと同意義) https://t.co/mVJnISGGba	2020-01-28 01:41:29
+q9ac	將籠林檎 / ブラックマジシャン	389	312	Jumptime unraveling: 量子系の時間発展をが決定的なものだとしてこれを決められた数だけ途中でジャンプさせる．これをいくつもの「経路」について考えて最後に平均する．これで量子ダイナミクスを追える．  密度行列ダイナミクスを直接解くより計算コストが低くなるらしい   https://t.co/hinn0VWezY	2020-01-28 01:30:52
+TodayInsane	砂時計	99	97	"トップカンファの最新論文、知りたい分野それ自体の前に""Related Work""を参照すればここ数年の良い論文が作ってきた歴史を最短で辿れる  Few-Shot Learningの理解のためにMatching Network(NIPS'16)とPrototypical Networks(NIPS'17)を読んでみる  https://t.co/mB4nOBwiHS https://t.co/gMpidMD60Z"	2020-01-28 01:28:22
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ソフトマター (e.g., 細胞のネットワーク) の構造の変化を追いかけるためにある状態と他方状態の「トポロジカルな距離」を提案．   https://t.co/C3cewbijKi	2020-01-28 01:18:40
+q9ac	將籠林檎 / ブラックマジシャン	389	312	自分でも結構面白いと思うから大量のarxivツイートに乗っけてモッカイ宣伝． https://t.co/Ad8NFfGC6C	2020-01-28 01:11:39
+q9ac	將籠林檎 / ブラックマジシャン	389	312	加速している観測者が感じるウンルー効果の「温度」をエンタングルしたディテクタで観測できるか？加速度が大きいほどフィッシャー情報量が減るのに対して，エンタングルメントはフィッシャー情報量を増やす． というわけでウンルー効果を実際に観測するのは難しいという．   https://t.co/AzXFs1100p	2020-01-28 01:08:59
+q9ac	將籠林檎 / ブラックマジシャン	389	312	関連ありそうな話  曲がった時空に置かれたキュービットのアンサンブル  https://t.co/ntEnbayUkP	2020-01-28 00:57:29
+q9ac	將籠林檎 / ブラックマジシャン	389	312	強相関電子系の文脈で出てくる非エルミートな話と開放系で出てくる非エルミートな話を繋ぐ．   https://t.co/VkuckKm38I	2020-01-28 00:25:00
+q9ac	將籠林檎 / ブラックマジシャン	389	312	Weyl半金属間のCasimir効果．Weylコーンがどのように傾いているかとか化学ポテンシャルの大きさとかでCasimirエネルギーがどう変わるかなど．   https://t.co/m9fpABAskr	2020-01-28 00:09:50
+q9ac	將籠林檎 / ブラックマジシャン	389	312	超伝導転移温度のちょびっと上では，電子系に揺らぎがあって，それゆえにその系のプラズモンはダンピングを受ける．このダンピングを見れば超伝導体内部の揺らぎを間接的に見ることができる．   https://t.co/oKoYIad1bV	2020-01-28 00:06:15
+KwhRd100	kwh_rd100	16	0	アンサンブル密度汎関数理論における個々の相関：追加のコーンシャムシステムなしの状態駆動/密度駆動分解　この分解では、個々のプロパティの抽出に焦点を当て、追加の状態駆動(SD)型コーンシャム(KS)システム参照せず、かつ、本質が密度駆動(DD)部分にあることを示した。https://t.co/GQRHepT0fU	2020-01-28 00:05:17
+QFTlover	T duality	307	216	★後で読む Holography without strings? https://t.co/G3Uou71Tim	2020-01-28 00:01:31
+q9ac	將籠林檎 / ブラックマジシャン	389	312	超伝導体を強磁場中にいれると，超高感度なフォトンカウンタになるらしい．   https://t.co/KN9Ah6GbtT	2020-01-27 23:54:28
+q9ac	將籠林檎 / ブラックマジシャン	389	312	2準位系をスピンと対応づけるなら，superradianceは強磁性，subradianceは反強磁性と捉えることができる．2準位系のチェーン (１次元系) でその周期をうまく設定すると，そのsubradiance状態が発現するという話．   https://t.co/eheSzX0lNN	2020-01-27 23:47:28
+QFTlover	T duality	307	216	後で読む Diffeomorphism invariance and the black hole information paradox https://t.co/Pqub0ZcIfg	2020-01-27 23:47:08
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ハイゼンベルグ描像で開放系(熱浴+量子系+外場駆動)の着目系密度行列のダイナミクスを導く．  ハイゼンベルグ描像では生成消滅演算子が時間依存になる． 他方，密度行列の部分トレースをとったものを数状態で表すと，上の時間依存生成消滅演算子が出てくる．   https://t.co/jnM4U04CgP	2020-01-27 23:42:46
+1789aorhow	まきゃ	497	225	@aoarashi5 https://t.co/XrSIVwcpfP これのこと 実用的とは言えないけど面白かったので	2020-01-27 23:33:15
+q9ac	將籠林檎 / ブラックマジシャン	389	312	キャビティ中で量子光学的効果によって化学反応が促進されるという話をチュートリアル的にレビューしたもの．  フォトン数が多いことだけでなく，モードボリュームが絞られることいかに重要かを思い知ったのがキャビティ中の化学反応の事聞いたときだったなあ．  https://t.co/Q6doIFSFa2	2020-01-27 23:24:46
+import_godiva	Godiva	1171	1467	YoLoの良いところ：Twitterしまくってたら論文が生えているところ． &gt; I didn’t do a whole lot of research this year. Spent a lot of time on Twitter. https://t.co/6apSS5zXj9	2020-01-27 23:23:34
+yoshi_and_aki	Yoshi-aki Shimada	849	1057	超伝導量子コンピュータの命令セット。タイトルに惹かれてナナメ読み。どうやらDensity matrix exponentiation（例によって定訳不明だが、密度行列をeの肩にのせてユニタリ行列で近似するテク）で量子命令セットをフェッチ（してないかも）して量子回路にデコードする感じ。　https://t.co/aXwefTS6Ch	2020-01-27 23:22:16
+keno_ss	keno	502	740	https://t.co/bcnwaLAR4o Linear Haskell のやつ.	2020-01-27 23:19:21
+AkiraTOSEI	akira	945	1387	https://t.co/jrbxcmkVoL 既存のあらゆるテクニックを組み合わせて、EfficientNet B6+AutoAugと同等程度の精度で5倍早いネットワークを構築した研究。著者たちがいうにはAugMix等の最新のものはここでは使ってないので、まだ精度があがる可能性があるとのこと。 https://t.co/JiZfze41d7	2020-01-27 22:55:47
+AkiraTOSEI	akira	945	1387	https://t.co/38HYdlbiO5 MaxPooling等のDownsampling手法は、画素上だとshift invariantにならないため、CNNの出力が位置ずれに対して頑健性がなかった。そのため、donwsamplingの過程で、anti-aliasing処理を入れること(BlurPool)により、shift invariant性を持たせる。 https://t.co/TIEwhY9bKi	2020-01-27 22:54:43
+betadecaynpev	エニオン	58	292	@mon44382843 ありがとうございます！ これがその論文っぽいです！ https://t.co/hZHHH49Jld  ざっと読んでみましたがその手法まではよくわかりませんでしたごめんなさい... でも色々面白いこと書いてありそうなので是非！ (よわよわなので何かわかったら教えてくれると嬉しいです🙇‍♂️)	2020-01-27 22:24:37
+YasuharuNishi	Yasuharu NISHI	2775	227	今日ご質問を頂いた時に見つけきれなかった、AI/MLのテストのサーベイ論文はこちら：https://t.co/LBNeZ2toZx	2020-01-27 22:16:44
+sasa3341	佐々真一	7334	221	今年度最後の研究室セミナー：任意発表の回だったが、https://t.co/CbhSztZ8un　の論文紹介があった。（証明は抜きで）主張だけ理解したが、大変面白かった。こんなことが言えるとは驚きだった。（アブストはみたことあったが、明らかにおかしいと思ってDL してなかった。）何か考えたくなるなぁ。	2020-01-27 21:20:16
+dryukishiomi	dryukishiomi	14	0	L.-D. Yuan et al. ArXiv:1912.12689   ④ We see that, electron spins are mostly aligned along the out-of-plane z direction, as can be surmised from the magnetic structure (see Figure 1(a)).   Surmise 推量する	2020-01-27 21:17:55
+dryukishiomi	dryukishiomi	14	0	L.-D. Yuan et al. ArXiv:1912.12689  ③ ..., nor did it provide for guiding principles to select a target material for investigating such effects, examination of these 1964 ideas1 remained dormant for a long time.   Dormant 休止状態の	2020-01-27 21:17:34
+dryukishiomi	dryukishiomi	14	0	L.-D. Yuan et al. ArXiv:1912.12689  ② These seminal studies have formed the basis for the development of spintronics, bringing k-dependent spin-orbit interaction to the forefront of solid-state physics, ...   Seminal 影響力の大きい	2020-01-27 21:17:05
+dryukishiomi	dryukishiomi	14	0	L.-D. Yuan et al. ArXiv:1912.12689  ①  It envisions that the antiferromagnetic induced spin-split energy bands would be beneficial for efficient spin-charge conversion and spin orbit torque applications ...   Envision 想像する	2020-01-27 21:16:33
+mrsk_yk	Yk Mrsk	131	326	@Yobinori arXivは無料で先行論文を読めるので、僕も助かってます。	2020-01-27 21:08:22
+MedicalAIkun	あいくん	203	171	久しぶりにarXiv(アーカイブ)で医学論文を検索してる笑  ディープラーニングの応用で有名なGAN(敵対的生成ネットワーク)を脳神経分野に応用したやつでいろいろ出てきますね笑  この分野成長速度早すぎてやばい笑  #ディープラーニング  #敵対的生成ネットワーク #駆け出しエンジニアと繋がりたい https://t.co/Az3Ji7wN5v	2020-01-27 21:08:07
+q9ac	將籠林檎 / ブラックマジシャン	389	312	オプトマグノニックな系 (マグノンを介する誘導ラマン散乱がある系) でコヒーレントなマグノンを大量に作っちゃう話   https://t.co/orelKTbA6T	2020-01-27 21:00:17
+_mshr_h_	ま	199	55	めっちゃよい / » Arxiv Sanity Preserver https://t.co/7B8qp42FJ4	2020-01-27 20:45:03
+q9ac	將籠林檎 / ブラックマジシャン	389	312	格子模型の上でのLindblad方程式とか，それの非エルミートな可積分系へのマッピングとか．  かっこいいキーワードが並んでて楽しそうだーってなる() けど開放系のことチョロチョロとは勉強してるからこういうの読んでみたいなあってなる．   https://t.co/0Sfrn06jY5	2020-01-27 20:04:39
+q9ac	將籠林檎 / ブラックマジシャン	389	312	超伝導体のオーダーなどで知られる量子ネマティックオーダーは古典的な液晶のアナロジーになってる．そのオーダーパラメータを一般の量子系 (例えばフェルミ液体とかスピン系とか) に使えるような処方箋．  https://t.co/lEpkyH2fJr	2020-01-27 20:00:39
+q9ac	將籠林檎 / ブラックマジシャン	389	312	導波路中にキュービットのアレイをおいて置くと，二光子過程を通じて，一方の光子が作る定在波の節に他方の光子が局在する．  設定自体はただのキュービットのアレイでDickeモデルと設定はほとんど変わらないけれども，非線形な過程を入れるだけで，リッチになるなあ．  https://t.co/t2NxoNQzXV	2020-01-27 19:56:16
+c_bata_	Masashi Shibata	1272	232	CMA-ES大体理解できた気がするからPythonで実装してみたけど、全然バグがとれない... デバッグ用のvisualizerつくって頑張ってみる https://t.co/SKZp0umHxv	2020-01-27 19:53:37
+q9ac	將籠林檎 / ブラックマジシャン	389	312	量子系の広義の等温過程における仕事，散逸，エントロピー生成について． 量子バージョンの揺動散逸関係など．  https://t.co/SPzIDZSPHB	2020-01-27 19:50:19
+YoSayTouchGot	ジョンお兄さん改	123	139	今日既に3件くらいarXivに上げた論文に対する反応・メールがあって、ちゃんとみんな読んでくれているんだなと嬉しい限り。。  今回のやつは、自分で気になったことを勉強して、自分の興味あることをひたすら調べてそのまま論文にしたやつなので、思い入れも強い	2020-01-27 19:49:02
+hanaco117	babahr	97	144	論文紹介枠は素粒子現象論の東大D3の方です！内容はhttps://t.co/jdlsx3kBuq の軽い暗黒物質と宇宙の構造形成の研究にNNを用いたご自身の研究を紹介していただきます。天文していた身としてもとても楽しみです…！  Machine Learning and Physics Bridge vol.1 https://t.co/W3jXGwZWMu #MLPBridge	2020-01-27 19:17:17
+q9ac	將籠林檎 / ブラックマジシャン	389	312	TMDバイレイヤー中でのエキシトンの凝縮とその超流動な状態が運ぶスピン流  https://t.co/ZkU6nmkAkI	2020-01-27 19:14:57
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ねじれバイレイヤーグラフェンが円偏光二色性を示す．赤外領域にあるピークはねじれ角で調整可能らしい．  赤外域のスペック高めの光源とか検出器が出てくるような時代で，振動分光の機運が高まってるなあって感じする．   https://t.co/u1yz8uyhnB	2020-01-27 18:58:51
+q9ac	將籠林檎 / ブラックマジシャン	389	312	音波によって作られた格子歪みが電磁場擬きになってこれがWeyl/Dirac半金属中で電流を生じるという話．  昔友人がこんなことをやろうとしてた気がするなあ．やる気なくしたって言ってたけど笑  https://t.co/ONE98Iv1kk	2020-01-27 18:56:07
+1Sei8	∬ せいや@Python	196	315	このサイト普段から利用してるってなったらめっちゃカッコいいのに。理系として。 https://t.co/SdCK8zcHub	2020-01-27 18:47:30
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ここ４年間のCasimir効果まわりの研究 (実験&amp;理論) のレビュー．  Firstの著者さんは割と昔からCasimir界隈で色々仕事してる人なので信用できそう．読む．  https://t.co/9A0XecXUkc	2020-01-27 18:40:16
+re_hako_moon	はこつき＠VR	432	496	https://t.co/CJavXPoaIF RNNによって点群シーケンスを処理するネットワークPointRNNを提案、次時刻の点群を予測する。RNNのStateとして点の座標を持ち、このState点群に対するRadius NNで現時刻の入力点群から近傍点を選択し、固定数をランダムにサンプリング、Shared MLP+PoolingでStateを更新。	2020-01-27 18:30:02
+morinomichi_311	森の未知@㌠גודזילה	1196	512	arXivに既に出したプレプリント、結構大きめのケアレスミスがあって修正が大変だった。 「結構大きめのケアレスミス」というのは記法の揃え方系のミスで、修正箇所が複数になって修正が大変。	2020-01-27 18:25:31
+upura0	u++	13653	8935	圧のあるタイトルだ  Is BERT Really Robust? A Strong Baseline for Natural Language Attack on Text Classification and Entailment https://t.co/pK3aCMA2sx	2020-01-27 18:24:43
+earlylifely	あのいのうえ	223	232	一般物体認識は本当に一般的か？という命題を世界規模で検証したFacebookの論文。 結果として地理＆所得レベルの差によりAcuracyで20％弱の違いがあることが判明。 途上国で事故りやすいAIとかはあってはいけないので、大切な目線。 https://t.co/7udcTprfLZ	2020-01-27 18:18:47
+upura0	u++	13653	8935	（最近Kaggleでも時折見る）Transformerベースの機械学習モデルを使用した時系列データ予測。ケーススタディとしてインフルエンザ疾患の予測に取り組み、性能を評価している。  Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case https://t.co/L7V3evBSJX	2020-01-27 17:54:24
+q9ac	將籠林檎 / ブラックマジシャン	389	312	フリーホールの中にCasimir effectが起こる装置 (ミラー二枚を向かい合わせて置いたもの) を落とすと，通常はミラーが引き合うのに対して，振動するらしい．  うーん，非平衡な系は面白いなあ．加速系が感じるウンルー効果みたいなのが関係しているのだろうか．  https://t.co/Ol2WRKZ8xD	2020-01-27 17:32:17
+skitoy4321	skitoy4321	111	89	ただし、Buffers.Text.Base64の方はbytes to bytesのみなので、stringとして使いたい場合は Encoding.GetString()が必要になるので注意。 ちなみに理論部分は、ざっと見たところやはり https://t.co/IAYNVb9hpL のアルゴリズムを使っている模様	2020-01-27 17:30:29
+q9ac	將籠林檎 / ブラックマジシャン	389	312	スキルミオンのブラウン運動を使った乱数発生．めっちゃいいランダムネスらしい．   https://t.co/HSxLU9ruoB	2020-01-27 17:26:31
+11point2km_s	arai_beta	151	104	混合整数非凸最適制御問題を無損失凸化(lossless convexification)により、凸最適化でグローバル最適解を求める、(知りうる限り)最初の論文  まだまだこの辺り熱い分野だね  https://t.co/LlDpfpXnVS	2020-01-27 17:17:08
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ハイゼンベルグの交換関係→ローレンツ群と同型→二種類の交換関係持ってくる→Diracの2つの調和振動子の話になる→ド・ジッター群と同型→ローレンツ共変な世界→E=mc^2が出てくる  https://t.co/CBZ8DqDpjA	2020-01-27 16:57:08
+rasu_k	rasu-k	1552	1670	arXivを開いてるからと言ってarXivを読んでるとは限らないぞい	2020-01-27 16:54:50
+PmoXNlGzlKzvoDm	Salmon	3	18	arXivに出した論文に引用つくと査読者の印象よくなると思うけどどのくらい効果あるのかな	2020-01-27 16:31:18
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-27 16:00:44
+q9ac	將籠林檎 / ブラックマジシャン	389	312	超伝導体とスピン軌道相互作用が強い媒質の界面付近でマヨラなゼロモードができる．これをトンネル電子顕微鏡でダイレクトに観測したという話  https://t.co/U8LhJ3lodB	2020-01-27 15:38:09
+q9ac	將籠林檎 / ブラックマジシャン	389	312	電子密度と系の基底状態を対応付るHohenberg-Kohn mapを機械学習で習得できるか？という研究． 量子相転移があるような場合は学習が難しいらしい．  そういう文脈があるが故に量子CNNとか出てきてるわけなんだなあまる  https://t.co/4Ng22I9bNG	2020-01-27 15:35:01
+q9ac	將籠林檎 / ブラックマジシャン	389	312	例外点における電磁誘導透明化 (EIT) の実験と理論．  https://t.co/1EvDHLGHCY	2020-01-27 15:31:10
+q9ac	將籠林檎 / ブラックマジシャン	389	312	振動するミラー付近に置かれたemitterからの蛍光．時間依存摂動で，ミラーの振動速度が遅い極限での計算．スペクトルに静的なミラーの場合はなかった二つのピークが現れる．  ドップラーシフト的なことが起こるわけだなあ   https://t.co/TK9lT62dmk	2020-01-27 15:26:36
+q9ac	將籠林檎 / ブラックマジシャン	389	312	熱は高温→低温に流れるのが普通だが，エンタングルメントがあるとその限りでなく，熱の流れる向きが逆転することがあるよというお話．  マクスウェルの悪魔的な話だなあ   https://t.co/BHa0tzrgpL	2020-01-27 15:20:54
+phys_mmc_2007	Ryosuke Kurihara	61	45	共著になってるやつがarXivに載ってた [2001.08683] Bulk quantum Hall effect of spin-valley-coupled Dirac fermions in a polar antiferromagnet BaMnSb$_2$ https://t.co/Vpcta9SHj4	2020-01-27 14:33:00
+SfumatoAMR	kuma-cha	455	317	とりあえず週1で arxiv 速報をすることにした。	2020-01-27 14:28:57
+q9ac	將籠林檎 / ブラックマジシャン	389	312	arXivチェックがどんどん遅れている_(:3」 ∠)_1日気合を入れて2ヶ月分くらい頑張って追いつかなければなるまい	2020-01-27 14:15:18
+q9ac	將籠林檎 / ブラックマジシャン	389	312	はじめてのセカンド論文。  表面の微細構造が系の電磁場の零点エネルギーを低下させ、不安定性を引き起こすことを示しました。  https://t.co/XvzI8rQ6V0	2020-01-27 14:14:33
+life_wont_wait	Q	2170	57	なぜストロミンジャ〜が？/Universal Polarimetric Signatures of the Black Hole Photon Ring https://t.co/hoqiU7yyDm	2020-01-27 13:24:18
+tmaehara	™ 🔰	7513	721	最悪 arxiv に出せばいいんだけど，国際的知名度少ない勢としては上位会議・上位論文誌に出すのが一番簡単に周知できるので．	2020-01-27 13:00:12
+tanakafreelance	タナカケンタ	64	3	「MCMCでありがちな誤解について」archivに投稿したそうです。 https://t.co/tUJAD0a1g5 https://t.co/6VEXEDpnJk	2020-01-27 12:52:24
+nnobuya	N. Nishimura	555	434	興味深げ。https://t.co/OAABJEggz2	2020-01-27 12:38:59
+YoSayTouchGot	ジョンお兄さん改	123	139	arXiv出せました！  内容としては、 ①量子開放系と強相関電子系において別々の手法で導入されていた非エルミート有効ハミルトニアンが一致することを、強相関電子系の模型を量子開放系のフォーマリズムを用いて記述することで、示しました。(続く)  https://t.co/mMSrfSpStj	2020-01-27 12:38:36
+tjmlab	部品（本田翼）	2916	333	Three-dimensional electronic structure in ferromagnetic Fe3Sn2 with breathing kagome bilayer  磁性ワイル半金属ぽいFe3Sn2のバルク-表面敏感アルペス|･ω･｀)ﾌﾑﾌﾑ In this letter〜だから、PRL狙いなのかな？  https://t.co/Dv1gk9KH2N	2020-01-27 12:34:30
+tjmlab	部品（本田翼）	2916	333	SquidLab -- a user-friendly program for background subtraction and fitting of magnetization data  磁化率のバックグラウンドを引いてくれるソフトウェア: イカ研(´・∀・｀)ﾍｰ  https://t.co/oy6Oc2HbSM	2020-01-27 12:32:07
+active_galactic	ACTIVE GALACTIC	4132	2173	新型コロナウイルスの研究速度が凄まじいと主張するには，その業界のスケジュール感が示される必要があると考えている。物理の一部のように，インシデント（超光速ニュートリノとか）が発生したら一晩で誰かがarxivに投げ込み10日も経つ頃には100以上のペーパーが百家争鳴している業界もあるので。	2020-01-27 12:23:39
+arXiv_reaDer	arXiv reaDer bot	86	0	Nonparametric Structure Regularization Machine for 2D Hand Pose Estimation 2D手姿勢推定のためのノンパラメトリック構造正則化マシン  2020-01-24T03:27:32+00:00  arXiv: https://t.co/XMHgnsFfgE 英/日サマリ↓ https://t.co/h1trrX9GX4	2020-01-27 11:55:34
+arXiv_reaDer	arXiv reaDer bot	86	0	RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation RatLesNetv2：げっ歯類の脳病変セグメンテーションのための完全な畳み込みネットワーク  2020-01-24T18:40:39+00:00  arXiv: https://t.co/OKVbXfxeFa 英/日サマリ↓ https://t.co/Uycx7PwDrF	2020-01-27 11:55:14
+arXiv_reaDer	arXiv reaDer bot	86	0	A Branching and Merging Convolutional Network with Homogeneous Filter Capsules 均一なフィルタカプセルを使用した分岐およびマージ畳み込みネットワーク  2020-01-24T18:37:41+00:00  arXiv: https://t.co/SvH42CXunL 英/日サマリ↓ https://t.co/M4n8ipav0Y	2020-01-27 11:54:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Derivative Manipulation For Adjusting Emphasis Density Function: A General Example Weighting Framework 強調密度関数を調整するための微分操作：一般的な例の重み付けフレームワーク  2020-01-24T17:41:29+00:00  arXiv: https://t.co/YkwkckXSyx 英/日サマリ↓ https://t.co/HTv2hmsQeQ	2020-01-27 11:54:34
+arXiv_reaDer	arXiv reaDer bot	86	0	TVR: A Large-Scale Dataset for Video-Subtitle Moment Retrieval TVR：ビデオ字幕のモーメント検索のための大規模データセット  2020-01-24T17:09:39+00:00  arXiv: https://t.co/VYZFV8wkNf 英/日サマリ↓ https://t.co/fyFKkdRxFM	2020-01-27 11:54:14
+arXiv_reaDer	arXiv reaDer bot	86	0	SceneEncoder: Scene-Aware Semantic Segmentation of Point Clouds with A Learnable Scene Descriptor SceneEncoder：学習可能なシーン記述子による点群のシーン対応セマンティックセグメンテーション  2020-01-24T16:53:30+00:00  arXiv: https://t.co/33o25PayOj https://t.co/mRhkfpBbsG	2020-01-27 11:53:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Archetypal Analysis ディープアーキタイプ分析  2020-01-24T16:37:27+00:00  arXiv: https://t.co/wC4Lr30dj3 英/日サマリ↓ https://t.co/YYURGBKnv1	2020-01-27 11:53:34
+arXiv_reaDer	arXiv reaDer bot	86	0	A Nonconvex Projection Method for Robust PCA ロバストPCAのための非凸投影法  2020-01-24T16:20:55+00:00  arXiv: https://t.co/AD0bpePfZT 英/日サマリ↓ https://t.co/QAxTHEkjRK	2020-01-27 11:53:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Non-Line-of-Sight Reconstruction 深い非見通しの再構築  2020-01-24T16:05:50+00:00  arXiv: https://t.co/oCA17fGAXZ 英/日サマリ↓ https://t.co/eywK6P0BFU	2020-01-27 11:52:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Feeding the zombies: Synthesizing brain volumes using a 3D progressive growing GAN ゾンビに餌をやる：3Dプログレッシブ成長GANを使用して脳ボリュームを合成する  2020-01-24T15:59:48+00:00  arXiv: https://t.co/aTl8Cq2a0Q 英/日サマリ↓ https://t.co/W8xKGTSFiL	2020-01-27 11:52:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Kernel of CycleGAN as a Principle homogeneous space 原理均質空間としてのCycleGANの核  2020-01-24T15:47:12+00:00  arXiv: https://t.co/3aZ4GvmoLk 英/日サマリ↓ https://t.co/Fsfnb0Imep	2020-01-27 11:52:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Street Scene: A new dataset and evaluation protocol for video anomaly detection Street Scene：ビデオ異常検出のための新しいデータセットと評価プロトコル  2020-01-24T15:25:39+00:00  arXiv: https://t.co/rYCwO5IYj2 英/日サマリ↓ https://t.co/WByd0a2usX	2020-01-27 11:51:54
+arXiv_reaDer	arXiv reaDer bot	86	0	PDE-based Group Equivariant Convolutional Neural Networks PDEベースのグループ等価バリアントたたみ込みニューラルネットワーク  2020-01-24T15:00:46+00:00  arXiv: https://t.co/GG1AfmLSGh 英/日サマリ↓ https://t.co/Pq60m27lma	2020-01-27 11:51:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Improving Visual Relation Detection using Depth Maps デプスマップを使用した視覚的関係の検出の改善  2020-01-24T15:00:23+00:00  arXiv: https://t.co/nryHyQGwvc 英/日サマリ↓ https://t.co/TwYNRjakv7	2020-01-27 11:51:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Discrete graphical models -- an optimization perspective 離散グラフィカルモデル-最適化の観点  2020-01-24T14:01:50+00:00  arXiv: https://t.co/5r14dPJWXu 英/日サマリ↓ https://t.co/Wkn4WFjQas	2020-01-27 11:50:54
+arXiv_reaDer	arXiv reaDer bot	86	0	SOLAR: Second-Order Loss and Attention for Image Retrieval SOLAR：二次損失と画像検索の注意  2020-01-24T12:54:23+00:00  arXiv: https://t.co/OJbT2iBgKO 英/日サマリ↓ https://t.co/WbwmfA8ga5	2020-01-27 11:50:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Unsupervised Learning Methods for Visual Place Recognition in Discretely and Continuously Changing Environments 離散的かつ継続的に変化する環境での視覚的場所認識のための教師なし学習方法  2020-01-24T12:23:15+00:00  arXiv: https://t.co/RsF5IfGnyT https://t.co/H2J1xjH2PK	2020-01-27 11:50:14
+arXiv_reaDer	arXiv reaDer bot	86	0	An Explicit Local and Global Representation Disentanglement Framework with Applicat ... ディープクラスタリングと教師なしオブジェクト検出のアプリケーションを使用した明示的ローカルおよびグローバル表現のもつれ解除フレームワーク  arXiv: https://t.co/RujGl3qY9f https://t.co/58W6COMxbQ	2020-01-27 11:50:01
+arXiv_reaDer	arXiv reaDer bot	86	0	LS-Net: Fast Single-Shot Line-Segment Detector LS-Net：高速シングルショットラインセグメント検出器  2020-01-24T11:39:00+00:00  arXiv: https://t.co/aDb5zeK9hb 英/日サマリ↓ https://t.co/etuAj0adWu	2020-01-27 11:49:34
+arXiv_reaDer	arXiv reaDer bot	86	0	A Hybrid Approach to Temporal Pattern Matching 時間的パターンマッチングへのハイブリッドアプローチ  2020-01-24T11:22:10+00:00  arXiv: https://t.co/cWyvIaNfbu 英/日サマリ↓ https://t.co/s7kw49iQct	2020-01-27 11:49:14
+arXiv_reaDer	arXiv reaDer bot	86	0	6D Object Pose Regression via Supervised Learning on Point Clouds 点群の教師あり学習による6Dオブジェクトポーズ回帰  2020-01-24T10:29:54+00:00  arXiv: https://t.co/HmFUF0oJu0 英/日サマリ↓ https://t.co/z7R54mywQB	2020-01-27 11:48:54
+arXiv_reaDer	arXiv reaDer bot	86	0	An Adaptive Random Path Selection Approach for Incremental Learning 漸進的学習のための適応ランダム経路選択アプローチ  2020-01-24T07:09:38+00:00  arXiv: https://t.co/Uw7Dvq6frc 英/日サマリ↓ https://t.co/uNtbTFNePQ	2020-01-27 11:48:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Small, Accurate, and Fast Vehicle Re-ID on the Edge: the SAFR Approach エッジでの小型で正確かつ高速な車両の再ID：SAFRアプローチ  2020-01-24T06:07:17+00:00  arXiv: https://t.co/D9ZXOa6crE 英/日サマリ↓ https://t.co/02sf8gIY6Q	2020-01-27 11:48:14
+arXiv_reaDer	arXiv reaDer bot	86	0	FakeSpotter: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces FakeSpotter：AIで合成された偽の顔を見つけるためのシンプルかつ堅牢なベースライン  2020-01-24T06:02:29+00:00  arXiv: https://t.co/oEoYSzBZ0k 英/日サマリ↓ https://t.co/Z5WifF45T2	2020-01-27 11:47:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Character-independent font identification 文字に依存しないフォント識別  2020-01-24T05:59:53+00:00  arXiv: https://t.co/lXqhe9Sct4 英/日サマリ↓ https://t.co/dfFdxIkIDE	2020-01-27 11:47:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Progressive Local Filter Pruning for Image Retrieval Acceleration 画像検索の高速化のためのプログレッシブローカルフィルタプルーニング  2020-01-24T04:28:44+00:00  arXiv: https://t.co/2kZdRs9AzG 英/日サマリ↓ https://t.co/JN8gitfYxZ	2020-01-27 11:47:14
+arXiv_reaDer	arXiv reaDer bot	86	0	SPSTracker: Sub-Peak Suppression of Response Map for Robust Object Tracking SPSTracker：堅牢なオブジェクト追跡のための応答マップのサブピーク抑制  2020-01-24T04:11:26+00:00  arXiv: https://t.co/FlgyRU9du7 英/日サマリ↓ https://t.co/9mFCTn2f9R	2020-01-27 11:46:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Stochastic Optimization of Plain Convolutional Neural Networks with Simple methods 単純な方法によるプレーン畳み込みニューラルネットワークの確率的最適化  2020-01-24T01:20:59+00:00  arXiv: https://t.co/LvJZeZx6z5 英/日サマリ↓ https://t.co/vRuC7y4BTs	2020-01-27 11:46:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Plant Stem Segmentation Using Fast Ground Truth Generation 高速グラウンドトゥルース生成を使用した植物の茎のセグメンテーション  2020-01-24T00:22:14+00:00  arXiv: https://t.co/WAaTE7pK3v 英/日サマリ↓ https://t.co/zvRUUtSTyI	2020-01-27 11:46:24
+arXiv_reaDer	arXiv reaDer bot	86	0	Brain Tumor Classification Using Deep Learning Technique -- A Comparison between Cropped, Uncropped, and Segme ... 深層学習手法を使用した脳腫瘍の分類-異なるサイズの切り取った、切り取っていない、セグメント化した病変画像の比較  arXiv: https://t.co/SZPX5D0rx3 https://t.co/ay1TUZS7xs	2020-01-27 11:46:23
+arXiv_reaDer	arXiv reaDer bot	86	0	DSNet: Automatic Dermoscopic Skin Lesion Segmentation DSNet：自動ダーモスコープ皮膚病変セグメンテーション  2020-01-23T22:06:47+00:00  arXiv: https://t.co/EBeoyFpvJU 英/日サマリ↓ https://t.co/0ggYd9OzkX	2020-01-27 11:45:58
+arXiv_reaDer	arXiv reaDer bot	86	0	Localization of Critical Findings in Chest X-Ray without Local Annotations Using Multi-Instance Learning マルチインスタンス学習を使用した局所注釈のない胸部X線の重要な所見の局在化  2020-01-23T21:29:14+00:00  arXiv: https://t.co/GacctgaaKi 英/日サマリ↓ https://t.co/yO1rWsiGmq	2020-01-27 11:45:50
+arXiv_reaDer	arXiv reaDer bot	86	0	Trained Rank Pruning for Efficient Deep Neural Networks 効率的なディープニューラルネットワークのための訓練されたランクプルーニング  2020-01-23T21:01:43+00:00  arXiv: https://t.co/RfpAk20AXv 英/日サマリ↓ https://t.co/oK5vRmibjn	2020-01-27 11:45:45
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Bayesian Network for Visual Question Generation 視覚的質問生成のためのディープベイジアンネットワーク  2020-01-23T19:37:20+00:00  arXiv: https://t.co/MINliGBKtS 英/日サマリ↓ https://t.co/IjA6GQFtaP	2020-01-27 11:45:39
+arXiv_reaDer	arXiv reaDer bot	86	0	Cloud-Net+: A Cloud Segmentation CNN for Landsat 8 Remote Sensing Imagery Optimized with Fil ... Cloud-Net +：フィルター処理されたジャカード損失関数で最適化されたLandsat 8リモートセンシング画像のクラウドセグメンテーションCNN  arXiv: https://t.co/VDaz6srSLf https://t.co/suWxw6wqUK	2020-01-27 11:45:38
+arXiv_reaDer	arXiv reaDer bot	86	0	Reducing the Representation Error of GAN Image Priors Using the Deep Decoder Deep Decoderを使用したGAN画像事前分布の表現エラーの削減  2020-01-23T18:37:24+00:00  arXiv: https://t.co/fY3W8fIkX4 英/日サマリ↓ https://t.co/HB10F9UYGU	2020-01-27 11:45:31
+arXiv_reaDer	arXiv reaDer bot	86	0	Compressive MRI quantification using convex spatiotemporal priors and deep auto-encoders 凸時空事前分布とディープオートエンコーダーを使用した圧縮MRI定量化  2020-01-23T17:15:42+00:00  arXiv: https://t.co/fgzcqbDxl3 英/日サマリ↓ https://t.co/6htTBw50sP	2020-01-27 11:45:26
+arXiv_reaDer	arXiv reaDer bot	86	0	Fast Dense Residual Network: Enhancing Global Dense Feature Flow for Text Recognition 高速高密度残留ネットワーク：テキスト認識のためのグローバル高密度機能フローの強化  2020-01-23T06:55:08+00:00  arXiv: https://t.co/26VqREzaCw 英/日サマリ↓ https://t.co/85a0VteHHE	2020-01-27 11:45:20
+arXiv_reaDer	arXiv reaDer bot	86	0	Text Extraction and Restoration of Old Handwritten Documents 古い手書き文書のテキスト抽出と復元  2020-01-23T05:42:39+00:00  arXiv: https://t.co/5r0F6YPc78 英/日サマリ↓ https://t.co/UT0Eo5tLRa	2020-01-27 11:45:17
+arXiv_reaDer	arXiv reaDer bot	86	0	BLK-REW: A Unified Block-based DNN Pruning Framework using Reweighted Regularization Method BLK-REW：Reweighted Regularization Methodを使用した統合ブロックベースのDNNプルーニングフレームワーク  2020-01-23T03:30:56+00:00  arXiv: https://t.co/wEiZgZGpg6 https://t.co/hyUbnca1kK	2020-01-27 11:45:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Using a Generative Adversarial Network for CT Normalization and its Impact on Radiomic Features CT正規化のための生成的敵対ネットワークの使用とその放射特性への影響  2020-01-22T23:41:29+00:00  arXiv: https://t.co/VU2pCPt0K1 英/日サマリ↓ https://t.co/kTOTb6PtXM	2020-01-27 11:45:14
+shoda_munehito	SHODA Munehito	76	168	Parker Solar Probe 初期成果の最大の謎 magnetic switchback の理論モデル論文がもうarXivにあがってた。なんてこった速すぎる。 https://t.co/3RhVJYLKRn	2020-01-27 11:38:20
+arXiv_reaDer	arXiv reaDer bot	86	0	Information Compensation for Deep Conditional Generative Networks 深い条件付き生成ネットワークの情報補償  2020-01-24T12:00:10+00:00  arXiv: https://t.co/jnBpbkniY6 英/日サマリ↓ https://t.co/LetcmkOuvA	2020-01-27 11:30:24
+arXiv_reaDer	arXiv reaDer bot	86	0	DCT-Conv: Coding filters in convolutional networks with Discrete Cosine Transform DCT-Conv：離散コサイン変換を使用した畳み込みネットワークのフィルターのコーディング  2020-01-24T13:54:04+00:00  arXiv: https://t.co/EjJinAD4i0 英/日サマリ↓ https://t.co/K9sbfDU37x	2020-01-27 11:30:22
+arXiv_reaDer	arXiv reaDer bot	86	0	Trained Rank Pruning for Efficient Deep Neural Networks 効率的なディープニューラルネットワークのための訓練されたランクプルーニング  2020-01-23T21:02:36+00:00  arXiv: https://t.co/EtyauQYBqr 英/日サマリ↓ https://t.co/g0lZGazEbd	2020-01-27 11:30:21
+arXiv_reaDer	arXiv reaDer bot	86	0	GTNet: Generative Transfer Network for Zero-Shot Object Detection GTNet：ゼロショットオブジェクト検出用の生成転送ネットワーク  2020-01-24T13:27:36+00:00  arXiv: https://t.co/G0UV2IFvXh 英/日サマリ↓ https://t.co/sYKmvHBCj9	2020-01-27 11:30:19
+tomoyapp	T. Kitani	1138	399	今回サーベイして見つけた．英語のアカデミックライティングするときは短縮形は使わないように努めていたけど，YOLOの最初の論文とか n't 使いまくってるなぁと．だから内容が悪いってことではないし，この一例をもって使ってもいいんだとも思ってないけど． https://t.co/I28vth2Tiw	2020-01-27 11:24:37
+nogucchi36	のぐっち	34	24	Three-dimensional electronic structure in ferromagnetic Fe3Sn2 with breathing kagome bilayer. https://t.co/pyVcoiOQTI ブリージングカゴメ積層構造を持つ強磁性体Fe3Sn2における三次元電子構造	2020-01-27 11:22:45
+pC3LlPBS06Pah3U	かず	107	129	https://t.co/2ShVKGDRpG おー、新作出てる	2020-01-27 11:05:03
+owatank	やみぽっぽ	142	121	Happy Birthday, Ultra-Cold Neutron! https://t.co/y5RezIhLGp なんかみっけた	2020-01-27 10:29:19
+kashima_ctrl	Kenji Kashima	163	37	{x(n)}_nのソーティングの定式化、nが離散値だと自明だけど、nが連続値だとこんなにエグいのか。当たり前のことを表現しているEq.(2)のoverkill感がすごい。https://t.co/fDG3UiXzot	2020-01-27 09:08:14
+hennin_ltn	秒速0.00000000198センチメートル	2121	5000	Google ScolarかarXivで検索くらいしか手段を知らない	2020-01-27 07:23:46
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-27 04:00:44
+_K_IS_	黒猫のΔ	199	318	あんまよく知らないんだけど、arXivって出版社の著作権的には厳密にはどうなってるん？	2020-01-27 03:31:50
+rinne03280822	☆Hiro☆	29	68	@Yobinori 学術論文が有料だということすら知らなかった…汗 ついでにarXivがアーカイブだということをさっき調べて知った…汗 知らないことが多すぎて…汗が吹き出してとまらない…多汗 知る機会を与えてくださりありがとうございます！また勉強になりました！ ちなみに…おいくらぐらいするんですか？	2020-01-27 03:09:23
+yupeji	卒論芸人	520	505	エッジが効きてくると書いてるもの参考文献がarXivみたいな査読付いてない際どいものになって、マジ卍	2020-01-27 02:49:04
+khiro	Hiroki Kuzuno	109	93	@Shin1Miyazawa ARM Pointer Authentication for Linux kernel に関しては https://t.co/aRucfuUDDk は参考になりました。OROM Sandbox は UEFI での Usrspace device driver みたいですね。	2020-01-27 01:49:30
+Yobinori	ヨビノリたくみ😬	67069	10248	大学に在籍してないからほとんどの学術論文に(無料では)アクセスできないんだけど、少なくとも物理系ではタイトルで検索かければだいたいarXivで読めるので助かる。はやく全部オープンアクセス化してくれ	2020-01-27 01:43:52
+koshian2	🔞こあん	2609	2501	Colabくんがあまりに訓練ボイコットするもんだからこれ実装してるんだけど、実装はできるんだけどなにやってるんだかわからないという初パターンだな　https://t.co/MK5nVnw4Uv	2020-01-27 00:52:59
+shion_honda	Shion Honda	2111	258	ImageBERT [Qi+, 2020] Image-text retrievalができるようにBERTを拡張した。画像からFaster-RCNNで検出した物体の集合とキャプションが対応するかの判定、マスク領域の復元など4タスクで事前学習した。弱教師ありでwebから収集・選別したデータセットも公開。 https://t.co/1WZzeNoG8c #NowReading https://t.co/hFDwUc9XRN	2020-01-27 00:10:36
+alg_d	alg_d	3300	2071	@piano2683 それ言ったらarxivのリンクツイートしてるがな	2020-01-26 23:38:23
+diskshima	Daisuke Shimamoto	391	996	LSTMベースのSHA-RNNがリソースがそれほど不要で良い結果が出ている話。  みんながtransformerのことばかり話していることに疑問（皮肉とも言います）を投げかけてもいます。  Single Headed Attention RNN: Stop Thinking With Your Head https://t.co/yqBakepL7q	2020-01-26 23:30:48
+Spike23645	Spike@1週間ふぁぼ禁	2490	1605	AdamがSGDより稀に不安定な原因の数理。  ・SGDはリグレット(画像1、ミニマックス最適)を更新  ・Adamは、リグレットがミニマックス最適じゃない(画像4)、慣性項が収束を早めるが(画像2)  つまり、きちんと過去を後悔しないから、長い目で見てAdamが負けうる。  ※参照 画像3 https://t.co/2m7F7ORyos https://t.co/JrmkAfYusX	2020-01-26 21:34:20
+nepinepimate3	シン@ボリビア	1170	609	羅生門集合：適度に正確な予測モデルが大量に存在することを許すモデルの集合。羅生門集合は巨大であるため、少なくとも一つは解釈可能なモデルを持つ。従ってそのモデルは正確かつ解釈可能なモデルとなる。 https://t.co/aPf2U4Uji9	2020-01-26 20:44:27
+osaka_sentaro	大阪千太郎	400	874	@itawasa 今は紙媒体ではなく電子媒体中心。arxivも、物理とか数学だと良いんだけど（論文だけでは金にならんから）、利益のからむ医学や生物にはなかなか普及しない。（コロナウィルスの件は珍しくオープンで上がってたけど）	2020-01-26 20:22:43
+itawasa	shino	883	767	@osaka_sentaro 素粒子論は読むだけだったら arXiv でなんとかなったか。。。あ、古いやつは図書室行ってたなー。	2020-01-26 20:16:18
+_riktor_	riktor	36	74	Φxにドメイン知識というかユーザモデルを入れたくなる。relとdiscountくらいには分解したい https://t.co/cq7gQb5Qy9	2020-01-26 20:10:20
+metaphusika	H. M. (ALGI2020@Kyoto, ALC2021@Kyoto)	1399	779	@alg_d これの話ですか？ https://t.co/mPECugBQYq	2020-01-26 17:10:46
+alg_d	alg_d	3300	2071	メモ https://t.co/6feZNWzlxT	2020-01-26 16:52:35
+asas_mimi	Masa	1983	1888	V3からハードルが一気に上がった気がする。 「スマホにディプロイしてから強化学習でアーキテクチャーサーチしろ！」とは、きつい。 他にも最近の要素(Squeeze-and-Exciteとか活性化関数を変えてみたりとか)を色々入れ込んでて読み応えある  Searching for MobileNetV3 https://t.co/gjVYmqHnQV	2020-01-26 15:58:49
+ryutamatsuno	リュウタ	276	290	鶏胸の料理法まとめてarxivに上げるか	2020-01-26 15:32:14
+kuronekodaisuki	まお（松岡洋）	1991	1889	ベクトル量子化した潜在空間 https://t.co/pdy5Dz3t8a	2020-01-26 13:48:57
+R_farms	R（あいれい/おいす）	430	312	@abekou190612 有名だとすると、下記のコンピューター科学ですね https://t.co/6Pw5bvnRUe	2020-01-26 13:34:29
+OpenJNY	OpenJNY	319	298	Machine Learning for Networking: Workflow, Advances and Opportunities https://t.co/ijHjZfaH88  ネットワークのための機械学習の応用サーベイ。HMMでのトラフィック量予測、悪意性の分類なんかはわかりやすいけど、強化学習でリアルタイムにQoSする話とかあって興味深い	2020-01-26 13:32:11
+tmasada	Tomonari MASADA	499	67	実験結果では、提案手法を除けばBARTという手法が一番良い。その論文 https://t.co/jyU8Ehk15X の最初のほうを読んだら、これは上述のDMアプローチではないっぽい。傾向スコアの推定値を使っている。 https://t.co/VaqhhC0Y9x	2020-01-26 13:25:02
+tjmlab	部品（本田翼）	2916	333	これは、良いまとめの図（こなみ https://t.co/Hk3znwqElL https://t.co/ew8No2PmRl	2020-01-26 10:00:42
+k__e_n_i	ケニ	274	254	これか。難しい数式は出てこないな  https://t.co/2lpmS4cEMM	2020-01-26 08:54:06
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-26 04:00:46
+fumofumobun	フモフモさん	1545	983	ゆるぼ： 学部生でも読めそうな相対論のarXiv	2020-01-26 02:39:05
+K3nt0W	kento	353	273	ほぇ〜arxivしかしらなかったけどこんなのもあるんだ… https://t.co/RF5pqpQyFe	2020-01-26 01:43:39
+hide48609613	hide	5	37	@nloglogn わたくし一生読めないんで、読んだら自慢してください。この本の元になった講義ノートは、長さ半分で、フランス語ですが、 https://t.co/00cQu2hWtJ Groupes finis  J.-P. Serre	2020-01-26 01:22:51
+shitijyou	七条彰紀	660	733	圏論をやる時にぶつかる基礎論がらみの問題についてのexpository note. こういうのもっと前に探しておくべきだった。　https://t.co/HoiFggCwSL	2020-01-26 00:52:26
+emptst	▹muratak	464	131	@Alwe_Logic @sanjutsu_yu 直観古典間で，計算的な話が研究されている（https://t.co/ZPl5OES9xd （←なおこれは私の積ん読論文シリーズの一つ（なので全然読んでない）））と聞いているものとして例を挙げただけですが，とりあえずこういう論理上で算術とかやると計算は何が対応するのかはあり得る問題意識なのかなと思いました	2020-01-25 23:39:21
+Shinnosuke0529_	(株)しんのすけCTO Ver.令和	42	95	Data Augmentation どのような問題に適しているかをちゃんとかんがえて　使うべき  https://t.co/pPFsxjtz4T	2020-01-25 22:35:11
+hideman2009	hideyuki takahashi	2919	490	人間を判別器にした敵対的生成ネットワークの研究って実はまだあまりないんだ．．．この辺，とても興味があるが．．．  HumanGAN: generative adversarial network with human-based discriminator and its evaluation in speech perception modeling https://t.co/KotUVN2ASz	2020-01-25 21:58:54
+shoshi_aq	しろい	179	255	著者たくさんだと思ったらgoogleのfSim gateの精度評価の論文だった https://t.co/u7yfJCzk4f	2020-01-25 20:53:13
+aoberflache	あれこ	1024	1279	仮想のモデルと実際のモデルが多少ずれていても多くの問題を解けるのでは、という考え方。 https://t.co/sRymEsqQdv	2020-01-25 20:42:56
+Phys_sister_bot	物理学徒の毒舌な妹bot	4765	5406	よくあんなラクガキをarXivに投稿する気になったね。恥ずかしくないの？お兄ちゃん？	2020-01-25 20:21:41
+aoberflache	あれこ	1024	1279	マルチエージェント環境でかくれんぼさせて協調戦略を取るように学習させてみたら割と役割分担ちゃんとできるやん、というざっくり理解。 https://t.co/QxaQv0aHX0	2020-01-25 19:23:43
+erukiti	えるきち.tsx	2518	1169	自然言語処理だと Wikipedia のコーパス使うけど、 ArXiv とかも無限の可能性ありそう	2020-01-25 19:02:18
+erukiti	えるきち.tsx	2518	1169	https://t.co/It1bfLxxg4 ArXiv って、S3から一括ダウンロード可能なんか！！！！！！	2020-01-25 19:01:57
+rnavi_official	論文ナビ | 論文解説投稿サイト	2890	3508	AI分野論文まとめ【2020年01月25日arXiv公開】 https://t.co/HPyqcXkQrZ	2020-01-25 19:01:37
+rnavi_official	論文ナビ | 論文解説投稿サイト	2890	3508	自然言語処理分野論文まとめ【2020年01月25日arXiv公開】 https://t.co/h5joo4qUqR	2020-01-25 19:00:39
+rnavi_official	論文ナビ | 論文解説投稿サイト	2890	3508	画像認識分野論文まとめ【2020年01月25日arXiv公開】 https://t.co/GfJhoilTgp	2020-01-25 19:00:16
+rnavi_official	論文ナビ | 論文解説投稿サイト	2890	3508	ニューラルネットワーク論文まとめ【2020年01月25日arXiv公開】 https://t.co/pNDrUmJvUO	2020-01-25 18:59:21
+rnavi_official	論文ナビ | 論文解説投稿サイト	2890	3508	【新サービス】論文ナビでは、arXivに投稿された最新論文の分野別リスト（タイトルとアブスト）を機械翻訳で和訳したものを毎日お届けするサービスを始めました！日々の情報収集にご活用下さい！  機械学習分野論文まとめ【2020年01月25日arXiv公開】 https://t.co/DeizdMnF8K https://t.co/o9KVjA3nKJ	2020-01-25 18:58:12
+691_7758337633	たけのこ赤軍、	2115	2245	みんなからの匿名質問を募集中！  こんな質問に答えてるよ ● 数学に熱中しすぎてご飯食べるの… ● 勉強中に音楽は聞きますか？… ● 恋愛ラボってアニメ見ました？… ● arXivのための論文こしらえ… #質問箱 #匿名質問募集中  https://t.co/8rGJVGkQ9X	2020-01-25 18:10:40
+takasan_san_san	Kazuaki Takasan / 高三 和晃	1824	2066	時間依存しない問題なのにFloquet使う奴、3月までにはarXivに置きたい...	2020-01-25 17:13:50
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-25 16:00:45
+Alwe_Logic	おるうぇにゃん	2072	1962	数学系だと日本語論文はJStageだけど, 日本語論文なんてないので, 基本JSTOR, Project Euclid, Science Direct, Springer, arXivとかになると思っている	2020-01-25 15:33:10
+pikka0403	pikka	263	443	アイレンバーガーで超伝導加速空洞の研究 Effect of impurities on the superheating field of type-II superconductors https://t.co/rrtcwk57H8 https://t.co/qxThvWcolZ	2020-01-25 15:20:12
+HirofumiInaguma	Hirofumi Inaguma	107	358	accepted paper list眺めたけど，ASRでarxiv上がってあるのはほぼ全て読んでいた	2020-01-25 15:11:42
+astrophys_tan	宇宙物理たんbot🌏☄️学術系VTuber	27168	9766	（承前） https://t.co/FbhffgP8d5 の「本論文で得られた相対論的補正を太陽-木星系のラグランジュ点に適用すると、位置が38㍍ほどずれることがわかる。これは小さい値だが既存の観測技術で検出できるかもしれない」のくだりですとか、サイッコーにクールですわ。	2020-01-25 15:01:57
+PhysicoPhysio	🌾🌾メ=サラ子🌾🌾	150	242	エモい https://t.co/DjVkFeM0sV	2020-01-25 14:59:41
+crypto_monalisa	もなりざさん	1184	288	@DrGoldmanZachs いまちょうどコレ読んでたのでタイムリー https://t.co/UaGwWI95l4	2020-01-25 14:32:54
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	1646	2248	さっきのツイートの内容に興味がある方はこちらも読むと面白いですよ。 敵対的摂動はバグではなく、特徴である！ https://t.co/I5L8gDf7ak  いや、敵対的摂動は特徴ではなく、単なるバグだ！ https://t.co/of6QCmuwBF  メインディスカッションはこちら https://t.co/GogMyz1aQk	2020-01-25 14:22:20
+astrophys_tan	宇宙物理たんbot🌏☄️学術系VTuber	27168	9766	古典的な制限3体問題（ラグランジュ点が出てくるあれ）をニュートンではなく一般相対論で解いた方もおられますわ。弘前大の山田慧生先生と浅田秀樹先生ですわ。Yamada &amp; Asada 2010, Phys.Rev.D82, 104019 https://t.co/FbhffgP8d5	2020-01-25 14:02:09
+teuder	津駄 Masaki E. Tsuda	1243	786	@nejimass この論文まだ読んでない https://t.co/swzX4yXwfM	2020-01-25 13:32:04
+astrophys_tan	宇宙物理たんbot🌏☄️学術系VTuber	27168	9766	最近見つかった3体問題の解がこちらですわ（図はp. 2）。ああ！ う…美しすぎます！ https://t.co/mtyiGvsr86 PDF注意 (Šuvakov and Dmitrašinović, 2013)	2020-01-25 13:01:56
+TomiyaAkio	A.Tomiya＠🇺🇸ディープラーニングと物理学発売中	3090	701	@ikkoham arxiv の投稿者におくりますねぇ。知り合いが入ってれば知り合いに送ります。	2020-01-25 12:58:05
+L_H_Sullivan	ふー🐯じん🐳	472	368	Helimagnetic Structure and Heavy-Fermion-Like Behavior in the Vicinity of the Quantum Critical Point in Mn3P https://t.co/MKMAT3SAZm 興味深い	2020-01-25 10:46:03
+NorikazuYamada	NorikazuYamada	205	53	多目的最適化Pythonライブラリの比較表。https://t.co/4ibPf9TV4C https://t.co/qYKap7aHFL	2020-01-25 10:00:21
+adhara_mathphys	adhara_mathphys	6079	5882	[2001.07521] Elementary Derivations of the Real Composition Algebras 合成代数の導き方 https://t.co/PV9XWsLfOM	2020-01-25 09:27:02
+kenchi8n	なかむら（R&Dちーむ）	378	555	対象が画像に対して小さすぎ問題と不均衡問題をどうにかしてくれる（らしい）AP50, 75どうした  https://t.co/a9CzI85Gw8	2020-01-25 09:11:20
+haklak	白楽ロックビル	525	6	特殊事件「論争」：気象学：ユルキ・カウッピネン（Jyrki Kauppinen）（フィンランド） https://t.co/OQgn5QKnoc 2019年ネカト世界ランキングの事件。2019年（75歳）、トゥルク大学・名誉教授のカウッピネンが、気候変動は人為的ではないという「2019年のarXiv」論文を発表し論争 #ネカト #研究倫理 https://t.co/M2rU9Vb6MQ	2020-01-25 08:01:29
+subarusatosi	中嶋慧	4060	26	Sp(6, O) = E_7 らしい(Oは八元数) https://t.co/dyKZD0bygV	2020-01-25 05:28:45
+ai_ningyo	𝕃𝕆𝕍𝔼𝔻𝕆𝕃𝕃	179	218	"arXivで論文の反論として""Comment on 〇〇""みたいなの見つけて恐恐ってなった"	2020-01-25 05:15:52
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-25 04:00:44
+Paul_Painleve	Paul Painlevé@JPN	4900	178	数日前から冪乗和S_nが流れてくる。何度も再発見されているが，Faulhaber1631, Academia Algebrae https://t.co/GZMs0t5E1l が初出らしい。書名に騙されるが中身はドイツ語である。この本の紹介は Knuth, arXiv:math/9207222 https://t.co/iFJ1VBr7a5	2020-01-25 02:39:48
+tattaka_sun	tattaka	854	988	Attentionを学習する1つの畳み込み層と、スコアマップとAttentionを統合するモジュールを加えてMask-RCNN越え+高速化で良さそう かなり綺麗なマスク境界を生成できるっぽい BlendMask: Top-Down Meets Bottom-Up for Instance Segmentation https://t.co/5bEPhvF5BE https://t.co/02N9NZpN6X	2020-01-25 01:12:24
+What_is_HAMARIN	HMRN(仮)	311	316	研究室配属になったときにはCinii死んでたし、それでもArxiv全盛の分野なので特に困らなかったんだよなあ	2020-01-25 00:54:12
+f_jhr	f_jhr	503	506	@physics303 このへんの話、学習率を周期的に大きくしたり小さくしたりしたら、少しずつ小さくしていく手法に勝った（？）みたいな論文もあって謎ですよね https://t.co/2ARbzd1mYU	2020-01-25 00:27:47
+R_farms	R（あいれい/おいす）	430	312	Network In Network.(2014) https://t.co/J8OacrR4Wx CNNでファインチューニングする際の最終層付近の構造の調査あり。本でよくある全結合層のみ、全結合層＋DropOut、Global Average Poolingのみで比較。 かなり昔の情報でも、現在で出される本に反映されてないこともある良い例	2020-01-25 00:03:26
+YoSayTouchGot	ジョンお兄さん改	123	139	arXivにsubmitした	2020-01-25 00:00:31
+shinabitanori	鬱病	530	317	arXiv ←わからないでもない Xmas ←わからないが許される LaTeX ←許せない	2020-01-24 22:53:30
+389jan	カイヤン@ベイズはいいぞ	1127	729	Gスカラー，arXivでタイトルをアップデートするとそれぞれのタイトルを別文献として扱うのやめてほしい	2020-01-24 22:34:19
+ultimatile	Tsuji Katabira	2021	1901	@ShunSakana これです  https://t.co/A7WVIeLDCL  https://t.co/rkl0aJNpe8	2020-01-24 22:16:03
+yasuokajihei	宮島正	451	138	言語理解や推論や常識・知識がないと解けないと想定されてきた中学2年生レベルの科学の試験で、モデル「ARISTO」がスコア90％を超え、余裕をもって合格水準に達した。高校3年生レベルの問題では80％越え https://t.co/lZFT2uTkXN	2020-01-24 21:41:55
+anonymousgraba	Ryo Okada	32	235	"DDSPを使って三浦大知の""ふれあうだけで""のボーカルをバイオリンとフルートに変換た結果。だいぶ音痴な感じになってしまって美しく無くなった. Transformed singing voice to violin and flute using ddsp. #magenta https://t.co/oy5EKkJnmL - original track https://t.co/RVKm64tMT0 https://t.co/78Ynq29JSQ"	2020-01-24 20:54:10
+subarusatosi	中嶋慧	4060	26	@7shi @k_nitadori @adhara_mathphys @neet2go 結合子については、 Matrix Representation of Octonions and Generalizations https://t.co/s5UiXGyjcg に画像の式がありました。 https://t.co/V2A2PzWE2h	2020-01-24 20:20:57
+IchiroHasuo	Ichiro Hasuo	871	789	@fyufyu マツダさんとの協働からは，理論にぶっ飛ばしたこっちの論文もでています． https://t.co/7NRyUZ0FnK TACAS'20 to appear です．（定理証明器実装も含めた最終版をもうすぐアップロードするので，お読みになる方はそちらをどうぞ）	2020-01-24 20:05:43
+re_hako_moon	はこつき＠VR	432	496	https://t.co/I0abaBSe9Q 点群畳み込み手法PCNNの提案。離散的な点群を、各点までの距離に応じたRBFカーネルを考えることで空間的に連続な値を持つようにし、3Dカーネルで畳み込んでから出力サンプル点での特徴量を取り出す。全点に対するRBFカーネルを考えると計算量が大きくなるため、近傍点で近似。	2020-01-24 19:08:30
+folkmancer	hurou	57	130	まぁほとんどdramアクセス時間だよね &gt; GPU Tensor Cores for fast Arithmetic Reductions &gt; https://t.co/eTOr4uE4iY	2020-01-24 18:24:05
+re_sweater	セーター🌧️	500	560	arxivで公開した論文をジャーナルに載せませんかっていうメールきた👀	2020-01-24 17:02:48
+q9ac	將籠林檎 / ブラックマジシャン	389	312	量子状態を教師なし学習でクラスタ分類する https://t.co/b3fHxt1reJ	2020-01-24 16:53:41
+astroph_co_jp	きままにastro-ph.CO	2	45	Detection of the warm ionized intergalactic medium in the Planck data using Stack First approach https://t.co/Dgga3mCBNO  新手法を利用して、スタックしたLRG間のフィラメントでtSZのシグナルを約8σで検出した。	2020-01-24 16:30:55
+YoSayTouchGot	ジョンお兄さん改	123	139	指導教官氏からarXiv upの許可が下りた。。 正攻法でなんとか間に合った。。彼も僕もお疲れ様。	2020-01-24 16:13:37
+tkym1220	たかやま	336	302	arXiv に生えたというか https://t.co/oZXBFu6QCR に生えてた	2020-01-24 16:07:25
+tkym1220	たかやま	336	302	引用した方が（比較した方が）良さそうな手法が1週間前に arXiv に生えてましてね	2020-01-24 16:06:21
+mamorumatsuo	mmatsuo	1767	92	(宣伝)大湊くん、藤本くんとの論文です。スピンとバレー自由度とが競合する新奇物性開拓を目指し、単層TMDCにバレー選択的なスピン注入ができ、バレー偏極したスピン流の一部が横方向のスピン流に変換される「スピン流のホール効果」が生じることを理論的に示しました https://t.co/XBnwoE3VYE	2020-01-24 15:54:17
+KSuzukiii	すずきぃ@求職	381	320	既存手法の組合せで改善&gt; [2001.06268] Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network https://t.co/hFyobJBIoA	2020-01-24 15:53:27
+icoxfog417	piqcy	10643	131	半教師あり手法で、弱Augmentationのデータに対し予測の確信度が高いものを学習データとして採用し、今度は強Augmentationをかけた上で予測結果が変わらないよう学習する。シンプルな手法ながら、CIFAR-10において250ラベルのみで94.93%を達成。  https://t.co/hL1vXpt2M3	2020-01-24 15:45:28
+likesilkto	Masayuki Tanaka	428	100	AAAI-WSで発表予定のBlock-wise Scrambled Image Recognition Using Adaptation Networkについて、arxivとコードを公開しました！  https://t.co/qYEQda0XFu	2020-01-24 14:50:11
+kvanadies	Kenji MISHIMA	191	277	Comprehensive geoneutrino analysis with Borexino https://t.co/3X7NJw5t8b 地熱の85%は核発熱だとわかっているらしいので、このあたり詰めるともう少し精度が上がるかもしれない。	2020-01-24 14:44:31
+kedbreak136	Cedric W.	120	162	Megatron / Bertみたいな圧倒的にでかいトランスフォーマーアーキテクチャのモデルのサイズを小さくする方法　https://t.co/7bmEiUK7bS　#Transformer #機械学習 #BERT	2020-01-24 14:38:53
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-24 14:00:45
+0x12648430	わたなべとしき	52	79	@TechaccountK モチベーションだいぶ違うけど、Conditional VAE使って行動の候補サンプルして、Q学習する手法もあるよな。  https://t.co/lkeStq9J9x https://t.co/gvtbxWyWTQ	2020-01-24 13:21:36
+ElectronNest	NaN	197	59	@udoooom コレじゃろうか？ https://t.co/p9QfOH49Mb	2020-01-24 13:08:02
+pall336	男　前太郎	1192	301	@Itoh_Kiminori https://t.co/8w3te3ujVb  Abstract  Tsと地磁気指数（aa、太陽風の強さの指標）の組み合わせとTsとテレコネクションパターンの組み合わせの相関マップ（相関係数の空間分布）を比較 ↓ 太陽風の影響はテレコネクションパターンの影響と同じくらい強い ↓ 前者は後者を介して気候に影響を与えるよう。	2020-01-24 12:35:47
+Itoh_Kiminori	伊藤公紀	4879	3529	@pall336 太陽風は、黒点から来るものとコロナホールから来るものがあり、黒点数は前者の指標ですが、aa指数やAp指数(地磁気活動の指数)などは両者の合計の指標になっています。 冬の北極振動は、aa指数と良い相関にあります。 https://t.co/aN1UgAWnak	2020-01-24 12:21:24
+kuritateppei	Teppei Kurita	357	504	進化的アルゴリズム(EA)は、今まで数多くNNに適用されてきたが人間が設計した画像分類器には劣っていた。この研究では初めて人が設計したモデルの性能を超えた。キモはより若い遺伝子を優先するようにトーナメント選択アルゴリズムを改良したところ。画像は獲得されたアーキ。 https://t.co/YzrWsj4WWk https://t.co/QS39Z06VPA	2020-01-24 12:19:00
+yasuokajihei	宮島正	451	138	機械翻訳コンペであるWMT19において優勝したFAIRのシステムは（ニ人による評価で人による翻訳を大きく上回った。近年順調に翻訳の精度向上が進む中でいよいよ人の翻訳を超えた https://t.co/KHlJ79wMSo	2020-01-24 12:12:02
+jkn2521	なだめちゃん	164	96	arXivに完全数の論文が出てますね、	2020-01-24 12:04:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Audiovisual SlowFast Networks for Video Recognition ビデオ認識用の視聴覚SlowFastネットワーク  2020-01-23T18:59:46+00:00  arXiv: https://t.co/VZ7PHZbK6y 英/日サマリ↓ https://t.co/g4tPpjVGTD	2020-01-24 11:53:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Cross-Domain Few-Shot Classification via Learned Feature-Wise Transformation 学習された特徴ごとの変換を介したクロスドメイン少数ショット分類  2020-01-23T18:55:43+00:00  arXiv: https://t.co/3JHoYRpnJE 英/日サマリ↓ https://t.co/5lsmCUsJcP	2020-01-24 11:53:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Robust Explanations for Visual Question Answering 視覚的な質問応答のための堅牢な説明  2020-01-23T18:43:34+00:00  arXiv: https://t.co/pOFSm6rWfZ 英/日サマリ↓ https://t.co/51BTnKxXjb	2020-01-24 11:52:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Interpretable End-to-end Urban Autonomous Driving with Latent Deep Reinforcement Learning 潜在的な深層強化学習による解釈可能なエンドツーエンドの都市自動運転  2020-01-23T18:36:35+00:00  arXiv: https://t.co/q0RLoGAJq0 英/日サマリ↓ https://t.co/el9usQQ4xJ	2020-01-24 11:52:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Ternary Feature Masks: continual learning without any forgetting Ternary Feature Masks：忘れることのない継続的な学習  2020-01-23T18:08:37+00:00  arXiv: https://t.co/Lp4tOmvzLF 英/日サマリ↓ https://t.co/7aihV9sboo	2020-01-24 11:52:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Lipreading using Temporal Convolutional Networks 時間的畳み込みネットワークを使用した読唇術  2020-01-23T17:49:35+00:00  arXiv: https://t.co/FjT7YqrepD 英/日サマリ↓ https://t.co/SZj5OWDNvU	2020-01-24 11:51:55
+arXiv_reaDer	arXiv reaDer bot	86	0	MRI Banding Removal via Adversarial Training 敵対訓練によるMRIバンディング除去  2020-01-23T17:46:14+00:00  arXiv: https://t.co/sSfctuKhSj 英/日サマリ↓ https://t.co/bdObxeZ072	2020-01-24 11:51:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Disassembling the Dataset: A Camera Alignment Mechanism for Multiple Tasks in Person Re-identification データセットの分解：個人の再識別における複数のタスクのためのカメラ調整メカニズム  2020-01-23T17:22:34+00:00  arXiv: https://t.co/15QvD425EJ 英/日サマリ↓ https://t.co/HSddfY0Np8	2020-01-24 11:51:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Tensor-Based Grading: A Novel Patch-Based Grading Approach for the Analysis of Deformation Fields in Huntin ... テンソルベースのグレーディング：ハンチントン病の変形場の分析のための新しいパッチベースのグレーディングアプローチ  arXiv: https://t.co/k4DJBE3MeD https://t.co/7p99DeSsqc	2020-01-24 11:50:57
+arXiv_reaDer	arXiv reaDer bot	86	0	Structured Compression and Sharing of Representational Space for Continual Learning 継続的学習のための表現空間の構造化された圧縮と共有  2020-01-23T16:40:56+00:00  arXiv: https://t.co/uhnmJyqlHs 英/日サマリ↓ https://t.co/LN3Oa5yvjR	2020-01-24 11:50:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Integrating domain knowledge: using hierarchies to improve deep classifiers ドメイン知識の統合：階層を使用して詳細な分類子を改善する  2020-01-23T16:27:23+00:00  arXiv: https://t.co/UiZXrdAqdc 英/日サマリ↓ https://t.co/3M0cqEds7e	2020-01-24 11:50:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Speech, Head, and Eye-based Cues for Continuous Affect Prediction 継続的な影響予測のための音声、頭、および目のベースのキュー  2020-01-23T15:59:13+00:00  arXiv: https://t.co/NYlA4BhmdN 英/日サマリ↓ https://t.co/hjuEPY8hnD	2020-01-24 11:49:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Eye-based Continuous Affect Prediction アイベースの継続的影響予測  2020-01-23T15:50:03+00:00  arXiv: https://t.co/6u3kkIkxGr 英/日サマリ↓ https://t.co/VNJcUHICUQ	2020-01-24 11:49:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Deformation-aware Unpaired Image Translation for Pose Estimation on Laboratory Animals 実験動物の姿勢推定のための変形を意識した不対画像変換  2020-01-23T15:34:11+00:00  arXiv: https://t.co/IjFpj49khl 英/日サマリ↓ https://t.co/bhET9bJahq	2020-01-24 11:49:15
+arXiv_reaDer	arXiv reaDer bot	86	0	CNN-CASS: CNN for Classification of Coronary Artery Stenosis Score in MPR Images CNN-CASS：MPR画像の冠動脈狭窄スコアの分類のためのCNN  2020-01-23T15:20:22+00:00  arXiv: https://t.co/ldsO5wM0Pb 英/日サマリ↓ https://t.co/aWsFjJZprI	2020-01-24 11:48:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Weakly-Supervised Lesion Segmentation on CT Scans using Co-Segmentation 共セグメンテーションを使用したCTスキャンでの弱教師付き病変セグメンテーション  2020-01-23T15:15:53+00:00  arXiv: https://t.co/EdbH20xtOU 英/日サマリ↓ https://t.co/wNh7YN6vt5	2020-01-24 11:48:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Detecting Deficient Coverage in Colonoscopies 大腸内視鏡検査での不十分なカバレッジの検出  2020-01-23T15:12:33+00:00  arXiv: https://t.co/BaNg2P8lL6 英/日サマリ↓ https://t.co/FZ2UeQRJNl	2020-01-24 11:48:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Observer variation-aware medical image segmentation by combining deep learning and surrogate-assisted genetic ... 深層学習と代理支援遺伝的アルゴリズムの組み合わせによるオブザーバーバリエーション認識医療画像セグメンテーション  arXiv: https://t.co/HCW5efrNlJ https://t.co/zBywFScb3f	2020-01-24 11:47:56
+arXiv_reaDer	arXiv reaDer bot	86	0	Channel Pruning via Automatic Structure Search 自動構造検索によるチャネルプルーニング  2020-01-23T14:51:19+00:00  arXiv: https://t.co/q6HC5ramRk 英/日サマリ↓ https://t.co/jcJJhhhPb1	2020-01-24 11:47:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Information Compensation for Deep Conditional Generative Networks 深い条件付き生成ネットワークの情報補償  2020-01-23T14:39:53+00:00  arXiv: https://t.co/F51QDfhdid 英/日サマリ↓ https://t.co/xTzZ14A7VK	2020-01-24 11:47:15
+arXiv_reaDer	arXiv reaDer bot	86	0	DCT-Conv: Coding filters in convolutional networks with Discrete Cosine Transform DCT-Conv：離散コサイン変換を使用した畳み込みネットワークのフィルターのコーディング  2020-01-23T13:58:17+00:00  arXiv: https://t.co/MVjyxg1UV4 英/日サマリ↓ https://t.co/TEqZZpbxpE	2020-01-24 11:46:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Filter Sketch for Network Pruning ネットワークプルーニングのフィルタースケッチ  2020-01-23T13:57:08+00:00  arXiv: https://t.co/4v9PZFgIqy 英/日サマリ↓ https://t.co/Lc6XLD5JQr	2020-01-24 11:46:35
+arXiv_reaDer	arXiv reaDer bot	86	0	A Large Scale Event-based Detection Dataset for Automotive 自動車用の大規模なイベントベースの検出データセット  2020-01-23T13:40:51+00:00  arXiv: https://t.co/Nenkqfuon3 英/日サマリ↓ https://t.co/jY0j6cWdXg	2020-01-24 11:46:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning Object Placements For Relational Instructions by Hallucinating Scene Representations シーン表現を幻覚化することによるリレーショナル指導のためのオブジェクト配置の学習  2020-01-23T12:58:50+00:00  arXiv: https://t.co/YmLmyfPUBW 英/日サマリ↓ https://t.co/Sh3WfDQtPJ	2020-01-24 11:45:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Segmentation of Retinal Low-Cost Optical Coherence Tomography Images using Deep Learning 深層学習を使用した網膜低コスト光干渉断層法画像のセグメンテーション  2020-01-23T12:55:53+00:00  arXiv: https://t.co/nv8ijMXHTk 英/日サマリ↓ https://t.co/utQpCj7IqM	2020-01-24 11:45:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Ada-LISTA: Learned Solvers Adaptive to Varying Models Ada-LISTA：さまざまなモデルに適応する学習済みソルバー  2020-01-23T11:34:03+00:00  arXiv: https://t.co/rBLKl0pjsb 英/日サマリ↓ https://t.co/i4lrdLRT6F	2020-01-24 11:45:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Fast, Compact and Highly Scalable Visual Place Recognition through Sequence-based Matching of Overloaded Repres ... オーバーロードされた表現のシーケンスベースのマッチングによる、高速でコンパクトで拡張性の高い視覚的な場所認識  arXiv: https://t.co/TLzQ3KtBSV https://t.co/wnX1G0vS1V	2020-01-24 11:44:56
+arXiv_reaDer	arXiv reaDer bot	86	0	Combining Shape Priors with Conditional Adversarial Networks for Improved Scapula Segmentation in MR images MR画像の改善された肩甲骨セグメンテーションのための形状事前条件と条件付き敵対ネットワークの組み合わせ  arXiv: https://t.co/YQWi3jS6UH https://t.co/mYifHxMlN5	2020-01-24 11:44:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Multi-dimensional imaging data recovery via minimizing the partial sum of tubal nuclear norm 卵管核ノルムの部分和の最小化による多次元画像データの回復  2020-01-23T08:12:53+00:00  arXiv: https://t.co/VzpHWUIl6Q 英/日サマリ↓ https://t.co/I7i1f4xA8w	2020-01-24 11:44:15
+arXiv_reaDer	arXiv reaDer bot	86	0	A One-Shot Learning Framework for Assessment of Fibrillar Collagen from Second Harmonic Generation Images of an Infarcted Myo ... 梗塞心筋の第二高調波発生画像からの線維性コラーゲンの評価のためのワンショット学習フレームワーク  arXiv: https://t.co/1cMFviiBgD https://t.co/g4FE0g4Bw4	2020-01-24 11:43:56
+arXiv_reaDer	arXiv reaDer bot	86	0	Semi-DerainGAN: A New Semi-supervised Single Image Deraining Network Semi-DerainGAN：新しい半教師付き単一画像排水ネットワーク  2020-01-23T07:01:30+00:00  arXiv: https://t.co/SwMZdsVE0W 英/日サマリ↓ https://t.co/oqLJxhfFzn	2020-01-24 11:43:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Automatic Hierarchical Classification of Kelps using Deep Residual Features 深い残差特徴を使用したケルプの自動階層分類  2020-01-23T06:45:18+00:00  arXiv: https://t.co/DFOw6sh8KD 英/日サマリ↓ https://t.co/wDWYTf2Ta0	2020-01-24 11:43:15
+arXiv_reaDer	arXiv reaDer bot	86	0	HandAugment: A Simple Data Augmentation Method for Depth-Based 3D Hand Pose Estimation HandAugment：深度ベースの3D手ポーズ推定のための単純なデータ増強方法  2020-01-23T06:07:38+00:00  arXiv: https://t.co/GgI3iPPFKE 英/日サマリ↓ https://t.co/AWIaXp2aap	2020-01-24 11:42:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep learning-based development of personalized human head model with non-uniform conductivity for brain stimulation 脳刺激のための不均一な伝導率を備えたパーソナライズされた人間の頭部モデルの深層学習ベースの開発  arXiv: https://t.co/tw20kjLFMB https://t.co/q8QmAGdDiD	2020-01-24 11:42:35
+arXiv_reaDer	arXiv reaDer bot	86	0	A multi-site study of a breast density deep learning model for full-field digital mammography and d ... フルフィールドデジタルマンモグラフィおよびデジタル乳房トモシンセシス試験のための乳房密度深層学習モデルのマルチサイト研究  arXiv: https://t.co/PVO2Q3JYP2 https://t.co/lFZVZbwcKK	2020-01-24 11:42:19
+arXiv_reaDer	arXiv reaDer bot	86	0	A Hypersensitive Breast Cancer Detector 過敏性乳がん検出器  2020-01-23T05:44:39+00:00  arXiv: https://t.co/ugvwHC2aEh 英/日サマリ↓ https://t.co/u1IZGYapwe	2020-01-24 11:41:55
+arXiv_reaDer	arXiv reaDer bot	86	0	Adaptation of a deep learning malignancy model from full-field digital mammography to digital breast tomosynthesis フルフィールドデジタルマンモグラフィからデジタル乳房トモシンセシスへの深層学習悪性腫瘍モデルの適応  arXiv: https://t.co/9OwzpJs77F https://t.co/KlVA8NOZfY	2020-01-24 11:41:35
+arXiv_reaDer	arXiv reaDer bot	86	0	Continual Local Replacement for Few-shot Image Recognition 少数ショット画像認識のための継続的なローカル置換  2020-01-23T04:26:21+00:00  arXiv: https://t.co/gNY0z6hmBq 英/日サマリ↓ https://t.co/sgiYNOCNda	2020-01-24 11:41:32
+arXiv_reaDer	arXiv reaDer bot	86	0	Towards naturalistic human neuroscience and neuroengineering: behavior mining in long-term video and neural recordings 自然主義的な人間の神経科学と神経工学に向けて：長期ビデオおよび神経記録における行動マイニング  arXiv: https://t.co/tH1FbKaGlQ https://t.co/SX36p37Vot	2020-01-24 11:41:29
+arXiv_reaDer	arXiv reaDer bot	86	0	Towards A Controllable Disentanglement Network 制御可能な解絡ネットワークに向けて  2020-01-22T16:54:07+00:00  arXiv: https://t.co/sBadSv9rKs 英/日サマリ↓ https://t.co/Khj89y25R6	2020-01-24 11:40:21
+arXiv_reaDer	arXiv reaDer bot	86	0	Neural Networks-based Regularization for Large-Scale Medical Image Reconstruction 大規模医療画像再構成のためのニューラルネットワークベースの正則化  2020-01-22T11:52:58+00:00  arXiv: https://t.co/PDluoWJFJI 英/日サマリ↓ https://t.co/E6EiEfA5PS	2020-01-24 11:40:19
+arXiv_reaDer	arXiv reaDer bot	86	0	Active Perception with A Monocular Camera for Multiscopic Vision 多眼視のための単眼カメラによる能動的知覚  2020-01-22T08:46:45+00:00  arXiv: https://t.co/RmAAVeO63C 英/日サマリ↓ https://t.co/ElQcZ35bIH	2020-01-24 11:40:17
+arXiv_reaDer	arXiv reaDer bot	86	0	Multi-Level Representation Learning for Deep Subspace Clustering 深部部分空間クラスタリングのためのマルチレベル表現学習  2020-01-19T23:29:50+00:00  arXiv: https://t.co/JQ31ScezvA 英/日サマリ↓ https://t.co/w0IK8T34Rb	2020-01-24 11:40:15
+arXiv_reaDer	arXiv reaDer bot	86	0	ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data ImageBERT：大規模な弱教師付き画像テキストデータを使用したクロスモーダルな事前トレーニング  2020-01-23T08:03:27+00:00  arXiv: https://t.co/cKdAIxnRRN 英/日サマリ↓ https://t.co/RUVPxw1I7h	2020-01-24 11:35:19
+arXiv_reaDer	arXiv reaDer bot	86	0	Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift ターゲットシフトを使用した教師なしドメイン適応のための部分共有変分オートエンコーダー  2020-01-23T05:45:10+00:00  arXiv: https://t.co/imemZZQRiL 英/日サマリ↓ https://t.co/EozrHhYxJ5	2020-01-24 11:35:17
+arXiv_reaDer	arXiv reaDer bot	86	0	Fast Glioblastoma Detection in Fluid-attenuated inversion recovery (FLAIR) images by Topological Explainable Automatic Machine L ... トポロジー的に説明可能な自動機械学習による流体減衰反転回復（FLAIR）画像での膠芽腫の高速検出  arXiv: https://t.co/w338SfnxEz https://t.co/Ow4Lz0Gqyt	2020-01-24 11:35:16
+arXiv_reaDer	arXiv reaDer bot	86	0	MixTConv: Mixed Temporal Convolutional Kernels for Efficient Action Recogntion MixTConv：効率的なアクション認識のための混合時間畳み込みカーネル  2020-01-23T15:51:20+00:00  arXiv: https://t.co/KZYwdgjeEp 英/日サマリ↓ https://t.co/eCfaw2VjDi	2020-01-24 11:35:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Mitigating large adversarial perturbations on X-MAS (X minus Moving Averaged Samples) X-MAS（Xマイナス移動平均サンプル）での大きな敵の摂動の緩和  2020-01-23T14:16:36+00:00  arXiv: https://t.co/rkksrwHDQC 英/日サマリ↓ https://t.co/f304Gh7M6t	2020-01-24 11:35:11
+tjmlab	部品（本田翼）	2916	333	Helical Chern insulator phase with broken time-reversal symmetry in MnBi2Te4  マンビテの高磁場輸送測定で新しい量子ホール状態、ヘリカルチャーン絶縁体を発見、熱いな(｡•̀ᴗ-)✧  https://t.co/F13bMkVLOi	2020-01-24 11:06:19
+tjmlab	部品（本田翼）	2916	333	Magnetic-field-induced insulator-metal transition in W-doped VO2 at 500 T  VO2に、500Tかけると絶縁体金属転移する、爆笑してしまった  https://t.co/IFXA0b1pOK	2020-01-24 11:04:27
+physics_sister	物理ディレッタントの毒舌な妹bot	572	886	arXivに投稿するの？ボコボコにされても知らないよ？	2020-01-24 11:02:50
+KyoHiiragi	柊 峡	329	990	arXiv が3 日分溜まっているので、消化しないと。。	2020-01-24 10:52:23
+q9ac	將籠林檎 / ブラックマジシャン	389	312	量子回路を使った高速フーリエ変換(FFT)の提案。入力はテンソル積として与えられる。  この方法は量子フーリエ変換(QFT)よりも汎用性があり、必要なデータ容量も少なくて済む(入力信号データを重ね合わせで入れられて同時に処理できる)  おもしろい https://t.co/UfTgEiUnHR	2020-01-24 10:42:32
+cometscome_phys	Yuki Nagai	3281	545	カナダAlberta大学と中国中山大学との共同研究のプレプリント(自分は第三著者)が出ました。拡張ハバード模型にスピン軌道相互作用を入れると低温で時間反転対称性の破れたトポロジカル相が出ます。相図には1次と2次のトポロジカル転移もあります。[2001.08739]  https://t.co/SKohUMU6M5	2020-01-24 10:36:57
+q9ac	將籠林檎 / ブラックマジシャン	389	312	2つの調和振動子の時間依存シュレディンガー方程式を解いて、磁場存在下でのエンタングルメントのダイナミクスをしらべる https://t.co/J9ulQgORs0	2020-01-24 10:35:27
+tkEzaki	江崎貴裕	1516	1541	preprint出しました。脳の状態遷移ダイナミクスを見るのに何故かHMMをみんな使っているのですが、それGaussian Mixtureでよくない？Markov性を勝手に仮定していいわけ？という論文です  Modeling state-transition dynamics in brain signals by memoryless Gaussian mixtures https://t.co/8HXrTvisMR	2020-01-24 10:35:16
+hillbig	Daisuke Okanohara	17556	263	未知の線形ダイナミクスシステムで任意の撹乱（i.i.dと限らない）と凸コスト関数に対し、オンライン学習を利用した最適制御はO(T^{2/3})のRegretを達成できる。これまでに加えて（c.f. https://t.co/fHi5Rkisik）システム同定が加わってもsub-linearのRegretが達成できるhttps://t.co/IqZluaqEld	2020-01-24 08:27:22
+hillbig	Daisuke Okanohara	17556	263	強化学習のQ学習は最適化の際、状態行動価値関数Qが最大となる行動を求める必要があり行動種類数が少ない場合にしか適用できなかった。Q値が最大となる行動をサンプリングできる提案分布を償却推論として同時に学習しそれを利用すると行動種類数が大きくてもQ学習が使えるhttps://t.co/nhUZhRx0L1	2020-01-24 08:03:33
+KoeKestra	KoeKestra	397	20	話者分離ですがConv-TasNetを大きく超えるという論文を見つけました。wave domainでdilated convolutionとGLUが特徴のようです。ただ層のshapeやカーネルサイズ、チャネル数など細かいところが全く分かりませんね……。 https://t.co/fAjVpnWG2D	2020-01-24 07:20:28
+ano_KTOK_	阿納慶德 a.k.a. あのKTOK™	584	535	ArXivから，texファイルとか，psファイルを抽出して，自分のノートに変換する運動～音符	2020-01-24 07:04:16
+q9ac	將籠林檎 / ブラックマジシャン	389	312	二つのモードがある振動子の結合系がノイズの存在下でどんな振る舞いをするかはフォッカープランクを使ってモデル化できる。同期(引き込み)、リミットサイクル、bi-stabilityなどリッチな相図が描けるらしい。 https://t.co/8zZzOUWQ8X	2020-01-24 07:03:50
+q9ac	將籠林檎 / ブラックマジシャン	389	312	スピン1/2のxyzそれぞれの向きに交換相互作用の強さが違うチェーン(=XYZ模型)では局所保存量がないというはなし https://t.co/DV7PdPC1ls	2020-01-24 06:59:56
+q9ac	將籠林檎 / ブラックマジシャン	389	312	有限系でのプラズモンポラリトンの量子化は、環境がリーキーになっているが故に、無限系でよく用いられるFanoの対角化をmodiyしなければならない https://t.co/qc7kYgmcmU	2020-01-24 06:50:55
+q9ac	將籠林檎 / ブラックマジシャン	389	312	物理量の計測における不確定性は量子情報的にはシャノンのエントロピーを使って説明できる→量子系をいくつか準備しておけば着目する系をデコヒーレンスから守れる https://t.co/BaBqHFHMY0	2020-01-24 06:44:52
+q9ac	將籠林檎 / ブラックマジシャン	389	312	周期駆動+ブラウン運動な系を解く。  フォッカープランクの向こう側、みたいな感じなのかなあ https://t.co/DRfEgkpUL6	2020-01-24 06:42:15
+q9ac	將籠林檎 / ブラックマジシャン	389	312	「コヒーレントな仕事」という概念を導入することで古典力学の世界から量子の世界へゆく https://t.co/VNEsu82y8R	2020-01-24 06:39:30
+q9ac	將籠林檎 / ブラックマジシャン	389	312	カーボンナノチューブをキャビティに入れとくとCoulomb blockadeのおかげでoptomechanical couplingがおっきくなる https://t.co/TXpbsYgXdh	2020-01-24 06:38:05
+q9ac	將籠林檎 / ブラックマジシャン	389	312	統計力学で出てくるエルゴード性・エントロピー・熱力学第二法則・時間の矢などのコンセプトをギブス-リウヴィルの定理から導いていく  この辺の面白そうだけど、ちゃんとわかってない話が、一個に繋がって理解できたら楽しいだろうなあ https://t.co/9m0rrsuhBl	2020-01-24 06:36:05
+q9ac	將籠林檎 / ブラックマジシャン	389	312	マグノン-フォノン相互作用があるフェリ磁性体に温度勾配を作ったらどうなるかという話。熱ホール効果とか、エッジにおけるスピン蓄積とか。 https://t.co/mwy2xfEpa0	2020-01-24 06:32:56
+q9ac	將籠林檎 / ブラックマジシャン	389	312	相互情報量と最大エントロピー法を考えるとランダウアー限界がもっと厳しくなるらしい https://t.co/O1sou1z9MW	2020-01-24 06:31:25
+q9ac	將籠林檎 / ブラックマジシャン	389	312	空間中に界面があってそこで反射・透過を考える、のではなく、時間ドメインに界面があって、反射・透過を考えるという話。  time dependentな媒質は流行ってるなあ https://t.co/U25QPPdWGl	2020-01-24 06:25:36
+subarusatosi	中嶋慧	4060	26	Matrix Representations of Octonions and Their Applications https://t.co/E4xae1P0D4 Yongge Tian  結構便利な論文っぽい	2020-01-24 06:25:02
+Dsuke_KATO	Daisuke KATO	221	290	ReLayNetって・・・略称作るの好きね、この界隈。 https://t.co/Lw8jWhHEAZ	2020-01-24 06:10:17
+subarusatosi	中嶋慧	4060	26	@adhara_mathphys @7shi @neet2go Matrix Representations of Octonions and Their Applications https://t.co/VUf5U5tjbn の(2.14)を使いました。 また、上のツイートのλ_{ij}はδ_{ij}でした。	2020-01-24 05:46:45
+subarusatosi	中嶋慧	4060	26	@adhara_mathphys @7shi @neet2go A(u)でc_k = -1とすると、 Matrix Representations of Octonions and Their Applications https://t.co/VUf5U5tjbn の(2.2)式と一致しますね。 (a_0は-u_0に対応)  この八元数の表現行列と積の表との関係を分かっていません。	2020-01-24 03:57:40
+q9ac	將籠林檎 / ブラックマジシャン	389	312	光のソリトンとナノ粒子が束縛状態をつくる。このソリトン+ナノ粒子のペアたちをぶつけたときのダイナミクスを計算 https://t.co/WNsUSrz13n	2020-01-24 03:32:57
+q9ac	將籠林檎 / ブラックマジシャン	389	312	TMD中のエキシトンは、近傍に基板があるとき、その束縛エネルギーが小さくなる。これは基板の光学フォノンとTMDが相互作用することによる https://t.co/HY8DMtoab3	2020-01-24 03:27:31
+q9ac	將籠林檎 / ブラックマジシャン	389	312	磁気光学効果がある媒質の間の非相反な輻射伝熱 https://t.co/IyLivy0ghU	2020-01-24 03:25:13
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-24 02:00:44
+menomendy	Mendy Sekiguchi	504	454	@makolooon そうです！！ さっき授業見てて https://t.co/5zyZfK7zSn これチラ読みしてたので。。。 自分は制御系？の研究室なので、モデルは建てられる前提が多くて、(建物とか)こういう風に確率的にシステムを扱っていこうとするのは面白そうだなぁと。。。	2020-01-24 01:30:34
+tjmlab	部品（本田翼）	2916	333	Momentum Resolved Superconducting Energy Gaps of Sr2RuO4 from Quasiparticle Interference Imaging https://t.co/PqCEe945IH  ルテネイトの準粒子干渉、PNASなのか(´･∀･`)ﾍｰ	2020-01-24 00:08:39
+rekishi_tori	鶏肉	322	323	arXiv全然活用できん	2020-01-23 23:43:31
+I6215Syoma	d2	213	290	@miki_kun_phys 参考文献ですhttps://t.co/usnn6k0dha	2020-01-23 22:04:28
+ATphys	ガウス	20	91	学会発表15分前にarXivに登場という神がかりなタイミング…	2020-01-23 21:09:38
+physics_sister	物理ディレッタントの毒舌な妹bot	572	886	arXivに投稿するの？ボコボコにされても知らないよ？	2020-01-23 21:02:50
+rishigami_	rishigami	125	52	TFコンペ振り返り⑤：コンペ中余り試せなかったがBERTでバッチサイズを大きく(64~)取るときはLAMB Optimizerが有効だったっぽい（Private Scoreがかなり良かった）。試す価値はあり？ https://t.co/BsdviWE469	2020-01-23 20:32:56
+rishigami_	rishigami	125	52	TFコンペ振り返り③：Baselineでも行われている通り、似たようなデータセットであるSQUADを用いて2段階のfine-tuning [SQUAD-&gt;NQ]を行うことで最終的なスコアが向上した。[NQ-&gt;Wiki-QA]や[NQ-&gt;TREC-QA]の組み合わせでもそれぞれSOTAのスコアが出せるらしい。https://t.co/1B06X2xzEN	2020-01-23 20:32:12
+rishigami_	rishigami	125	52	TFコンペ振り返り②：IBM ResearchによるReportがコンペで使用されていたNQデータセットを用いて様々な検証を行っていて、ハイパラチューニングの勘所など非常に参考になった。 https://t.co/fBqhMmZRwJ	2020-01-23 20:31:52
+seishin55	せいしん	418	386	Convolutional neural network architecture for geometric matching https://t.co/uyiMXCimGp  だと帰納バイアスちょっと強くないかな	2020-01-23 20:26:39
+seishin55	せいしん	418	386	Fine-grained Image-to-Image Transformation towards Visual Recognition https://t.co/8eoCC4vSi4 (Tencent Lab 2020.01)  identityを維持した画像の生成。data augmentationに使う想定。結構良さそう。 https://t.co/3sGSfpLmAZ	2020-01-23 20:15:10
+NakataMaho	中田真秀	994	532	絶対日本勢引用しないやつとか僕のをわざと無視するやつとか、全然フェアじゃないね。arXivなら抗議したら直ることもあるが、ふつうはそうではない https://t.co/6a8eAjrcOW	2020-01-23 20:14:18
+astroph_co_jp	きままにastro-ph.CO	2	45	Exploring Early and Late Cosmology with Next Generation Surveys https://t.co/nFa10LqL7c  原始パワースペクトルを20binの矩形で近似(Eq.3)して、その振幅を将来観測でどれだけ制限できるかを議論。reconstructionの話。20binパラメータ + 宇宙論パラメータ 4個 + ニュートリノ質量について制限。	2020-01-23 20:04:44
+ranha	Ü+1F980🦀	941	80	https://t.co/TKBHVlSo65 ちゃんと考えていくと、こういう論文の話になりそうだな https://t.co/FgHjfFaZjL	2020-01-23 19:45:22
+691_7758337633	たけのこ赤軍、	2115	2245	みんなからの匿名質問を募集中！  こんな質問に答えてるよ ● 数学に熱中しすぎてご飯食べるの… ● 勉強中に音楽は聞きますか？… ● 恋愛ラボってアニメ見ました？… ● arXivのための論文こしらえ… #質問箱 #匿名質問募集中  https://t.co/8rGJVGkQ9X	2020-01-23 19:41:26
+AkiraTOSEI	akira	945	1387	https://t.co/YBBd9MfPKP メタ学習と組み合わせることでGANでFew-shot learningを実施した論文。顔のLandmarksの情報とEmbedderから抽出されたその人個人の特徴量ベクトルから、表情の転移を行う。デモではモナリザが喋っており印象的。 https://t.co/hB4IefBrPc	2020-01-23 19:41:24
+AkiraTOSEI	akira	945	1387	https://t.co/Pnzgmiygj9 3D-CNNに時系列を、2D-CNNで空間情報をそれぞれ別々に抽出させることにより行動検知データセットでSoTA。3D,2Dの情報統合にはAttentionを使っている。 https://t.co/YbOiqo6WbF	2020-01-23 19:39:44
+ohnabe	ohnabe	799	1399	この分野の研究やってたので寂しい気もするけど、そうですよね。https://t.co/LhcPDwfxOh	2020-01-23 19:31:49
+re_hako_moon	はこつき＠VR	432	496	https://t.co/6JnO6yf2IC 三次元点群をSOMによって受け取るネットワークSO-Net。SOMの初期値依存性を解決するため、ランダムな固定シードを用いる。SOMの各ノードからkNNで相対座標を集約し局所形状に対してShared MLP+Poolingで特徴量に変換。SOMノードから各点に戻してセグメンテーション。	2020-01-23 19:29:21
+QUANTA_in_Math	QUANTA「エントロピーの幾何学」(コロナ社)	278	18	今日は一日雑用の日だった。なんかくたびれたので、以下のをノンビリ読もう On geodesic triangles with right angles in a dually flat space https://t.co/JkLqz42PXh	2020-01-23 19:19:54
+tjmlab	部品（本田翼）	2916	333	Superconducting and magnetic phase diagram of RbEuFe4As4 and CsEuFe4As4 at high pressure  層間分厚いやつなら、と思ったけど磁気転移がTc以下だしSea軸方向のコヒーレンスが切れる訳でもないのか、残念 https://t.co/qMz1Tpa1mU	2020-01-23 19:02:10
+bootjp	ぶーと🐬	1561	1108	AppleのITPでフィンガープリントを作成できるらしい  Information Leaks via Safari’s Intelligent Tracking Prevention https://t.co/prmj3hdJYQ	2020-01-23 17:34:21
+7shi	七誌	4415	4974	@subarusatosi @neet2go イアン・スチュアート『もっとも美しい対称性』に何やら思わせぶりなことが書いてありますね。（画像1） 原論文は入手できませんでしたが、Baez先生の論文で言及されているのは見付けました。双八元数などのテンソル積による代数のようです。（画像2） https://t.co/HSXAxynya9 https://t.co/9l6yia4Kj5	2020-01-23 17:34:02
+AskOkra	Okra	172	1030	とりあえず英訳して、arxivに投稿して、関連研究者の方に『興味ありますか？』と営業活動をするのは、迷惑だろうか… https://t.co/tPpnu0I1z0	2020-01-23 16:51:30
+tjmlab	部品（本田翼）	2916	333	Investigation of laser-induced-metal phase of MoTe2 and its contact property via scanning gate microscopy  モテテの光照射金属化は、構造相転移ではなく金属テルルが光分解して出てきた結果、ワロタ  https://t.co/5hjlh6V1Sl	2020-01-23 16:13:59
+smiphys3141	Shuntaro Sumita	322	290	今日なんか妙にバタバタしてて、arXivもチェックしてなかったことに気がついた	2020-01-23 16:08:25
+NakataMaho	中田真秀	994	532	カルテクの人が書いた論文、僕の論文引用してないから抗議のメールかいた。返事もきて引用してくれることに。arXiv文化ありがたい。	2020-01-23 15:51:24
+ZQ875328	Met Martinez	235	153	arxivのリンク投げたら適当に引用の形式になおしてくれるツールない?	2020-01-23 15:44:48
+skitoy4321	skitoy4321	111	89	avx2のリンクが間違って解釈されてるので再掲 https://t.co/IAYNVb9hpL (AVX2)	2020-01-23 15:37:24
+skitoy4321	skitoy4321	111	89	どっちもSIMDによるbase64デコード、エンコードの高速化について https://t.co/ngk8sa8Vay(Qiitaの記事: https://t.co/qBLFMGHOLY, AVX512) https://t.co/fwIBCrJPRt	2020-01-23 15:36:46
+iamraikun	らいくん⊿Liken⚓	635	488	arXivに出してたYszkさんの火星の組成論文、GCAにアクセプトされたんだ	2020-01-23 14:44:05
+gekitsura	つらっキー（元イオンモールメンバーズ会員）	326	268	[2001.07991] Spintronic superconductor in a bulk layered material with natural spin-valve structure https://t.co/WmdyrNBOSs  著者がいっぱいいる。	2020-01-23 14:17:12
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-23 14:00:44
+wakatsuki_moe	わかつき@Emerald鯖	777	1976	詳しくは書けないけど 主題はAIの内のNNの内のネットワーク (わかる方はピンと;^^)  引用元はarXiv (なので邪推しちゃた&gt;&lt;arXivなので題名出しても良いけどちょとね;^^)  続く	2020-01-23 13:58:07
+QM_phys_kyoto	固体量子(研究室黙認VTuber)	2903	126	Sr214の超伝導転移温度と内部磁場が出る温度分裂するよ論文  カイラルエッジ電流見えへんかな？ 著者が多い  Split superconducting and time-reversal symmetry-breaking transitions, and magnetic order in Sr2RuO4 under uniaxial stress https://t.co/hVGDf6K7zQ	2020-01-23 13:35:52
+rmn_w	もこにゃ	676	83	@kawauSOgood やっぱり数学じゃないと出版前に先取りして論文読めたりするのは査読くらいなんですか？数学だと査読に回ってくる論文は既に大体arXivに載っているので。	2020-01-23 13:20:03
+kazuhiro_cos0	イナガキ　カズヒロ	544	1009	前に似たような話をarXivで見たなと思ったら違う著者だった。前のでは-2乗って出てたけどミスがあったんやでって書いてあった。	2020-01-23 13:03:50
+mattn_jp	mattn and 100 others	15419	2673	Numba という、関数にアノテーションを付けて JIT を作る拡張を入れた場合の話なので、鵜呑みにすると良くないかも。詳細はリンク先に論文へのリンクがあるのでそちらで見ると良さそう。ちなみに numba は制限が幾つかあります。  https://t.co/3tfuKUyyCq https://t.co/xppl97gUuL https://t.co/W63PTNKmxL	2020-01-23 12:48:11
+subarusatosi	中嶋慧	4060	26	Hopf Maps, Lowest Landau Level, and Fuzzy Spheres Kazuki Hasebe https://t.co/AMUq2816bX  超スピノールの話もある。 八元数の応用も	2020-01-23 12:23:09
+tjmlab	部品（本田翼）	2916	333	Split superconducting and time-reversal symmetry-breaking transitions, and magnetic order in Sr2RuO4 under uniaxial stress  超伝導転移と時間反転対称性の破れる温度が一軸圧で分離するからルテネイトはカイラル超伝導！…熱くなってきたな(´･_･`)  https://t.co/CWBnHb64Oq	2020-01-23 12:13:55
+kyoun	Kyosuke Nishida	2354	145	Multilingual Denoising Pre-training for Neural Machine Translation (Facebook) https://t.co/ys52e2Oy8N マルチリンガル版BART（mBART）と翻訳への適応。日本語含む25言語で学習。低リソースMTで精度が大幅に向上するが高リソースでは事前学習の効果小ない。事前学習の言語数等の影響を詳細に分析 https://t.co/bkMdJLyTyE	2020-01-23 12:12:32
+mojin	mojin	2603	959	v1 と v2 でだいぶ結論というかタイトルが変わってしまっているな。 https://t.co/Wy3Z3ZUM77	2020-01-23 12:05:18
+arXiv_reaDer	arXiv reaDer bot	86	0	Volume Preserving Image Segmentation with Entropic Regularization Optimal Transport and Its Applications in Deep Learning エントロピー正則化最適輸送によるボリューム保存画像セグメンテーションと深層学習におけるその応用  arXiv: https://t.co/w0NSOEsTHi https://t.co/qZpsZrGTCI	2020-01-23 11:48:54
+arXiv_reaDer	arXiv reaDer bot	86	0	RDAnet: A Deep Learning Based Approach for Synthetic Aperture Radar Image Formation RDAnet：合成開口レーダー画像形成のための深層学習ベースのアプローチ  2020-01-22T18:44:40+00:00  arXiv: https://t.co/RScjLMHhvW 英/日サマリ↓ https://t.co/bxtoobJakJ	2020-01-23 11:48:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Automatic phantom test pattern classification through transfer learning with deep neural networks ディープニューラルネットワークを使用した転送学習による自動ファントムテストパターンの分類  2020-01-22T18:17:41+00:00  arXiv: https://t.co/iQkHrQTNeJ https://t.co/HyTjMK5jmZ	2020-01-23 11:48:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Discovering Salient Anatomical Landmarks by Predicting Human Gaze 人間の視線の予測による顕著な解剖学的ランドマークの発見  2020-01-22T18:17:14+00:00  arXiv: https://t.co/p9RjM8fdTU 英/日サマリ↓ https://t.co/qBT2CHXlHt	2020-01-23 11:47:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Causality based Feature Fusion for Brain NeuroDevelopmental Analysis 脳神経発達分析のための因果性ベースの特徴融合  2020-01-22T17:38:42+00:00  arXiv: https://t.co/xXpWDP8lyK 英/日サマリ↓ https://t.co/0q2UH9nPKs	2020-01-23 11:47:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Pruning CNN's with linear filter ensembles 線形フィルターアンサンブルを使用したCNNの剪定  2020-01-22T16:52:06+00:00  arXiv: https://t.co/zrorary55z 英/日サマリ↓ https://t.co/BmbDiHbbdX	2020-01-23 11:47:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Optimizing Generative Adversarial Networks for Image Super Resolution via Latent Space Regularization 潜在空間正則化による画像超解像のための生成的敵対ネットワークの最適化  2020-01-22T16:27:20+00:00  arXiv: https://t.co/4Iq3QGi3JU 英/日サマリ↓ https://t.co/qe6GX57hUx	2020-01-23 11:46:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Are Accelerometers for Activity Recognition a Dead-end? アクティビティ認識用の加速度計は行き止まりですか？  2020-01-22T16:12:54+00:00  arXiv: https://t.co/mv2AiUWYmK 英/日サマリ↓ https://t.co/IdNHBrQYh0	2020-01-23 11:46:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Semantic-Aware Scene Recognition セマンティックを意識したシーン認識  2020-01-22T16:03:52+00:00  arXiv: https://t.co/Y8zJR4Jhsi 英/日サマリ↓ https://t.co/5mcuy3iOL3	2020-01-23 11:46:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning to Correct 3D Reconstructions from Multiple Views 複数のビューから3D再構成を修正する学習  2020-01-22T16:02:23+00:00  arXiv: https://t.co/yyGkeCUa0s 英/日サマリ↓ https://t.co/GtIymFy5WM	2020-01-23 11:45:54
+arXiv_reaDer	arXiv reaDer bot	86	0	UniPose: Unified Human Pose Estimation in Single Images and Videos UniPose：単一の画像およびビデオでの統合された人間の姿勢推定  2020-01-22T15:59:42+00:00  arXiv: https://t.co/IUK5131f31 英/日サマリ↓ https://t.co/sogeK02JDZ	2020-01-23 11:45:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Depthwise Non-local Module for Fast Salient Object Detection Using a Single Thread 単一スレッドを使用した高速の顕著なオブジェクト検出のための深さ方向の非ローカルモジュール  2020-01-22T15:23:48+00:00  arXiv: https://t.co/6OGxTPSbax 英/日サマリ↓ https://t.co/a2ymANAA5X	2020-01-23 11:45:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Attention! A Lightweight 2D Hand Pose Estimation Approach 注意！軽量の2D手姿勢推定アプローチ  2020-01-22T15:05:00+00:00  arXiv: https://t.co/kAALHoCnyG 英/日サマリ↓ https://t.co/xmscabXlSn	2020-01-23 11:44:54
+arXiv_reaDer	arXiv reaDer bot	86	0	A Data Dependent Multiscale Model for Hyperspectral Unmixing With Spectral Variability スペクトル変動を伴うハイパースペクトル非混合のためのデータ依存マルチスケールモデル  2020-01-22T14:51:36+00:00  arXiv: https://t.co/8NtsellV7e 英/日サマリ↓ https://t.co/Zpip1qgKRE	2020-01-23 11:44:34
+arXiv_reaDer	arXiv reaDer bot	86	0	ManyModalQA: Modality Disambiguation and QA over Diverse Inputs ManyModalQA：多様な入力に対するモダリティの曖昧性除去とQA  2020-01-22T14:39:28+00:00  arXiv: https://t.co/38364GttMw 英/日サマリ↓ https://t.co/war7tPmelw	2020-01-23 11:44:14
+arXiv_reaDer	arXiv reaDer bot	86	0	ResDepth: Learned Residual Stereo Reconstruction ResDepth：学習した残留ステレオ再構成  2020-01-22T14:12:43+00:00  arXiv: https://t.co/AOi04kejJM 英/日サマリ↓ https://t.co/p9Xs25ypZi	2020-01-23 11:43:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Safety Concerns and Mitigation Approaches Regarding the Use of Deep Learning in Safety-Critical Perception Tasks 安全性が重要な知覚タスクでのディープラーニングの使用に関する安全性の懸念と軽減アプローチ  arXiv: https://t.co/12JhCILzop https://t.co/1WeduWy8aB	2020-01-23 11:43:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Baby steps towards few-shot learning with multiple semantics 複数のセマンティクスを使用した少数ショット学習に向けたベビーステップ  2020-01-22T12:11:47+00:00  arXiv: https://t.co/sUpPK5JhO8 英/日サマリ↓ https://t.co/YD78Sf0fzl	2020-01-23 11:43:14
+arXiv_reaDer	arXiv reaDer bot	86	0	What the Constant Velocity Model Can Teach Us About Pedestrian Motion Prediction 等速モデルが歩行者の動き予測について教えてくれること  2020-01-22T11:52:02+00:00  arXiv: https://t.co/F2dEZcMzi3 英/日サマリ↓ https://t.co/rD5fQ8rGsE	2020-01-23 11:42:54
+arXiv_reaDer	arXiv reaDer bot	86	0	ImageBERT: Cross-modal Pre-training with Large-scale Weak-supervised Image-Text Data ImageBERT：大規模な弱教師付き画像テキストデータを使用したクロスモーダルな事前トレーニング  2020-01-22T11:35:58+00:00  arXiv: https://t.co/KHEFipTSzR 英/日サマリ↓ https://t.co/LhBfsfWg7O	2020-01-23 11:42:34
+arXiv_reaDer	arXiv reaDer bot	86	0	A Fixation-based 360° Benchmark Dataset for Salient Object Detection 顕著なオブジェクト検出のための固定ベースの360°ベンチマークデータセット  2020-01-22T11:16:39+00:00  arXiv: https://t.co/kFL6Cl5Nhc 英/日サマリ↓ https://t.co/FkboTh5odu	2020-01-23 11:42:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Optimized Generic Feature Learning for Few-shot Classification across Domains ドメイン全体の少数ショット分類のための最適化された汎用機能学習  2020-01-22T09:31:39+00:00  arXiv: https://t.co/jkjtsAYbzV 英/日サマリ↓ https://t.co/uVBWp7DTKk	2020-01-23 11:41:54
+tackson5	ヤツガニ・オーケンシールド	1059	224	字数制限で書ききれませんでしたが、トピックとしては他にも、クロスモーダル学習（NLP+CV）やドメイン適用などもあります。以下は2019年のインターンの研究例ですが、arXiv未掲載の投稿中論文もまだ多数あります。 ・https://t.co/NBrFA0gnPo ・https://t.co/XH5slE6Mxy	2020-01-23 11:41:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Space-Filling Curve Indices as Acceleration Structure for Exemplar-Based Inpainting 標本ベースの修復のための加速構造としての空間充填曲線指標  2020-01-22T08:57:58+00:00  arXiv: https://t.co/mTg38JsydY 英/日サマリ↓ https://t.co/ebevuYr2cV	2020-01-23 11:41:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Robust Object Tracking Based on Self-adaptive Search Area 自己適応検索エリアに基づくロバストなオブジェクト追跡  2020-01-22T08:27:40+00:00  arXiv: https://t.co/sY0zfieW3y 英/日サマリ↓ https://t.co/6lyjBQZYwz	2020-01-23 11:41:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Discussion among Different Methods of Updating Model Filter in Object Tracking オブジェクト追跡でモデルフィルタを更新するさまざまな方法間の議論  2020-01-22T08:20:29+00:00  arXiv: https://t.co/QsoU4NlNSd 英/日サマリ↓ https://t.co/YL16TiZ1si	2020-01-23 11:40:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Dynamic multi-object Gaussian process models: A framework for data-driven functional modelling of human joints 動的マルチオブジェクトガウスプロセスモデル：人間の関節のデータ駆動型機能モデリングのフレームワーク  arXiv: https://t.co/0xxtbK9rls https://t.co/T20B4PYp5V	2020-01-23 11:40:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Improving Long Handwritten Text Line Recognition with Convolutional Multi-way Associative Memory 畳み込み多方向連想メモリによる長い手書きテキスト行認識の改善  2020-01-22T06:46:13+00:00  arXiv: https://t.co/iCH1HGdqXt 英/日サマリ↓ https://t.co/Ze2yI75q0I	2020-01-23 11:40:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Partially-Shared Variational Auto-encoders for Unsupervised Domain Adaptation with Target Shift ターゲットシフトを使用した教師なしドメイン適応のための部分共有変分オートエンコーダー  2020-01-22T06:41:31+00:00  arXiv: https://t.co/QIkQLAnTX7 英/日サマリ↓ https://t.co/gplqWpwu4s	2020-01-23 11:39:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Curvature Regularized Surface Reconstruction from Point Cloud 点群からの曲率正則化表面再構成  2020-01-22T05:34:40+00:00  arXiv: https://t.co/BlFy6i1DoE 英/日サマリ↓ https://t.co/tqYJMO0WrY	2020-01-23 11:39:34
+arXiv_reaDer	arXiv reaDer bot	86	0	M^2 Deep-ID: A Novel Model for Multi-View Face Identification Using Convolutional Deep Neural Networks M ^ 2 Deep-ID：畳み込みディープニューラルネットワークを使用したマルチビュー顔識別の新しいモデル  arXiv: https://t.co/ItbQikMDrd https://t.co/OlUIu06NS7	2020-01-23 11:39:14
+arXiv_reaDer	arXiv reaDer bot	86	0	First image then video: A two-stage network for spatiotemporal video denoising 最初の画像、次にビデオ：時空間ビデオのノイズ除去のための2段階ネットワーク  2020-01-22T03:36:15+00:00  arXiv: https://t.co/jEbzMKLH2s 英/日サマリ↓ https://t.co/iud6mN3QmU	2020-01-23 11:38:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Understanding Image Captioning Models beyond Visualizing Attention 注意を視覚化する以上の画像キャプションモデルについて  2020-01-22T02:09:36+00:00  arXiv: https://t.co/SFHBD8ddXp 英/日サマリ↓ https://t.co/j9oa37OH5l	2020-01-23 11:38:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Anomaly detection in chest radiographs with a weakly supervised flow-based deep learning method 弱く監視されたフローベースの深層学習法による胸部レントゲン写真の異常検出  2020-01-22T02:01:57+00:00  arXiv: https://t.co/UxNioTEB5b 英/日サマリ↓ https://t.co/mHFf3SjB2z	2020-01-23 11:38:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Adversarial Pulmonary Pathology Translation for Pairwise Chest X-ray Data Augmentation ペアワイズ胸部X線データ増強のための敵肺病理学翻訳  2020-01-22T01:34:58+00:00  arXiv: https://t.co/ozHiedRNKz 英/日サマリ↓ https://t.co/bb3no0NFdN	2020-01-23 11:37:54
+arXiv_reaDer	arXiv reaDer bot	86	0	LRF-Net: Learning Local Reference Frames for 3D Local Shape Description and Matching LRF-Net：3Dローカルシェイプの説明とマッチングのためのローカル参照フレームの学習  2020-01-22T00:52:48+00:00  arXiv: https://t.co/9Nz1QRNc2j 英/日サマリ↓ https://t.co/2OiTIwFV1h	2020-01-23 11:37:34
+arXiv_reaDer	arXiv reaDer bot	86	0	Depth-Based Selective Blurring in Stereo Images Using Accelerated Framework 加速フレームワークを使用したステレオ画像の深度ベースの選択的ぼかし  2020-01-21T23:26:39+00:00  arXiv: https://t.co/C59mkEPQH1 英/日サマリ↓ https://t.co/fh8RgucDA0	2020-01-23 11:37:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Scientific Image Tampering Detection Based On Noise Inconsistencies: A Method And Datasets ノイズの不一致に基づく科学的画像改ざん検出：方法とデータセット  2020-01-21T22:29:56+00:00  arXiv: https://t.co/WUXoJe8H4I 英/日サマリ↓ https://t.co/xmxUxh1dJS	2020-01-23 11:36:54
+arXiv_reaDer	arXiv reaDer bot	86	0	Weakly Supervised Temporal Action Localization Using Deep Metric Learning ディープメトリックラーニングを使用した弱教師付き時間アクションローカリゼーション  2020-01-21T22:01:17+00:00  arXiv: https://t.co/4MGtyedGpQ 英/日サマリ↓ https://t.co/S7XqH0iWJY	2020-01-23 11:36:35
+arXiv_reaDer	arXiv reaDer bot	86	0	GhostImage: Perception Domain Attacks against Vision-based Object Classification Systems GhostImage：視覚ベースのオブジェクト分類システムに対する知覚ドメイン攻撃  2020-01-21T21:58:45+00:00  arXiv: https://t.co/IRQBrezkXR 英/日サマリ↓ https://t.co/0LKGlyN2pS	2020-01-23 11:36:32
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Depth Prior for Multi-View Stereo マルチビューステレオの深さ優先  2020-01-21T21:56:01+00:00  arXiv: https://t.co/5TEkb0YKOL 英/日サマリ↓ https://t.co/ysq6QxW0ZS	2020-01-23 11:36:29
+arXiv_reaDer	arXiv reaDer bot	86	0	Lesion Harvester: Iteratively Mining Unlabeled Lesions and Hard-Negative Examples at Scale 病変ハーベスター：ラベルのない病変とハードネガティブな例の大規模な反復マイニング  2020-01-21T21:09:49+00:00  arXiv: https://t.co/t4E7hXkHEp 英/日サマリ↓ https://t.co/kZ0jVrgvwQ	2020-01-23 11:36:03
+arXiv_reaDer	arXiv reaDer bot	86	0	Ro-SOS: Metric Expression Network (MEnet) for Robust Salient Object Segmentation Ro-SOS：ロバストな顕著オブジェクトセグメンテーションのためのメトリック表現ネットワーク（MEnet）  2020-01-21T20:41:52+00:00  arXiv: https://t.co/vp6lTfipxk 英/日サマリ↓ https://t.co/2JJzgUVtyr	2020-01-23 11:35:51
+arXiv_reaDer	arXiv reaDer bot	86	0	Adaptive Loss Function for Super Resolution Neural Networks Using Convex Optimization Techniques 凸最適化手法を使用した超解像ニューラルネットワークの適応損失関数  2020-01-21T20:31:10+00:00  arXiv: https://t.co/mdMigtELma 英/日サマリ↓ https://t.co/ATnVfE1kQ9	2020-01-23 11:35:47
+arXiv_reaDer	arXiv reaDer bot	86	0	Block-wise Scrambled Image Recognition Using Adaptation Network 適応ネットワークを使用したブロックごとのスクランブル画像認識  2020-01-21T20:22:10+00:00  arXiv: https://t.co/1QOxb2QtD4 英/日サマリ↓ https://t.co/bR2Q2RfESV	2020-01-23 11:35:41
+arXiv_reaDer	arXiv reaDer bot	86	0	EMOPAIN Challenge 2020: Multimodal Pain Evaluation from Facial and Bodily Expressions EMOPAIN Challenge 2020：顔と身体の表情からのマルチモーダルな痛みの評価  2020-01-21T19:09:08+00:00  arXiv: https://t.co/hmt8f0gKQZ 英/日サマリ↓ https://t.co/AkXsL5Qafd	2020-01-23 11:35:36
+arXiv_reaDer	arXiv reaDer bot	86	0	Preconditioned P-ULA for Joint Deconvolution-Segmentation of Ultrasound Images -- Extended Version 超音波画像の同時デコンボリューション-セグメンテーションのための事前調整済みP-ULA-拡張バージョン  2020-01-21T19:04:12+00:00  arXiv: https://t.co/4Uhvl51LgN https://t.co/D9mkGAO1eE	2020-01-23 11:35:30
+arXiv_reaDer	arXiv reaDer bot	86	0	TEASER: Fast and Certifiable Point Cloud Registration TEASER：高速で認証可能なポイントクラウド登録  2020-01-21T18:56:00+00:00  arXiv: https://t.co/Yx3Yfwldnz 英/日サマリ↓ https://t.co/97U1CxY2gU	2020-01-23 11:35:26
+arXiv_reaDer	arXiv reaDer bot	86	0	Instance Segmentation of Visible and Occluded Regions for Finding and Picking Target from a Pile of O ... オブジェクトの山からターゲットを検索および選択するための、可視領域およびオクルード領域のインスタンスセグメンテーション  arXiv: https://t.co/DuExwgzXfE https://t.co/L5qOM3T40i	2020-01-23 11:35:21
+arXiv_reaDer	arXiv reaDer bot	86	0	An Image Enhancing Pattern-based Sparsity for Real-time Inference on Mobile Devices モバイルデバイスでのリアルタイム推論のためのパターンベースのスパース性を高める画像  2020-01-20T16:17:36+00:00  arXiv: https://t.co/DZng9o9hjX 英/日サマリ↓ https://t.co/JhGq4uiPqK	2020-01-23 11:35:17
+arXiv_reaDer	arXiv reaDer bot	86	0	DeepFL-IQA: Weak Supervision for Deep IQA Feature Learning DeepFL-IQA：ディープIQA機能学習のための弱い監視  2020-01-20T15:13:26+00:00  arXiv: https://t.co/AKPAzZOe5g 英/日サマリ↓ https://t.co/FEKIOLoHih	2020-01-23 11:35:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Convolutional Neural Networks as a Model of the Visual System: Past, Present, and Future 視覚システムのモデルとしての畳み込みニューラルネットワーク：過去、現在、未来  2020-01-20T13:04:37+00:00  arXiv: https://t.co/Ua8zIVpmrr 英/日サマリ↓ https://t.co/n6SPux7pOQ	2020-01-23 11:35:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning Deformable Registration of Medical Images with Anatomical Constraints 解剖学的制約を伴う医用画像の変形可能な登録の学習  2020-01-22T13:25:16+00:00  arXiv: https://t.co/VgRzp6K0Hw 英/日サマリ↓ https://t.co/ZPwdbhCLuT	2020-01-23 11:30:35
+arXiv_reaDer	arXiv reaDer bot	86	0	PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning PatDNN：パターンベースの重みプルーニングを使用したモバイルデバイスでのリアルタイムDNN実行の実現  2020-01-22T04:13:06+00:00  arXiv: https://t.co/RYivPrQj6I https://t.co/rOkxlFBj7D	2020-01-23 11:30:32
+arXiv_reaDer	arXiv reaDer bot	86	0	Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection ロバストな空間認識のための段階的な非凸性：非最小ソルバーからグローバルな外れ値除去まで  2020-01-21T19:20:41+00:00  arXiv: https://t.co/kDdKldnsb4 https://t.co/f5P7UXdujZ	2020-01-23 11:30:28
+arXiv_reaDer	arXiv reaDer bot	86	0	MixPath: A Unified Approach for One-shot Neural Architecture Search MixPath：ワンショットニューラルアーキテクチャ検索の統合アプローチ  2020-01-22T11:05:45+00:00  arXiv: https://t.co/oHfd3n1Aov 英/日サマリ↓ https://t.co/OZ4DwTRuN2	2020-01-23 11:30:25
+arXiv_reaDer	arXiv reaDer bot	86	0	Robust Local Features for Improving the Generalization of Adversarial Training 敵対者訓練の一般化を改善するための堅牢なローカル機能  2020-01-22T04:31:16+00:00  arXiv: https://t.co/P2On0j9l5P 英/日サマリ↓ https://t.co/kuKKzc7gGH	2020-01-23 11:30:21
+arXiv_reaDer	arXiv reaDer bot	86	0	PDANet: Pyramid Density-aware Attention Net for Accurate Crowd Counting PDANet：正確な群衆カウントのためのピラミッド密度対応アテンションネット  2020-01-22T05:29:56+00:00  arXiv: https://t.co/04WAnHCn93 英/日サマリ↓ https://t.co/qcOoliLO7Q	2020-01-23 11:30:20
+arXiv_reaDer	arXiv reaDer bot	86	0	Filter Grafting for Deep Neural Networks ディープニューラルネットワークのフィルターグラフト  2020-01-22T11:19:24+00:00  arXiv: https://t.co/qD3FOsJWwM 英/日サマリ↓ https://t.co/j8hu8AJKUN	2020-01-23 11:30:18
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning with less data via Weakly Labeled Patch Classification in Digital Pathology デジタル病理学における弱ラベル付きパッチ分類によるより少ないデータで学習  2020-01-22T02:20:39+00:00  arXiv: https://t.co/nzWIKInaVt 英/日サマリ↓ https://t.co/2W6i1dxCHu	2020-01-23 11:30:15
+tmasada	Tomonari MASADA	499	67	この系統の話とか、下の論文の話とか、そこらあたりから、何か今後発展がありそうな気が。  [1907.04809] Variational Autoencoders and Nonlinear ICA: A Unifying Framework https://t.co/Bwo8vRTTfQ	2020-01-23 11:25:38
+butsurimoso	光元亨汰	115	201	arXivの方も更新しました。 ハミルトニアンにランダムネスを含まない模型においてスピングラス転移を示唆する結果が得られました。 念頭においている物質はY$_2$Mo$_2$O$_7$というパイロクロア酸化物です。 https://t.co/jrAtyvj3Pd	2020-01-23 11:20:37
+aki_kataoka	Akimasa Kataoka	147	25	DSHARPの円盤の基線のチャネルマップをよーくみると、惑星がいるのではないかと思われるkinkが、8/18の円盤で見つかったらしい。見つかったものはすべてギャップの中かスパイラルの端にある。ただし全てのギャップで見つかったわけではない。…心の目を持ってないと見えない… https://t.co/ld310pFDlL	2020-01-23 11:13:48
+tjmlab	部品（本田翼）	2916	333	Spintronic superconductor in a bulk layered material with natural spin-valve structure  スピントロニック超伝導ワロタ  https://t.co/UKO1qTEAuP	2020-01-23 11:03:26
+Quantum_Zen	全卓樹	2032	118	@jihei @sugargroove あ、修正の件、オープンプラットフォームのarXivは修正してもversion numberつくだけで、旧版が残って誰でも見られるよに鳴ってます。たしか撤回も本当には出来なくて、旧番全て残ったまんま『この論文は撤回されました』みたいなの出るだけだったはず。  これは結構インチキへの抑止力になりますよ。	2020-01-23 10:53:30
+E43051281	小笠英志　「高次元空間を見る方法」講談社　発売中 Eiji Ogasa	398	1065	新論文です。カウフマンと拙生が書きました。 https://t.co/j6sbnEY8u7 拙著「高次元空間を見る方法」の本文の最後（p.226）で予告していたものです。  Eiji Ogasa and Louis H. Kauffman, Steenrod square for virtual links toward Khovanov-Lipshitz-Sarkar stable homotopy type for virtual links	2020-01-23 10:31:37
+nhiroki_	nhiroki	1756	419	"paper を読んだ / ""Information Leaks via Safari's Intelligent Tracking Prevention"" ([v1] Tue, 21 Jan 2020) https://t.co/lIbXh23Kab"	2020-01-23 10:23:03
+yosuke_furukawa	Yosuke FURUKAWA	8233	792	Safari ITP の内容を受けて Google Security Team でチェックしたときの結果がレポートになってる。こんな事してるんだ。だから Safari ITP blog の Credit に Google って書いてあったのか。 / https://t.co/XTkQkjASzQ	2020-01-23 10:17:48
+aki_kataoka	Akimasa Kataoka	147	25	HL Tauのガス質量を13C17Oで測ったら、0.2Msunらしい（重い）。70au以内は連続波がthickだからlineが暗いけど、70au以遠くらいにピーク。90-110auの輝度をうまくトレースするようになめらかなガスプロファイルを持ってくると、大体Q~1-2 くらいのいい感じのガス質量になると　https://t.co/rxCQ4aJUxs	2020-01-23 09:27:23
+PhysicoPhysio	🌾🌾メ=サラ子🌾🌾	150	242	興味のある分野+arxiv でぐぐると良さげなpdfがたくさん見つかる世界、素晴らしいな	2020-01-23 09:14:58
+MasashiSalvador	サルバ	1385	2746	"時間とともにEthereumのtx送受信の成すネットワーク（グラフ）がどのように成長しているか、エッジの重み、次数、ジニ係数などを分析、「富めるものはより富む」という不公平が働いていることを示している（らしい） ""Evolution of Ethereum: A Temporal Graph Perspective"" https://t.co/J2qgUngkee"	2020-01-23 08:29:14
+hillbig	Daisuke Okanohara	17556	263	CNNはネットワークアーキテクチャ、正則化で多くの手法が提案されている。これらの手法を精度とスループット両方を考慮し適切に組み合わせると、現在最高精度のEfficientNetと同程度の精度で数倍~10倍近いスループットを達成できる https://t.co/45zYxAJ2EU	2020-01-23 08:25:17
+hillbig	Daisuke Okanohara	17556	263	FixMatchは半教師あり学習でSOTA 1) 教師なしデータに弱いオーグメンテーションを適用した上で予測 2) 予測確信度が高いサンプルのみ、その予測と強いオーグメンテーションを適用した時の予測が一致するように学習。代表的な学習サンプルであれば1サンプルだけでも学習可能 https://t.co/QfUsMBHroG	2020-01-23 08:11:08
+kuritateppei	Teppei Kurita	357	504	NASの探索空間にPriorを導入するトレードオフは、 「探索の簡易化」⇔ 「新構造の発見」 https://t.co/TTRg6DLO9n  #文献読み	2020-01-23 03:42:38
+hackernewsj	Hacker News記事題日本語翻訳	832	4	無限の電力塔の奇妙な特性 https://t.co/pd0yxdhOAV	2020-01-23 03:09:04
+mt03kkk18wu	も	244	391	2019年のarxivで引用数180行ってる論文を見て花形はやっぱちげえなと	2020-01-23 01:38:51
+akhdhys	PAW	286	298	arXivってどう読む？	2020-01-23 01:32:03
+toyo9	toyo	338	578	parking functionについてです。 parking functionは、とても興味深そうに思いました。  Parking Functions: Choose Your Own Adventure https://t.co/iVkw4GptnN  #toyoの論文メモ https://t.co/VDV0W1rGGz	2020-01-23 01:06:16
+toyo9	toyo	338	578	公平なケーキの切り方についてです。 なかなか面白そう！  How to Cut a Cake Fairly: A Generalization to Groups https://t.co/9H89YEqam0   #toyoの論文メモ https://t.co/xYOnepgAWL	2020-01-23 00:58:47
+toyo9	toyo	338	578	リンクを張り忘れました。 https://t.co/bYB0WYMd4Y	2020-01-23 00:55:18
+scibean	Takuya_Ichimura	823	743	arxivってapi公開してるんや、いいね	2020-01-23 00:46:20
+superbradyon	╰U╯	1706	1014	今日金井さんが仰っていたΦ_IITとして捉えられるSynergyってここで出てきたものだろうか  https://t.co/Oe2dUTjNvP	2020-01-23 00:45:05
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-23 00:00:54
+tjmlab	部品（本田翼）	2916	333	@hamamore こっちかな？ https://t.co/b45PtY0G3F	2020-01-22 23:46:25
+tjmlab	部品（本田翼）	2916	333	@hamamore これ？ https://t.co/U9jvubD758	2020-01-22 23:45:43
+q9ac	將籠林檎 / ブラックマジシャン	389	312	量子モンテカルロでジョセフソン接合のチェーンを解析。キャパシタンスをいじると超伝導-絶縁体転移が起こるなど。 https://t.co/0iZ883O59K	2020-01-22 23:19:21
+hashimotostring	橋本幸士 Koji Hashimoto	13378	138	"コードを公開しました。 ニューラルネットワークを時空とみなし、ホログラフィー原理の逆問題を解く論文（田中氏、富谷氏、杉下氏との共著）""Deep Learning and Holographic QCD""のコードです。 興味ある方はぜひ時空創発をお楽しみください。 https://t.co/2Anlj7c5Ub 論文→https://t.co/4uWDEfHj1i"	2020-01-22 22:14:54
+akivajp	Akiva Miura	648	260	@mamoruk https://t.co/0n9fUsbqJb  ちょうど一年前に公開されたpreprintでは、BERTを言語横断MaskedLMとして用いていますが、この結果からしてBERTは言語生成が得意ではないとは言えない気がしています。むしろTransformer Decoderこそ前方向の依存関係しか考慮できないため、生成の性能に限界がありますよね…	2020-01-22 22:10:48
+masashiotani	マサシ	103	113	@kotonohano_toko @NH_M_ この前の研究会で@NH_M_さんがKOTOの結果にmotivateされた似た話をしていらっしゃたのでこちらかなぁと。 https://t.co/Tnjxki8XjF も同様ですね。 ちなみに、KOTOはついこの間のJ-PARC PACでBGの見積もりを少し更新しています。 https://t.co/p3gisv1L0p	2020-01-22 22:07:12
+sai_nabe	k.Fukuda	90	37	2017年にはもうあるのね。時代に取り残されてる感ある。 [1707.04585] The Reversible Residual Network: Backpropagation Without Storing Activations https://t.co/1xprOx6wiX	2020-01-22 21:44:39
+q9ac	將籠林檎 / ブラックマジシャン	389	312	層状構造でつくるハイパボリックメタマテリアルを計算するのに有効媒質近似が使われることが多いが、この有効媒質近似をおこなうときに生じる境界条件の取り扱いについて真面目に議論した研究はなかった。境界の取り方で光学応答が変わってくるそうな https://t.co/bMXegVx0be	2020-01-22 21:24:30
+q9ac	將籠林檎 / ブラックマジシャン	389	312	関連して。 環境温度をいろいろ変えてみた時のplasmonic SSH chainの端状態の振る舞いについて。  https://t.co/capo8pviW0	2020-01-22 21:14:18
+ogtonvr180426	lcamu	458	1090	@re_hako_moon arxivの1日1論文をディフェンスひかえつつもこなしていくのほんとに凄いなと… これからも楽しく研究やっていってほしいです	2020-01-22 21:08:37
+AkiraTOSEI	akira	945	1387	https://t.co/xpnGFDYTuJ 複数の変換をかけたデータと元データをMIXUPで混合させるデータ拡張手法と、それらを入力したときの出力値のJS距離を最小化させることで頑健性を高めるAugMixを提案。様々な変換で未知の汚染に強くする一方、元画像と変換画像のJS距離で摂動に対する出力の振れ幅を小さくする https://t.co/qy29m4hIty	2020-01-22 20:50:27
+AkiraTOSEI	akira	945	1387	https://t.co/GWG1C9UnnZ 自然界では誤差逆伝播を使っていないという発想から、各層で独立して相互情報量を高めることで学習を進めるという研究。画像認識と音声認識で結果が出ている。 https://t.co/Oq1FZxn4On	2020-01-22 20:48:36
+masashiotani	マサシ	103	113	@kotonohano_toko @NH_M_ https://t.co/0PX0uFlQOk とかじゃないですか？	2020-01-22 20:35:44
+re_hako_moon	はこつき＠VR	432	496	https://t.co/VAmYgF08ft 点群をハンドクラフト特徴量であるPoint Pair Feature (PPF)に変換してから扱うネットワークの提案。局所領域ごとにPPFを計算してPointNet構造で集約し特徴量にする。実空間でのユークリッド距離を利用することで、教師なしで点群の位置合わせのための特徴量を学習する。	2020-01-22 20:18:58
+life_wont_wait	Q	2170	57	長過ぎる/Gravity in the infrared and effective nonlocal models https://t.co/p7oAS5FeLO	2020-01-22 20:11:00
+q9ac	將籠林檎 / ブラックマジシャン	389	312	非平衡状態に置かれた（マイクロ波放射下の）ジョセフソン接合の電流位相特性を調べる．   非平衡な界面は設定問わず色々面白いので，あとあとの研究アイデア生成のためにも，ぜひ知見をためていきたい  https://t.co/fnq1dydGq8	2020-01-22 19:57:47
+q9ac	將籠林檎 / ブラックマジシャン	389	312	BECしたエキシトンポラリトン中にある逆向きのスピンを持つエキシトンがbi-excitonを作る．→フェッシュバッハ共鳴ピークとして観測される．   https://t.co/Uoev2c0vIH	2020-01-22 19:48:47
+q9ac	將籠林檎 / ブラックマジシャン	389	312	単一光子を回折格子に入射すると，回折格子の後側では数状態でエンタングルしてるモードが作られる．NOON stateてやつは回折格子さえあれば簡単に作れちゃうというプロポーザル．   https://t.co/dBtBxSGXFa	2020-01-22 19:41:37
+q9ac	將籠林檎 / ブラックマジシャン	389	312	キャビティを縦に置いて上側のミラーを放射圧で浮かせたオプトメカニクス．解析にはinput-output theoryを使っている．   https://t.co/lP2ZtLk5R3	2020-01-22 19:37:48
+q9ac	將籠林檎 / ブラックマジシャン	389	312	誘電体の層状構造でhyperbolicな分散をもつ低ロスな表面モードを広い周波数帯で実現．  これはフォトニック結晶に束縛された状態とはどう違うのだろうか   https://t.co/zyzWksI7DG	2020-01-22 19:26:15
+maimerororororu	siiba	114	739	甘利俊一さん、84歳でなお論文出してる。。。 https://t.co/zDTEBQrop3	2020-01-22 19:22:50
+q9ac	將籠林檎 / ブラックマジシャン	389	312	強磁性体の上に載せたグラフェン中のギルバートダンピングは磁場の関数として振動する．この変調はグラフェンにランダウ準位ができるからで．で，振動の周期を見ることで，強磁性体ーグラフェンの間の相互作用の強さを導くことができる．   https://t.co/HVTaDeHzWL	2020-01-22 19:21:07
+q9ac	將籠林檎 / ブラックマジシャン	389	312	トポロジカルな端状態を分光測定できるというお話   https://t.co/zcoMpIjznr	2020-01-22 19:15:06
+q9ac	將籠林檎 / ブラックマジシャン	389	312	プラズモニックなSu-Schrieffer-Heeger模型．ドープされたシリコンのdimerの1次元arrayみたいなのを考えて，モード解析＆Zak位相の計算をする．端に局在した状態を作れる．ドーピングの度合いを変えることで，局在状態のピークを赤外の範囲でチューンできるらしい．   https://t.co/RrKiEGyl0q	2020-01-22 19:13:09
+sysc_kt	KaT	304	186	層の幅が十分に広いランダムニューラルネットの任意の目的関数がごく近傍に存在することを幾何的に俯瞰した論文 https://t.co/NFFkSkGXoP	2020-01-22 19:11:25
+q9ac	將籠林檎 / ブラックマジシャン	389	312	有限温度のニューラルネット (CNN) の密度行列． 温度無限大の密度行列を準備→虚時間発展で有限温度の密度行列を求める．  https://t.co/4584l5pLuW	2020-01-22 18:49:16
+Quantum_Zen	全卓樹	2032	118	@sugargroove 理論物理業界ですともう二十年も前から、論文書いたらまずはarXivに出して、同時か少し間置いて査読誌にってなのが定着してまして、逆に新しい結果もほぼarXivで読むってなかんじです。雑誌は学内や競争資金の業績評価のための認定印みたいに使われてるのみって言っても過言ではない感じです	2020-01-22 18:38:33
+shion_honda	Shion Honda	2111	258	SieveNet [Jandial+, 2020, WACV] 2Dの仮想試着で、1)服の変形を担う部分を2段階にして知覚損失を加え、2)試着を担う部分を予測した領域分割で条件付けて、3) 学習後半からtriplet lossを加えることで性能改善を行った。ボトムスの保存やocclusionの反映も可能。 https://t.co/U8qO7PX0jc #NowReading https://t.co/oKwfNHEgsP	2020-01-22 18:25:04
+_stakaya	Shinichi Takayanagi(yаиаgi)	2343	265	SGBにランジュバンダイナミクスを付け加えることで、局所ではなく大域最適解を出せるStochastic Gradient Langevin Boosting(SGLB)を提唱。SGBに比べて性能がいいことを確認。 （計算系は読みきれてない…） https://t.co/TfmlRbw2GA	2020-01-22 18:02:18
+lucu	Katherine Cyanide	2685	335	いくつかの写真をつなげて写真と写真の間の映像をディープラーニングを適用して補い動画にしたもの DeepStereo: Learning to Predict New Views from the World’s Imagery https://t.co/ybPRnmwFoO https://t.co/oLghqpaurJ	2020-01-22 17:53:37
+q9ac	將籠林檎 / ブラックマジシャン	389	312	非平衡な熱力学でナノスケールの摩擦を解析する https://t.co/0dSus5CDtE	2020-01-22 17:48:39
+q9ac	將籠林檎 / ブラックマジシャン	389	312	光触媒の重合反応を2光子過程を使ってトリガーすることで、数ミクロンの造形物を3Dプリントできるという話  昔にいた研究室からの論文だー https://t.co/XO8Cmys7H1	2020-01-22 17:40:36
+q9ac	將籠林檎 / ブラックマジシャン	389	312	フェリ磁性体中でのdomain wallの動きをNMRで見る https://t.co/6PtHwFvT0r	2020-01-22 17:32:20
+k_matsuzaki	zakki	543	521	時間方向にやってたの見て、空間方向にもやればいいのにと思ったけど普通になんやかんややられてるっぽく https://t.co/i4yjBPWaJG	2020-01-22 17:27:31
+hermite2053	Ηermite（えるみいと）@修論	144	166	arXivでプレプリントを閲覧するために税金を取られるのか。	2020-01-22 17:04:57
+hhayakawa	早川尚男	2065	436	今日はMahesh Bandiが朝から来て議論とセミナー。 　その後、修士論文１の提出があった。この論文ではarXiv2篇の他にギリギリまで攻めて出た結果も収録している。卒業までに投稿論文にする作業が残っている。	2020-01-22 17:01:29
+python_galo	Pythonギャル男🍒	691	1094	arxivが一瞬重くなったんだけど，なんだか心が暖かくなった！！	2020-01-22 16:34:08
+kanbepp	Kanbe	36	98	arXivをみてワクワクソワソワする毎日をおくりたいので、もっと英数物を頑張るぞい💪✨	2020-01-22 16:28:30
+diskshima	Daisuke Shimamoto	391	996	PyTorchの仕組みを知るのに分かりやすい論文でした。 ・GPUへの処理スケジューリング ・GPUメモリのカスタムアロケーション ・Pythonっぽさを残す とかの話が面白かったです。  PyTorch: An Imperative Style, High-Performance Deep Learning Library https://t.co/Avddf9giXE	2020-01-22 16:22:32
+dualisochan	いそーちゃん	144	164	さっさとarXivにポストするだけでも諸々印象が変わると思う（思う）	2020-01-22 16:15:27
+Kenji_Sugisaki	杉﨑 研司 (Kenji Sugisaki)	628	143	Variational-Correlations Approach to Quantum Many-body Problems https://t.co/YRvmAUrz2k Abstractによると、通常の変分計算では基底状態のエネルギー上限が得られるのとは対照的に、この論文の方法だとエネルギー下限が得られるらしい。あとで読む。	2020-01-22 15:54:43
+agatan_	Agata Naomichi	623	537	Big-Little Net 知らなかった。 IBM 初なの面白い。 CPU に big little は ARM だっけ？ https://t.co/RSW5t200D6	2020-01-22 15:45:05
+Kenji_Sugisaki	杉﨑 研司 (Kenji Sugisaki)	628	143	Test of the unitary coupled-cluster variational quantum eigensolver for a simple strongly correlated condensed-matter system https://t.co/jgrRWKnlZF あとで読む	2020-01-22 15:41:03
+k_matsuzaki	zakki	543	521	あった https://t.co/35hIfTyJEz	2020-01-22 15:28:47
+kanair_jp	Ryota Kanai	4731	317	少し先ですが、アラヤのAcerがNon Trivial Information Closure Theory of Consciousnessについてトークします。 論文はこちら：https://t.co/8ogdRnE5jN https://t.co/TPkmljco7l	2020-01-22 14:40:27
+daharu0211	daharu	122	23	"""Speed inhomogeneity accelerates the information transfer in polar flock"" https://t.co/zRCgQbWzgM active matterの自己駆動力に不均一性が入っていたほうが揃いやすく、外場に対する応答も早くなるらしい。 これは面白い。定性的な振る舞いだけなら平均場近似で再現できないかな？"	2020-01-22 14:21:08
+adamu_of_FUN	安部	812	682	論文として出せる前に、誰かに先を越されないように、arXivに新しくわかった結果を区切りが良いところまででも上げるのって良いのだろうか	2020-01-22 14:16:55
+L_H_Sullivan	ふー🐯じん🐳	472	368	Antiferromagnetic quantum spin Hall states in iron halogenide https://t.co/uQ1rUJcfkl 時代はFeX3！	2020-01-22 13:40:56
+MAEA_2	MAEA2	569	599	午後にこれを読む  [1911.02768] Confidence Intervals for Policy Evaluation in Adaptive Experiments https://t.co/kPVx5gJ1da	2020-01-22 13:30:20
+Zeeman2Dhoney	pre-5NkeV（ゴンケヴ）@髪を切れ	433	682	今日の統計Cで言ってたNGボソンのやつ https://t.co/OpzIHfQgIM	2020-01-22 13:24:51
+aheaheman32	🥑🥑🥑🥑🥑	132	146	leinsterのベーシック圏論のpdf(本人が上げてる)  https://t.co/yrMTO1DwVO	2020-01-22 13:13:57
+wyuasa	W.Yuasa	460	122	Cayley-数独 table というのか。今日の arXiv で初めて知った。 MathSciNet で調べた感じだと数独に関する数学の論文は 2000 年代に入ってからたくさん出てるんだな。 https://t.co/5Y7VHgRQNE https://t.co/rWvax3WsyI	2020-01-22 13:13:19
+sosuke110	Egel🦔ハリネズミ	2240	804	研究結果が固まって詰めをしているときに長谷川グループも同様の結果(https://t.co/5xmmWcr7mg)を発表しようとしているということで、同時期投稿を目指して急いで論文化をしたので、ここのところこれにかかりっきりになってました。これから他の仕事に労力を割きます...。	2020-01-22 12:48:51
+sosuke110	Egel🦔ハリネズミ	2240	804	沙川研の大坪くんとの共同研究です。 https://t.co/eFpjqtJgvB エントロピー生成の熱力学的不確定性を用いたgradient ascentによる推定と、部分エントロピー生成における情報熱力学的な拡張の論文です。去年の夏頃から議論し、後者の結果や、ロジック、論文のブラッシュアップなど色々と貢献しました。	2020-01-22 12:45:32
+10539R	トポロジカルよこりん	446	580	論文出ました https://t.co/Lg1ST28TWi	2020-01-22 12:39:51
+arXiv_reaDer	arXiv reaDer bot	86	0	FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence FixMatch：一貫性と信頼性を備えた半教師あり学習の簡素化  2020-01-21T18:32:27+00:00  arXiv: https://t.co/woEKWJVBF8 英/日サマリ↓ https://t.co/QTXvzf4S75	2020-01-22 12:28:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Sensor Fusion: Gated Recurrent Fusion to Learn Driving Behavior from Temporal Multimodal Data センサーフュージョン：時間的マルチモーダルデータから運転行動を学習するためのゲート付き再帰フュージョン  2020-01-21T17:31:55+00:00  arXiv: https://t.co/zxHj2LOWDD https://t.co/KpMWT7OcBX	2020-01-22 12:27:53
+arXiv_reaDer	arXiv reaDer bot	86	0	SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation SAUNet：解釈可能な医療画像セグメンテーションのための注意深いU-Netの形状  2020-01-21T16:48:54+00:00  arXiv: https://t.co/3i6V3GBZaS 英/日サマリ↓ https://t.co/IV4YBk05F0	2020-01-22 12:27:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Generate High-Resolution Adversarial Samples by Identifying Effective Features 効果的な機能を特定して、高解像度の敵対者サンプルを生成する  2020-01-21T16:21:20+00:00  arXiv: https://t.co/BqZpSxXVyn 英/日サマリ↓ https://t.co/zHdVWStw6I	2020-01-22 12:27:13
+arXiv_reaDer	arXiv reaDer bot	86	0	batchboost: regularization for stabilizing training with resistance to underfitting &amp; overfitting batchboost：アンダーフィッティングとオーバーフィッティングに対する耐性を備えたトレーニングを安定化するための正則化  arXiv: https://t.co/YQtNDVCWnS https://t.co/mquSGO4JEn	2020-01-22 12:26:54
+arXiv_reaDer	arXiv reaDer bot	86	0	PatchPerPix for Instance Segmentation インスタンスセグメンテーション用のPatchPerPix  2020-01-21T16:06:51+00:00  arXiv: https://t.co/UuvJFZIHiE 英/日サマリ↓ https://t.co/lv2rtkTjPj	2020-01-22 12:26:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Learning in Medical Image Registration: A Survey 医用画像登録のディープラーニング：調査  2020-01-21T14:58:06+00:00  arXiv: https://t.co/VyqZdHXrVR 英/日サマリ↓ https://t.co/2QRPWTWhxS	2020-01-22 12:26:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Motif Difference Field: A Simple and Effective Image Representation of Time Series for Classification モチーフ差分フィールド：分類のための時系列のシンプルで効果的な画像表現  2020-01-21T14:48:43+00:00  arXiv: https://t.co/ys05Z2lNpW 英/日サマリ↓ https://t.co/m7wVSWhBQH	2020-01-22 12:25:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Geometric Proxies for Live RGB-D Stream Enhancement and Consolidation ライブRGB-Dストリームの強化と統合のための幾何学的プロキシ  2020-01-21T14:42:35+00:00  arXiv: https://t.co/0rwjYNX6to 英/日サマリ↓ https://t.co/jC8uLphfgV	2020-01-22 12:25:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Multimodal Deep Unfolding for Guided Image Super-Resolution ガイド画像の超解像のためのマルチモーダルディープアンフォールディング  2020-01-21T14:41:53+00:00  arXiv: https://t.co/q7h0NZFCIq 英/日サマリ↓ https://t.co/ZfZ8GoNluN	2020-01-22 12:25:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Radiomic Feature Stability Analysis based on Probabilistic Segmentations 確率的セグメンテーションに基づく放射特性安定性解析  2020-01-21T14:39:11+00:00  arXiv: https://t.co/KhmYFbvhQ7 英/日サマリ↓ https://t.co/2lWlQoZWH6	2020-01-22 12:24:53
+arXiv_reaDer	arXiv reaDer bot	86	0	What and Where to Translate: Local Mask-based Image-to-Image Translation 何をどこで翻訳するか：ローカルマスクベースの画像から画像への翻訳  2020-01-21T14:04:11+00:00  arXiv: https://t.co/Y6G9rd9n9b 英/日サマリ↓ https://t.co/Pr7ZFZOPX1	2020-01-22 12:24:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Variational Inference for Computational Imaging Inverse Problems 計算イメージング逆問題のための変分推論  2020-01-21T12:43:52+00:00  arXiv: https://t.co/wluR9TSFzT 英/日サマリ↓ https://t.co/S6sL1neiiO	2020-01-22 12:24:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Joint Learning of Instance and Semantic Segmentation for Robotic Pick-and-Place with Heavy Occl ... クラッタ内の重いオクルージョンを伴うロボットのピックアンドプレースのためのインスタンスと意味論的セグメンテーションの共同学習  arXiv: https://t.co/4BoQ7Rx2pV https://t.co/hu5HPZVsS4	2020-01-22 12:23:55
+arXiv_reaDer	arXiv reaDer bot	86	0	P^2-GAN: Efficient Style Transfer Using Single Style Image P ^ 2-GAN：単一スタイル画像を使用した効率的なスタイル転送  2020-01-21T12:08:08+00:00  arXiv: https://t.co/BkfpqijONb 英/日サマリ↓ https://t.co/d06RQxbTk3	2020-01-22 12:23:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Detecting Face2Face Facial Reenactment in Videos ビデオでのFace2Face顔の再現の検出  2020-01-21T11:03:50+00:00  arXiv: https://t.co/PIeVvw83Zl 英/日サマリ↓ https://t.co/4OaVVEoZJ2	2020-01-22 12:23:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning Diverse Features with Part-Level Resolution for Person Re-Identification 個人の再識別のためのパートレベルの解決による多様な機能の学習  2020-01-21T11:01:56+00:00  arXiv: https://t.co/SRvqXilMQL 英/日サマリ↓ https://t.co/CiYO54k94O	2020-01-22 12:22:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Evaluating Weakly Supervised Object Localization Methods Right 弱監視対象オブジェクトのローカライズ方法の適切な評価  2020-01-21T10:50:06+00:00  arXiv: https://t.co/dcRZmgYqMw 英/日サマリ↓ https://t.co/EsSYnA8lSS	2020-01-22 12:22:33
+arXiv_reaDer	arXiv reaDer bot	86	0	An End-to-end Deep Learning Approach for Landmark Detection and Matching in Medical Images 医用画像のランドマーク検出とマッチングのためのエンドツーエンドの深層学習アプローチ  2020-01-21T10:35:48+00:00  arXiv: https://t.co/0aSUTYFG7D 英/日サマリ↓ https://t.co/HqC7Qygu5n	2020-01-22 12:22:13
+arXiv_reaDer	arXiv reaDer bot	86	0	BIRL: Benchmark on Image Registration methods with Landmark validation BIRL：ランドマーク検証による画像登録方法のベンチマーク  2020-01-21T09:56:17+00:00  arXiv: https://t.co/1DrdYONLG3 英/日サマリ↓ https://t.co/eNyDkB0xc6	2020-01-22 12:21:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Graph Laplacian for Image Anomaly Detection 画像異常検出のためのグラフラプラシアン  2020-01-21T08:54:00+00:00  arXiv: https://t.co/UNSjPbHdVp 英/日サマリ↓ https://t.co/S0sbVW9I4o	2020-01-22 12:21:33
+arXiv_reaDer	arXiv reaDer bot	86	0	PEPSI++: Fast and Lightweight Network for Image Inpainting PEPSI ++：画像修復のための高速で軽量なネットワーク  2020-01-21T08:25:53+00:00  arXiv: https://t.co/9n4nHivekf 英/日サマリ↓ https://t.co/cDaBYBjWjE	2020-01-22 12:21:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Manifold Modeling in Embedded Space: A Perspective for Interpreting Deep Image Prior 埋め込み空間での多様体モデリング：深層画像事前解釈の展望  2020-01-21T08:14:35+00:00  arXiv: https://t.co/xFkMNDIQye 英/日サマリ↓ https://t.co/cSGWbiLEAy	2020-01-22 12:20:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Restoring Images with Unknown Degradation Factors by Recurrent Use of a Multi-branch Network マルチブランチネットワークの繰り返し使用による未知の劣化要因を伴う画像の復元  2020-01-21T07:00:11+00:00  arXiv: https://t.co/EKysdwdaSF 英/日サマリ↓ https://t.co/sd3apE3eQA	2020-01-22 12:20:33
+arXiv_reaDer	arXiv reaDer bot	86	0	From Planes to Corners: Multi-Purpose Primitive Detection in Unorganized 3D Point Clouds 平面からコーナーまで：組織化されていない3D点群における多目的プリミティブ検出  2020-01-21T06:51:47+00:00  arXiv: https://t.co/xgx2qpHScQ 英/日サマリ↓ https://t.co/E1KKOEnC92	2020-01-22 12:20:13
+arXiv_reaDer	arXiv reaDer bot	86	0	VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification VMRFANet：個人の再識別のためのビュー固有のマルチ受容フィールド注意ネットワーク  2020-01-21T06:31:18+00:00  arXiv: https://t.co/vrPraNYfEQ 英/日サマリ↓ https://t.co/eeArOKHnYY	2020-01-22 12:19:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Cascaded Structure Tensor Framework for Robust Identification of Heavily Occluded Baggage Items from Mul ... マルチベンダーX線スキャンからの重度に遮蔽された荷物アイテムの堅牢な識別のためのカスケード構造テンソルフレームワーク  arXiv: https://t.co/PN2rDcqt2Y https://t.co/8cLygGxu1E	2020-01-22 12:19:36
+arXiv_reaDer	arXiv reaDer bot	86	0	Transfer Learning using Neural Ordinary Differential Equations ニューラル常微分方程式を使用した転移学習  2020-01-21T04:59:08+00:00  arXiv: https://t.co/vaSEnvpmqn 英/日サマリ↓ https://t.co/OMaECz1SYS	2020-01-22 12:19:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Face Verification via learning the kernel matrix カーネルマトリックスの学習による顔認証  2020-01-21T03:39:09+00:00  arXiv: https://t.co/agoBSSAM0Q 英/日サマリ↓ https://t.co/b2YSRG58wV	2020-01-22 12:18:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Breast lesion segmentation in ultrasound images with limited annotated data 注釈付きデータが限られている超音波画像の乳房病変セグメンテーション  2020-01-21T03:34:42+00:00  arXiv: https://t.co/Y3WBRF7TjE 英/日サマリ↓ https://t.co/O0OfLnF7Cc	2020-01-22 12:18:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Neural Style Difference Transfer and Its Application to Font Generation ニューラルスタイルの差分転送とそのフォント生成への応用  2020-01-21T03:32:44+00:00  arXiv: https://t.co/6OSBQ8BEKA 英/日サマリ↓ https://t.co/LPsuGdrMv1	2020-01-22 12:18:13
+arXiv_reaDer	arXiv reaDer bot	86	0	An Intelligent Extraversion Analysis Scheme from Crowd Trajectories for Surveillance 監視のための群集軌跡からの知的外転解析スキーム  2020-01-21T02:29:23+00:00  arXiv: https://t.co/tCFRe8OYdY 英/日サマリ↓ https://t.co/W5Gf16Nj4g	2020-01-22 12:17:53
+arXiv_reaDer	arXiv reaDer bot	86	0	A 3D Probabilistic Deep Learning System for Detection and Diagnosis of Lung Cancer Using Low-Dose CT Scans 低線量CTスキャンを使用した肺癌の検出と診断のための3D確率的深層学習システム  2020-01-21T02:27:50+00:00  arXiv: https://t.co/BpPIbhRIKK 英/日サマリ↓ https://t.co/oZltXPcFic	2020-01-22 12:17:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Trained Rank Pruning for Efficient Deep Neural Networks 効率的なディープニューラルネットワークのための訓練されたランクプルーニング  2020-01-21T02:13:33+00:00  arXiv: https://t.co/iHV8WA77gj 英/日サマリ↓ https://t.co/o01LgaVeM5	2020-01-22 12:17:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Word-level Deep Sign Language Recognition from Video: A New Large-scale Dataset and Methods Comparison ビデオからの単語レベルの深い手話認識：新しい大規模データセットと方法の比較  2020-01-21T00:24:44+00:00  arXiv: https://t.co/FamPHavqta 英/日サマリ↓ https://t.co/OTtybWxuDI	2020-01-22 12:16:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Digital synthesis of histological stains using micro-structured and multiplexed virtual staining of label-free tissue ラベルフリー組織の微細構造化および多重化仮想染色を使用した組織学的染色のデジタル合成  arXiv: https://t.co/nhz185gV5z https://t.co/GWQ3g7Jn7a	2020-01-22 12:16:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Imbalance Problems in Object Detection: A Review オブジェクト検出の不均衡問題：レビュー  2020-01-20T22:00:15+00:00  arXiv: https://t.co/dCDL7DmV1i 英/日サマリ↓ https://t.co/m3uGWis86W	2020-01-22 12:16:13
+arXiv_reaDer	arXiv reaDer bot	86	0	ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution ChromaGAN：セマンティッククラス分布による敵対画像の色付け  2020-01-20T21:38:56+00:00  arXiv: https://t.co/nd1l2QTrdd 英/日サマリ↓ https://t.co/EPqJFrOXVN	2020-01-22 12:15:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Recovering Geometric Information with Learned Texture Perturbations 学習したテクスチャ摂動による幾何学的情報の回復  2020-01-20T21:15:13+00:00  arXiv: https://t.co/itpA9XvYg3 英/日サマリ↓ https://t.co/lPwN2rEqZm	2020-01-22 12:15:33
+arXiv_reaDer	arXiv reaDer bot	86	0	UR2KiD: Unifying Retrieval, Keypoint Detection, and Keypoint Description without Local Correspondence Supervision UR2KiD：ローカル通信監視なしで検索、キーポイント検出、キーポイント説明を統合  2020-01-20T21:01:38+00:00  arXiv: https://t.co/BGXEIAULzk https://t.co/8Mq6wQNczv	2020-01-22 12:15:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Autocamera Calibration for traffic surveillance cameras with wide angle lenses 広角レンズを備えた交通監視カメラのオートカメラキャリブレーション  2020-01-20T20:37:02+00:00  arXiv: https://t.co/vq0DWxQSkH 英/日サマリ↓ https://t.co/EfxjENXKxr	2020-01-22 12:14:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Recommending Themes for Ad Creative Design via Visual-Linguistic Representations 視覚言語表現による広告クリエイティブデザインのテーマの推奨  2020-01-20T18:04:10+00:00  arXiv: https://t.co/sZISRQ4uiS 英/日サマリ↓ https://t.co/U4rGM7LEyY	2020-01-22 12:14:33
+masazumi318	Masazumi Honda	1260	2850	最初昔の超有名な電弱理論のやつをただarXivにあげただけかと思ったｗ	2020-01-22 12:14:18
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning Deformable Registration of Medical Images with Anatomical Constraints 解剖学的制約を伴う医用画像の変形可能な登録の学習  2020-01-20T17:44:11+00:00  arXiv: https://t.co/q8iwR732aI 英/日サマリ↓ https://t.co/wHwOPUpFBd	2020-01-22 12:14:13
+arXiv_reaDer	arXiv reaDer bot	86	0	RGait-NET: An Effective Network for Recovering Missing Information from Occluded Gait Cycles RGait-NET：遮蔽された歩行サイクルから欠落情報を回復するための効果的なネットワーク  2020-01-20T16:54:18+00:00  arXiv: https://t.co/XOFMHqylpi 英/日サマリ↓ https://t.co/xz1lDQ5igQ	2020-01-22 12:13:53
+arXiv_reaDer	arXiv reaDer bot	86	0	A deep network for sinogram and CT image reconstruction サイノグラムおよびCT画像再構成のためのディープネットワーク  2020-01-20T15:50:16+00:00  arXiv: https://t.co/hWqnj2vtub 英/日サマリ↓ https://t.co/M0B5FTfWte	2020-01-22 12:13:33
+arXiv_reaDer	arXiv reaDer bot	86	0	PolSAR Image Classification Based on Dilated Convolution and Pixel-Refining Parallel Mapping network in the Complex Domain 複雑な領域での拡張畳み込みおよびピクセル調整並列マッピングネットワークに基づくPolSAR画像分類  arXiv: https://t.co/fvPs1FearP https://t.co/kxQ4vs3ZLD	2020-01-22 12:13:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Pseudo-Labeling and Confirmation Bias in Deep Semi-Supervised Learning 深い半教師あり学習における擬似ラベル付けと確認バイアス  2020-01-20T14:54:03+00:00  arXiv: https://t.co/UkWdeV0ufh 英/日サマリ↓ https://t.co/8cd0IMlcID	2020-01-22 12:12:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Spectral Pyramid Graph Attention Network for Hyperspectral Image Classification ハイパースペクトル画像分類のためのスペクトルピラミッドグラフ注目ネットワーク  2020-01-20T13:49:43+00:00  arXiv: https://t.co/Gl8at2c2Xz 英/日サマリ↓ https://t.co/aVcYjxHoDk	2020-01-22 12:12:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Active and Incremental Learning with Weak Supervision 弱監視による能動的および漸進的学習  2020-01-20T13:21:14+00:00  arXiv: https://t.co/VZUxgNsc2U 英/日サマリ↓ https://t.co/BnjDHS3E2S	2020-01-22 12:12:13
+arXiv_reaDer	arXiv reaDer bot	86	0	BARNet: Bilinear Attention Network with Adaptive Receptive Field for Surgical Instrument Segmentation BARNet：手術器具のセグメンテーションのための適応受容野を備えた双線形注意ネットワーク  2020-01-20T13:05:08+00:00  arXiv: https://t.co/9G2oIQjaAp https://t.co/wswO0Amd4S	2020-01-22 12:11:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Multiplication fusion of sparse and collaborative-competitive representation for image classification 画像分類のためのまばらな協調的競合表現の乗算融合  2020-01-20T12:55:55+00:00  arXiv: https://t.co/4R74cG1xI0 英/日サマリ↓ https://t.co/6EYt6aXOSI	2020-01-22 12:11:33
+arXiv_reaDer	arXiv reaDer bot	86	0	PILOT: Physics-Informed Learned Optimized Trajectories for Accelerated MRI パイロット：加速MRIの物理情報に基づいた学習最適化軌道  2020-01-20T11:32:35+00:00  arXiv: https://t.co/mGNbckH2U7 英/日サマリ↓ https://t.co/LUz6AgyNsl	2020-01-22 12:11:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Accuracy vs. Complexity: A Trade-off in Visual Question Answering Models 精度と複雑さ：視覚的な質問応答モデルのトレードオフ  2020-01-20T11:27:21+00:00  arXiv: https://t.co/AIif8zIpXT 英/日サマリ↓ https://t.co/ptYEsBkhdt	2020-01-22 12:10:53
+arXiv_reaDer	arXiv reaDer bot	86	0	End-to-end facial and physiological model for Affective Computing and applications アフェクティブコンピューティングおよびアプリケーション向けのエンドツーエンドの顔および生理学モデル  2020-01-20T11:25:55+00:00  arXiv: https://t.co/kJyqAciH5r 英/日サマリ↓ https://t.co/NF4WmfZU8j	2020-01-22 12:10:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Plane Pair Matching for Efficient 3D View Registration 効率的な3Dビュー登録のためのプレーンペアマッチング  2020-01-20T11:15:26+00:00  arXiv: https://t.co/qBjfFnGulP 英/日サマリ↓ https://t.co/HxVliTvAP5	2020-01-22 12:10:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Sensor Aware Lidar Odometry センサー対応のライダーオドメトリー  2020-01-20T10:26:52+00:00  arXiv: https://t.co/pltv9AvvcP 英/日サマリ↓ https://t.co/8dhZmPkPji	2020-01-22 12:09:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Low-Rank Pairwise Alignment Bilinear Network For Few-Shot Fine-Grained Image Classification 少数ショットの細粒度画像分類のための低ランクのペアワイズアライメント双線形ネットワーク  2020-01-20T10:05:18+00:00  arXiv: https://t.co/qMCmlsyBXV 英/日サマリ↓ https://t.co/sX4d7gdxMX	2020-01-22 12:09:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Image Clustering with Tensor Kernels and Unsupervised Companion Objectives テンソルカーネルと教師なしコンパニオン目標を使用したディープイメージクラスタリング  2020-01-20T09:07:59+00:00  arXiv: https://t.co/gcUxmU0h3f 英/日サマリ↓ https://t.co/FHtLiioZ8B	2020-01-22 12:09:13
+arXiv_reaDer	arXiv reaDer bot	86	0	An Efficient Framework for Automated Screening of Clinically Significant Macular Edema 臨床的に重要な黄斑浮腫の自動スクリーニングのための効率的なフレームワーク  2020-01-20T07:34:13+00:00  arXiv: https://t.co/2t6zP0bLHr 英/日サマリ↓ https://t.co/nDlNnGpUYv	2020-01-22 12:08:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Comparison Network for One-Shot Conditional Object Detection ワンショット条件付きオブジェクト検出の比較ネットワーク  2020-01-20T07:10:17+00:00  arXiv: https://t.co/QBovi4moxe 英/日サマリ↓ https://t.co/NVPjLOaZXm	2020-01-22 12:08:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Adaptive Dithering Using Curved Markov-Gaussian Noise in the Quantized Domain for Mapping SDR to HDR Image SDRをHDR画像にマッピングするための量子化ドメインでの曲線マルコフガウスノイズを使用した適応ディザリング  arXiv: https://t.co/UeT1NJIYsS https://t.co/FZG1mUUI5f	2020-01-22 12:08:14
+arXiv_reaDer	arXiv reaDer bot	86	0	FD-GAN: Generative Adversarial Networks with Fusion-discriminator for Single Image Dehazing FD-GAN：単一画像のディヘイジングのための融合識別機能を備えた生成的敵対ネットワーク  2020-01-20T04:36:11+00:00  arXiv: https://t.co/ZvNiB39nkZ 英/日サマリ↓ https://t.co/7mpqc6Gxm8	2020-01-22 12:07:53
+arXiv_reaDer	arXiv reaDer bot	86	0	A hybrid algorithm for disparity calculation from sparse disparity estimates based on stereo vision ステレオビジョンに基づく疎な視差推定からの視差計算のためのハイブリッドアルゴリズム  2020-01-20T04:33:28+00:00  arXiv: https://t.co/UBhVkwIjx9 英/日サマリ↓ https://t.co/V13YIQIrBl	2020-01-22 12:07:33
+arXiv_reaDer	arXiv reaDer bot	86	0	G2MF-WA: Geometric Multi-Model Fitting with Weakly Annotated Data G2MF-WA：弱い注釈付きデータを使用した幾何学的マルチモデルフィッティング  2020-01-20T04:22:01+00:00  arXiv: https://t.co/ZZkzYLUZbz 英/日サマリ↓ https://t.co/Nx5aJs253l	2020-01-22 12:07:13
+arXiv_reaDer	arXiv reaDer bot	86	0	DD-PPO: Learning Near-Perfect PointGoal Navigators from 2.5 Billion Frames DD-PPO：25億フレームからほぼ完璧なPointGoalナビゲーターを学習  2020-01-20T04:18:58+00:00  arXiv: https://t.co/JeTIMOEiUx 英/日サマリ↓ https://t.co/UGk47XqvTm	2020-01-22 12:06:53
+arXiv_reaDer	arXiv reaDer bot	86	0	A Novel Image Dehazing and Assessment Method 新しい画像のぼかしと評価方法  2020-01-20T04:01:09+00:00  arXiv: https://t.co/YUhaNqQti0 英/日サマリ↓ https://t.co/FkDBBHvTdE	2020-01-22 12:06:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Robust Training with Ensemble Consensus Ensemble Consensusによる堅牢なトレーニング  2020-01-20T03:33:50+00:00  arXiv: https://t.co/1P38EWJNlt 英/日サマリ↓ https://t.co/WJzcw44ftL	2020-01-22 12:06:13
+arXiv_reaDer	arXiv reaDer bot	86	0	SQuINTing at VQA Models: Interrogating VQA Models with Sub-Questions VQAモデルでのSQuINTing：サブ質問によるVQAモデルの調査  2020-01-20T01:02:36+00:00  arXiv: https://t.co/K6tP2tEIIU 英/日サマリ↓ https://t.co/eGiKgKpCSM	2020-01-22 12:05:53
+arXiv_reaDer	arXiv reaDer bot	86	0	DeepTIO: A Deep Thermal-Inertial Odometry with Visual Hallucination DeepTIO：幻覚を伴う深い熱慣性オドメトリ  2020-01-19T22:42:04+00:00  arXiv: https://t.co/6tPgYjwyZ9 英/日サマリ↓ https://t.co/rvA01DL39r	2020-01-22 12:05:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Self-Supervised Learning of State Estimation for Manipulating Deformable Linear Objects 変形可能な線形オブジェクトを操作するための状態推定の自己監視学習  2020-01-19T22:31:33+00:00  arXiv: https://t.co/vI49Y6BT8b 英/日サマリ↓ https://t.co/QrHNQ9mThK	2020-01-22 12:05:13
+arXiv_reaDer	arXiv reaDer bot	86	0	MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning MTI-Net：マルチタスク学習のためのマルチスケールタスク相互作用ネットワーク  2020-01-19T21:02:36+00:00  arXiv: https://t.co/udlig0geAC 英/日サマリ↓ https://t.co/bCkNO6BvjQ	2020-01-22 12:04:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Towards Augmented Reality-based Suturing in Monocular Laparoscopic Training 単眼腹腔鏡トレーニングにおける拡張現実ベースの縫合に向けて  2020-01-19T19:59:58+00:00  arXiv: https://t.co/CIcf7DOPMS 英/日サマリ↓ https://t.co/c5wYuOVH61	2020-01-22 12:04:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Where Does It Exist: Spatio-Temporal Video Grounding for Multi-Form Sentences どこにあるのか：マルチフォーム文のための時空間ビデオグラウンディング  2020-01-19T19:53:22+00:00  arXiv: https://t.co/Jl9kTFJkmo 英/日サマリ↓ https://t.co/UDwRmStCHc	2020-01-22 12:04:13
+arXiv_reaDer	arXiv reaDer bot	86	0	RGB-D Odometry and SLAM RGB-DオドメトリとSLAM  2020-01-19T17:56:11+00:00  arXiv: https://t.co/ePmzJnGEov 英/日サマリ↓ https://t.co/P2T74bZ949	2020-01-22 12:03:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Towards Stabilizing Batch Statistics in Backward Propagation of Batch Normalization バッチ正規化の逆伝播におけるバッチ統計の安定化に向けて  2020-01-19T14:41:22+00:00  arXiv: https://t.co/svsAf2ULo1 英/日サマリ↓ https://t.co/NEhLnU9YcH	2020-01-22 12:03:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement 低照度画像強調のためのゼロ参照深部曲線推定  2020-01-19T13:49:15+00:00  arXiv: https://t.co/G5P81kw3p1 英/日サマリ↓ https://t.co/ZEp08FxykX	2020-01-22 12:03:13
+arXiv_reaDer	arXiv reaDer bot	86	0	SlideImages: A Dataset for Educational Image Classification SlideImages：教育用画像分類のためのデータセット  2020-01-19T13:11:55+00:00  arXiv: https://t.co/3QrxnsmUIo 英/日サマリ↓ https://t.co/vU9PH6EPgj	2020-01-22 12:02:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Semantic Face Deblurring ディープセマンティックフェイスのブレ除去  2020-01-19T13:06:27+00:00  arXiv: https://t.co/lt4tWsQtGR 英/日サマリ↓ https://t.co/IrdHrR5bgb	2020-01-22 12:02:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Gated Path Selection Network for Semantic Segmentation セマンティックセグメンテーションのためのゲートパス選択ネットワーク  2020-01-19T12:32:17+00:00  arXiv: https://t.co/Bqk3XAgnmq 英/日サマリ↓ https://t.co/CvAfs28BdV	2020-01-22 12:02:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Human-Aware Motion Deblurring ヒューマンアウェアモーションブレ除去  2020-01-19T12:16:39+00:00  arXiv: https://t.co/ikBH6cLu8h 英/日サマリ↓ https://t.co/8ltR7tDsav	2020-01-22 12:01:53
+arXiv_reaDer	arXiv reaDer bot	86	0	GTNet: Generative Transfer Network for Zero-Shot Object Detection GTNet：ゼロショットオブジェクト検出用の生成転送ネットワーク  2020-01-19T11:49:30+00:00  arXiv: https://t.co/jr7rNufxjg 英/日サマリ↓ https://t.co/24VKHmkFzz	2020-01-22 12:01:33
+arXiv_reaDer	arXiv reaDer bot	86	0	See More, Know More: Unsupervised Video Object Segmentation with Co-Attention Siamese Networks もっと見る、もっと知る：共焦点シャムネットワークによる監視なしビデオオブジェクトセグメンテーション  2020-01-19T11:10:39+00:00  arXiv: https://t.co/IbJelVuFak https://t.co/gFPXVENFjK	2020-01-22 12:01:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Zero-Shot Video Object Segmentation via Attentive Graph Neural Networks 注意深いグラフニューラルネットワークを介したゼロショットビデオオブジェクトセグメンテーション  2020-01-19T10:45:27+00:00  arXiv: https://t.co/EzK53UAjLm 英/日サマリ↓ https://t.co/cm5JF7VnGm	2020-01-22 12:00:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Learning Compositional Neural Information Fusion for Human Parsing 人間の構文解析のための構成的神経情報融合の学習  2020-01-19T10:35:14+00:00  arXiv: https://t.co/wINwVVJ5ZZ 英/日サマリ↓ https://t.co/bP5lJm5B4O	2020-01-22 12:00:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Salient Object Detection in the Deep Learning Era: An In-Depth Survey ディープラーニング時代の顕著なオブジェクト検出：詳細な調査  2020-01-19T10:25:00+00:00  arXiv: https://t.co/MpSnOG66oz 英/日サマリ↓ https://t.co/8mBXRZpd9Y	2020-01-22 12:00:13
+arXiv_reaDer	arXiv reaDer bot	86	0	A Hybrid Compact Neural Architecture for Visual Place Recognition 視覚的場所認識のためのハイブリッドコンパクトニューラルアーキテクチャ  2020-01-19T09:18:47+00:00  arXiv: https://t.co/HhRxrDQxTC 英/日サマリ↓ https://t.co/Alre8Cp62Z	2020-01-22 11:59:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Class-specific residual constraint non-negative representation for pattern classification パターン分類のためのクラス固有の残差制約の非負表現  2020-01-19T06:49:11+00:00  arXiv: https://t.co/CLtatdSQWS 英/日サマリ↓ https://t.co/18cew39Fyv	2020-01-22 11:59:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Gradient Surgery for Multi-Task Learning マルチタスク学習のための勾配手術  2020-01-19T06:33:47+00:00  arXiv: https://t.co/VUGyuQ8h1V 英/日サマリ↓ https://t.co/XGdb9SZAdz	2020-01-22 11:59:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Image denoising via K-SVD with primal-dual active set algorithm 主デュアルアクティブセットアルゴリズムを使用したK-SVDによる画像ノイズ除去  2020-01-19T06:03:39+00:00  arXiv: https://t.co/sumsy50VIE 英/日サマリ↓ https://t.co/YAg6UAqt0c	2020-01-22 11:58:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Convergence of backpropagation with momentum for network architectures with skip connections スキップ接続を使用したネットワークアーキテクチャの逆伝播と勢いの収束  2020-01-19T04:59:25+00:00  arXiv: https://t.co/aOnRHqEPWM 英/日サマリ↓ https://t.co/oqe3wGE6Tv	2020-01-22 11:58:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Towards More Efficient and Effective Inference: The Joint Decision of Multi-Participants より効率的で効果的な推論に向けて：複数参加者の共同決定  2020-01-19T04:52:05+00:00  arXiv: https://t.co/xiQpdab9fN 英/日サマリ↓ https://t.co/wm8XHUmEo8	2020-01-22 11:58:13
+arXiv_reaDer	arXiv reaDer bot	86	0	MixTConv: Mixed Temporal Convolutional Kernels for Efficient Action Recogntion MixTConv：効率的なアクション認識のための混合時間畳み込みカーネル  2020-01-19T04:21:51+00:00  arXiv: https://t.co/ioq4Nfk4Up 英/日サマリ↓ https://t.co/g5SRTrPDNI	2020-01-22 11:57:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Image Compression Based on Compressive Sensing: End-to-End Comparison with JPEG 圧縮センシングに基づく画像圧縮：JPEGとのエンドツーエンドの比較  2020-01-19T03:26:54+00:00  arXiv: https://t.co/RrIL4cK5Vh 英/日サマリ↓ https://t.co/5s4gQq6M4B	2020-01-22 11:57:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Charting the Right Manifold: Manifold Mixup for Few-shot Learning 適切な多様体のチャート化：数ショット学習のための多様体混同  2020-01-18T20:01:55+00:00  arXiv: https://t.co/q0Ji9G6PEd 英/日サマリ↓ https://t.co/w2wPbMLFeA	2020-01-22 11:57:13
+arXiv_reaDer	arXiv reaDer bot	86	0	ErrorNet: Learning error representations from limited data to improve vascular segmentation ErrorNet：限られたデータからエラー表現を学習して、血管セグメンテーションを改善する  2020-01-18T19:40:57+00:00  arXiv: https://t.co/ugiXH1nzqa 英/日サマリ↓ https://t.co/a4ikTFvTso	2020-01-22 11:56:53
+arXiv_reaDer	arXiv reaDer bot	86	0	SiamMan: Siamese Motion-aware Network for Visual Tracking SiamMan：視覚追跡のためのシャムモーション認識ネットワーク  2020-01-18T18:08:03+00:00  arXiv: https://t.co/7Vj1RD4uMx 英/日サマリ↓ https://t.co/znLaEvvbzr	2020-01-22 11:56:33
+arXiv_reaDer	arXiv reaDer bot	86	0	NETNet: Neighbor Erasing and Transferring Network for Better Single Shot Object Detection NETNet：より良いシングルショットオブジェクト検出のための近隣消去および転送ネットワーク  2020-01-18T15:21:29+00:00  arXiv: https://t.co/2KCQ8WoDH1 英/日サマリ↓ https://t.co/rmuMZkVmae	2020-01-22 11:56:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video ビデオの時間的言語グラウンディングのためのツリー構造ポリシーベースのプログレッシブ強化学習  2020-01-18T15:08:04+00:00  arXiv: https://t.co/CKGIeqdJYo https://t.co/ODIahJLLH6	2020-01-22 11:55:53
+arXiv_reaDer	arXiv reaDer bot	86	0	ENAS U-Net: Evolutionary Neural Architecture Search for Retinal Vessel Segmentation ENAS U-Net：網膜血管セグメンテーションのための進化的ニューラルアーキテクチャ検索  2020-01-18T15:07:26+00:00  arXiv: https://t.co/lXVsZtDB54 英/日サマリ↓ https://t.co/9uSm902o91	2020-01-22 11:55:33
+arXiv_reaDer	arXiv reaDer bot	86	0	A Transfer Learning Approach to Cross-Modal Object Recognition: From Visual Observation to Robotic Haptic Exploration クロスモーダル物体認識への転移学習アプローチ：視覚的観察からロボット触覚探査まで  arXiv: https://t.co/hG40bQn5nI https://t.co/cWYznBeIJC	2020-01-22 11:55:14
+arXiv_reaDer	arXiv reaDer bot	86	0	Joint Unsupervised Learning for the Vertebra Segmentation, Artifact Reduction and Modality Translation of CBC ... 脊椎のセグメンテーション、アーティファクトの削減、およびCBCT画像のモダリティ変換のための統合された教師なし学習  arXiv: https://t.co/KWKbXc6PjM https://t.co/slSCMv1X9k	2020-01-22 11:54:54
+arXiv_reaDer	arXiv reaDer bot	86	0	DuDoNet++: Encoding mask projection to reduce CT metal artifacts DuDoNet ++：CT金属アーチファクトを減らすためのマスク投影のエンコード  2020-01-18T14:10:04+00:00  arXiv: https://t.co/gQBOovWO5m 英/日サマリ↓ https://t.co/dFnaOQCURr	2020-01-22 11:54:33
+arXiv_reaDer	arXiv reaDer bot	86	0	Multi-View Photometric Stereo: A Robust Solution and Benchmark Dataset for Spatially Varying Isotropi ... マルチビューフォトメトリックステレオ：空間的に変化する等方性材料のための堅牢なソリューションとベンチマークデータセット  arXiv: https://t.co/rZQugnOlnR https://t.co/xmCfMKaE8B	2020-01-22 11:54:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Text-to-Image Generation with Attention Based Recurrent Neural Networks 注意ベースのリカレントニューラルネットワークを使用したテキストから画像への生成  2020-01-18T12:19:19+00:00  arXiv: https://t.co/QuC3KzwWFb 英/日サマリ↓ https://t.co/GdKPdcAQxf	2020-01-22 11:53:53
+arXiv_reaDer	arXiv reaDer bot	86	0	Stacked Adversarial Network for Zero-Shot Sketch based Image Retrieval ゼロショットスケッチベースの画像検索のためのスタック型敵対ネットワーク  2020-01-18T12:18:28+00:00  arXiv: https://t.co/0EaUrHEH2P 英/日サマリ↓ https://t.co/ACV44MCLhk	2020-01-22 11:53:33
+arXiv_reaDer	arXiv reaDer bot	86	0	EpO-Net: Exploiting Geometric Constraints on Dense Trajectories for Motion Saliency EpO-Net：動きの顕著性のための密な軌跡に対する幾何学的制約の活用  2020-01-18T10:40:58+00:00  arXiv: https://t.co/vzeEQQJO9I 英/日サマリ↓ https://t.co/TqOHuKzpNS	2020-01-22 11:53:13
+arXiv_reaDer	arXiv reaDer bot	86	0	Contrastive Representation Distillation 対照的な表現蒸留  2020-01-18T10:09:39+00:00  arXiv: https://t.co/irhlIlBpdW 英/日サマリ↓ https://t.co/DBROAS7efd	2020-01-22 11:52:58
+arXiv_reaDer	arXiv reaDer bot	86	0	OIAD: One-for-all Image Anomaly Detection with Disentanglement Learning OIAD：もつれ解除学習を使用した1対1の画像異常検出  2020-01-18T09:57:37+00:00  arXiv: https://t.co/yLxSeknDbc 英/日サマリ↓ https://t.co/oKtxfOGex9	2020-01-22 11:52:55
+arXiv_reaDer	arXiv reaDer bot	86	0	ScarfNet: Multi-scale Features with Deeply Fused and Redistributed Semantics for Enhanced Object Detection ScarfNet：強化されたオブジェクト検出のための深く融合および再配布されたセマンティクスを備えたマルチスケール機能  arXiv: https://t.co/wwXX6qcCxi https://t.co/E7dWknvF2o	2020-01-22 11:52:52
+arXiv_reaDer	arXiv reaDer bot	86	0	Accelerating the Registration of Image Sequences by Spatio-temporal Multilevel Strategies 時空間マルチレベル戦略による画像シーケンスの登録の加速  2020-01-18T06:46:16+00:00  arXiv: https://t.co/TnwXVe2lb3 英/日サマリ↓ https://t.co/EFHWdR4ZOg	2020-01-22 11:52:49
+arXiv_reaDer	arXiv reaDer bot	86	0	Deep Metric Structured Learning For Facial Expression Recognition 表情認識のためのディープメトリック構造化学習  2020-01-18T06:23:18+00:00  arXiv: https://t.co/L6tfzftmPn 英/日サマリ↓ https://t.co/mOJbutWAz8	2020-01-22 11:52:24
+arXiv_reaDer	arXiv reaDer bot	86	0	A Foreground-background Parallel Compression with Residual Encoding for Surveillance Video 監視ビデオのための残差符号化による前景背景並列圧縮  2020-01-18T03:35:00+00:00  arXiv: https://t.co/v3olYodn40 英/日サマリ↓ https://t.co/s2TO0k154H	2020-01-22 11:51:55
+arXiv_reaDer	arXiv reaDer bot	86	0	A GAN-based Tunable Image Compression System GANベースの調整可能な画像圧縮システム  2020-01-18T02:40:09+00:00  arXiv: https://t.co/cNJJZGUcG2 英/日サマリ↓ https://t.co/YQ9RzL7eMB	2020-01-22 11:51:25
+arXiv_reaDer	arXiv reaDer bot	86	0	Harmonic Convolutional Networks based on Discrete Cosine Transform 離散コサイン変換に基づく調和たたみ込みネットワーク  2020-01-18T01:13:20+00:00  arXiv: https://t.co/VJK7tl9mMr 英/日サマリ↓ https://t.co/aXFFBFxX7J	2020-01-22 11:50:58
+arXiv_reaDer	arXiv reaDer bot	86	0	Media Forensics and DeepFakes: an overview メディアフォレンジックとDeepFakes：概要  2020-01-18T00:13:32+00:00  arXiv: https://t.co/e3ibp3jHfh 英/日サマリ↓ https://t.co/Zyi1HOrISY	2020-01-22 11:50:50
+arXiv_reaDer	arXiv reaDer bot	86	0	A Cryptanalysis of Two Cancelable Biometric Schemes based on Index-of-Max Hashing 最大指数のハッシュに基づく2つのキャンセル可能な生体認証スキームの暗号解析  2020-01-17T23:08:19+00:00  arXiv: https://t.co/IAsaD0gWcl 英/日サマリ↓ https://t.co/MVJPLGIESE	2020-01-22 11:50:46
+arXiv_reaDer	arXiv reaDer bot	86	0	End-to-End Supervised Product Quantization for Image Search and Retrieval 画像検索と検索のためのエンドツーエンドの教師付き製品量子化  2020-01-17T22:56:50+00:00  arXiv: https://t.co/ULvJQUcpYw 英/日サマリ↓ https://t.co/6dCXHIsMDJ	2020-01-22 11:50:40
+arXiv_reaDer	arXiv reaDer bot	86	0	Near-lossless ℓ_∞-constrained Image Decompression via Deep Neural Network ディープニューラルネットワークを介したほぼ無損失のℓ_∞制約付き画像圧縮解除  2020-01-17T22:25:45+00:00  arXiv: https://t.co/VThdUWXgSc 英/日サマリ↓ https://t.co/hbQAGIqhDN	2020-01-22 11:50:36
+arXiv_reaDer	arXiv reaDer bot	86	0	Adapting Grad-CAM for Embedding Networks ネットワークを埋め込むためのGrad-CAMの適応  2020-01-17T21:21:23+00:00  arXiv: https://t.co/EtR09kZVoo 英/日サマリ↓ https://t.co/eQD9xGtXOq	2020-01-22 11:50:31
+arXiv_reaDer	arXiv reaDer bot	86	0	CHAOS Challenge -- Combined (CT-MR) Healthy Abdominal Organ Segmentation CHAOSチャレンジ-組み合わせた（CT-MR）健康な腹部臓器のセグメンテーション  2020-01-17T21:11:46+00:00  arXiv: https://t.co/1W0P9Hs4BV 英/日サマリ↓ https://t.co/9ahwqBKoMg	2020-01-22 11:50:27
+arXiv_reaDer	arXiv reaDer bot	86	0	Are you really looking at me? A Feature-Extraction Framework for Estimating Interpersonal Eye Gaze from Conventional Video 本当に私を見ているの？従来のビデオから対人視線を推定するための特徴抽出フレームワーク  arXiv: https://t.co/8oLNd91nt2 https://t.co/44PVd0aPFT	2020-01-22 11:50:21
+arXiv_reaDer	arXiv reaDer bot	86	0	Detecting the Starting Frame of Actions in Video ビデオ内のアクションの開始フレームの検出  2020-01-17T20:11:54+00:00  arXiv: https://t.co/FTbk9suCRU 英/日サマリ↓ https://t.co/LTahVMXnKm	2020-01-22 11:50:17
+arXiv_reaDer	arXiv reaDer bot	86	0	Temporal Interlacing Network 時間インターレースネットワーク  2020-01-17T19:06:05+00:00  arXiv: https://t.co/BlfMIcSgRN 英/日サマリ↓ https://t.co/DWyB1kPAVA	2020-01-22 11:50:15
+arXiv_reaDer	arXiv reaDer bot	86	0	Cut-Based Graph Learning Networks to Discover Compositional Structure of Sequential Video Data シーケンシャルビデオデータの構成構造を発見するためのカットベースのグラフ学習ネットワーク  2020-01-17T10:09:24+00:00  arXiv: https://t.co/zSdbH3ERJc 英/日サマリ↓ https://t.co/BspB8u13gu	2020-01-22 11:50:13
+piconic_X	yosider	183	438	@kanair_jp エントロピーの増大に対抗する営み，とかですかね．捕食に限らないですが... https://t.co/62qYpaDWO1	2020-01-22 11:50:09
+thetak11	しいたけ	258	280	https://t.co/a34FaNH6ZE ほえ～　楽曲モデリングにMLN使うのか	2020-01-22 11:32:49
+arXiv_reaDer	arXiv reaDer bot	86	0	TailorGAN: Making User-Defined Fashion Designs TailorGAN：ユーザー定義のファッションデザインの作成  2020-01-20T03:33:33+00:00  arXiv: https://t.co/xc06tPdGRM 英/日サマリ↓ https://t.co/vD7u4k3ZAn	2020-01-22 11:30:46
+arXiv_reaDer	arXiv reaDer bot	86	0	MAP Inference via L2-Sphere Linear Program Reformulation L2-Sphere線形プログラム再定式化によるMAP推論  2020-01-20T03:09:50+00:00  arXiv: https://t.co/IBQ78JdMob 英/日サマリ↓ https://t.co/AxJUPIGXz7	2020-01-22 11:30:43
+arXiv_reaDer	arXiv reaDer bot	86	0	Fast Glioblastoma Detection in Fluid-attenuated inversion recovery (FLAIR) images by Topological Explainable Automatic Machine L ... トポロジー的に説明可能な自動機械学習による流体減衰反転回復（FLAIR）画像での膠芽腫の高速検出  arXiv: https://t.co/PDc8bwPKTV https://t.co/DZXWf6ZsYn	2020-01-22 11:30:40
+arXiv_reaDer	arXiv reaDer bot	86	0	Transferability of Adversarial Examples to Attack Cloud-based Image Classifier Service クラウドベースの画像分類サービスを攻撃するための敵対的な例の転送可能性  2020-01-20T02:07:37+00:00  arXiv: https://t.co/EjW4CmT67L 英/日サマリ↓ https://t.co/qOkJOon05Q	2020-01-22 11:30:36
+arXiv_reaDer	arXiv reaDer bot	86	0	Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering プログレッシブ再考と協調学習の組み合わせ：インループフィルタリングのディープフレームワーク  2020-01-21T06:47:36+00:00  arXiv: https://t.co/u98RAdefcx https://t.co/c3bHdJeUeW	2020-01-22 11:30:32
+arXiv_reaDer	arXiv reaDer bot	86	0	Image Segmentation Using Deep Learning: A Survey 深層学習を使用した画像セグメンテーション：調査  2020-01-18T01:40:34+00:00  arXiv: https://t.co/6adlAghHt0 英/日サマリ↓ https://t.co/aWjO0zv4sP	2020-01-22 11:30:26
+arXiv_reaDer	arXiv reaDer bot	86	0	Uncertainty-Aware Multi-Shot Knowledge Distillation for Image-Based Object Re-Identification 画像ベースのオブジェクト再識別のための不確実性を意識したマルチショット知識蒸留  2020-01-21T17:21:07+00:00  arXiv: https://t.co/L1539rryXy 英/日サマリ↓ https://t.co/AvzVGAkwnK	2020-01-22 11:30:23
+arXiv_reaDer	arXiv reaDer bot	86	0	Adversarial Loss for Semantic Segmentation of Aerial Imagery 空中画像のセマンティックセグメンテーションの敵対的損失  2020-01-18T10:21:37+00:00  arXiv: https://t.co/p1KOTaPYPq 英/日サマリ↓ https://t.co/CC0ZLMpTTl	2020-01-22 11:30:21
+arXiv_reaDer	arXiv reaDer bot	86	0	Automated Pavement Crack Segmentation Using Fully Convolutional U-Net with a Pretrained ResNet-34 Encoder 事前学習済みResNet-34エンコーダーを備えた完全な畳み込みU-Netを使用した自動舗装亀裂セグメンテーション  arXiv: https://t.co/Hv0TQt2vYR https://t.co/NrWk3ZKvux	2020-01-22 11:30:20
+arXiv_reaDer	arXiv reaDer bot	86	0	Do As I Do: Transferring Human Motion and Appearance between Monocular Videos with Spatial and Temporal Constraints Do As I Do：空間的および時間的制約のある単眼ビデオ間での人間の動きと外観の転送  2020-01-21T17:26:48+00:00  arXiv: https://t.co/kqTZTUqu8a https://t.co/yPLwSKByx4	2020-01-22 11:30:19
+tjmlab	部品（本田翼）	2916	333	Progress in cooling nanoelectronic devices to ultra-low temperatures  冷却nanoデバイスの最新レビュー、最低温度0.5mk位まで下げられる時代なのか(´・∀・｀)ﾍｰ   https://t.co/BAXKwpew70	2020-01-22 11:22:28
+tjmlab	部品（本田翼）	2916	333	Miscibility gap and possible intrinsic Griffiths phase in Sr(Fe1-xMnx)2As2 crystals grown by transitional metal arsenide flux  Ba122系でもいいけどグリフィス相のネマティック応答測ってみて欲しい(KONAMI)  https://t.co/2XMJubPf3H	2020-01-22 11:19:16
+tjmlab	部品（本田翼）	2916	333	Reversible transition between Yu-Shiba-Rusinov state and Majorana zero mode by magnetic adatom manipulation in an iron-based superconductor  磁性元素を添加した鉄系ＳＣにはYSR束縛状態とマヨラナゼロモードの2種類が存在する|･ω･｀)ﾌﾑﾌﾑ   https://t.co/lcedqo0Q4H	2020-01-22 11:14:52
+icoxfog417	piqcy	10643	131	"すみません、開発されているのはJulia Computing, Incがメインのようです(論文より https://t.co/CjkyJhh8eT)。ご指摘いただいた方ありがとうございます！ リポジトリに""Official Deep Learning Library of Gougle (Google?) Research""と書いてあったのでまんま書いてしまった。 https://t.co/zv7EBcK2ir"	2020-01-22 10:59:59
+forthshinji	Shinnosuke Takamichi (高道 慎之介)	1857	366	歌声コーパス論文のarxiv版が出ました。 Our paper of singing voice corpus is available in arXiv. https://t.co/GncpGsinbb	2020-01-22 10:34:53
+38_76	ダメ人間	7	155	"筋電図記録から抽出された情報は、早産のリスクを推定するために有用だという先行研究があるが、方法論の欠陥によって結果は過大評価されていると指摘。先行研究では訓練・評価セットに分割する""前""にオーバーサンプリングしている。 https://t.co/wxEH4b8wBP"	2020-01-22 10:28:19
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-22 10:00:46
+shotaro_s	Shotaro Shiba Funai	160	181	ここ数日、partial deconfinementについて集中的に議論させてもらっているのだが、それを通して見る超弦理論の面白さを噛み締めている。いずれ原子力の理解にも影響を与えるかもね。https://t.co/Yqqk8qXJ1A	2020-01-22 09:04:03
+phys27_	損切り包丁	229	153	@km96ph そうです(Lectures on〜のarXivに載ってるやつです)	2020-01-22 00:24:57
+Take_Ma223	定空間	521	521	DDRの譜面自動生成するって論文あるんですよ Dance Dance Convolutionって言うんですけど https://t.co/xm2tW71xZa	2020-01-22 00:11:38
+arclisp	悪疫	3338	2243	arxivが勝手にarrivedに変換されてた	2020-01-22 00:03:55
+sunbluesome	春	224	177	@Spike23645 知ってたら申し訳ないんですが、こんなのもありますよ？（ガウス過程が好きそうなので） https://t.co/FJBbLo9UXk https://t.co/9ACzZH666T	2020-01-22 00:03:23
+tjmlab	部品（本田翼）	2916	333	@otobet その区分だとこれは、後者なんでしょうか。。。  Attosecond spectral singularities in solid-state high-harmonic generation https://t.co/VAmgUiXdwc ( https://t.co/lmTRXzWbyf )	2020-01-21 23:23:56
+tackson5	ヤツガニ・オーケンシールド	1059	224	今週のこの論文の著者絶対ロードオブザリング好きで賞は、以下の論文に決まりました。  One Framework to Register Them All: PointNet Encoding for Point Cloud Alignment https://t.co/ILGfvby9cH	2020-01-21 23:15:02
+m__sb04	MARINA🦋｜Edge AI	2839	446	セグメンテーションのサーベイ論文が出てる✍️ (図: オレンジがセマンティックセグメンテーション，緑がインスタンスセグメンテーション) &gt; Image Segmentation Using Deep Learning: A Survey https://t.co/RvXl3Jax18 https://t.co/7FVvFVt3hr	2020-01-21 22:21:27
+re_hako_moon	はこつき＠VR	432	496	https://t.co/Kms3CG04Oz 三次元点群がGMMからのサンプル点であるとみなし、グリッド上の正規分布でのFisher Vectorを用いた表現としてニューラルネットワークで扱う。各点に対しての特徴量はShared MLP+Max/Min Poolingで処理することでSymmetric Functionになるようネットワークを構成。	2020-01-21 22:20:26
+Excellency_H	H	141	108	arXivのプレプリント引用するときにどんな感じで参考文献に書くのが一般的ですか	2020-01-21 22:12:55
+kanair_jp	Ryota Kanai	4731	317	Markov Blanketに変わる、ウチとソトを分ける概念として、non-trivial information closure(NTIC)という概念に注目していて、最近、NTICを元にした意識の理論の構築にも取り組んでいる。https://t.co/8ogdRnE5jN	2020-01-21 22:09:59
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-21 22:00:44
+kanair_jp	Ryota Kanai	4731	317	ところで、FristonのMarkov Blanketの話で、Markov Blanketがあると、その中では外界をモデル化して自由エネルギーを下げているというポピュラーな補題があるのだけど、その証明が正しくないのではないかということに、アラヤのMartin Biehlが気づき論文化しました。https://t.co/MhpR3Nhiyu	2020-01-21 21:53:32
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	1646	2248	MRIのガドリニウム造影による脳のCBVが、造影剤がなくてもdeep learningで置き換えられることをマウスによる検証で確認できたって内容。 普通にすごいこと。 ガドリニウムは蓄積するので、使用にはかなり安全性が問われている。 医療xAIの分野でニューヨーク大学がすごい！ https://t.co/Jp5QhITi9H	2020-01-21 21:11:25
+AkiraTOSEI	akira	945	1387	https://t.co/E3auQua6E1 単眼の動画情報のみから深度推定を行う手法の提案。カメラの情報予測を介して次フレームの画像を予測して誤差をとることで教師信号を得る。また、Segmentationにより個々の物体の動作を予測することで精度向上が可能。KITTI datasetでSOTA https://t.co/JmzTwxlykp	2020-01-21 21:03:39
+AkiraTOSEI	akira	945	1387	https://t.co/nfn8NEtvi4 高精度だが重いDilated Conv代替として、同じような機構で動作し、複数スケールの情報を高速に統合するJPUモジュールを提案。メモリ消費量1/4と計算コスト1/3を抑えながら、高精度のSegmentationを実現してSOTA。 https://t.co/BUWU1ZLRme	2020-01-21 21:02:02
+daharu0211	daharu	122	23	今日はarxiv休みかな？	2020-01-21 20:23:16
+hiromichinomata	H. NOMATA	779	1108	lock free versionはThread数が増えるほど効果が顕著で特に物理コア数を超えたハイパースレッドで動作時に差が出る？  おもしろそうだけど俺はHash関数使う側だった https://t.co/yDxqWEXx4l	2020-01-21 19:53:42
+doraneko_b1f	Shuntaro Ohno @Rustacean	677	885	先日のNeural Trojanのミニレビューを記事にしてみました。arXivに投稿された初期の論文を中心にまとめたので、Neural Trojanという、AIに潜む新たなセキュリティ脅威の簡単な研究史を知りたい方にはオススメです。 #みんなでサイバーセキュリティ  https://t.co/1FHEMG4BJc	2020-01-21 19:30:08
+owata6312	ドロリッチを販売する@tenin_botは傲慢なうえに嘘つきです。嘘つきは決して研究者にはなれません	303	337	@lanhubsubaru よーしわかった！CF熱斗くんのぴっちりスーツになりたいがPh.D.を取ったら「arxivに投稿して」をあげよう！	2020-01-21 19:05:59
+tkEzaki	江崎貴裕	1516	1541	arXiv、tableでごちゃごちゃやってたのが通らなくて、結局tableをepsにして図として読み込む作戦で何とかなった	2020-01-21 18:58:18
+MachiK06	Machi	83	452	GANを使った服画像の変換。Original画像のテクスチャ情報を保ったまま、Target画像の形に変換する。  TailorGAN: Making User-Defined Fashion Designs https://t.co/VOp8YvBHkN https://t.co/MMPi9Moe4t	2020-01-21 18:42:23
+isourou	Kentaro Iwami	283	394	年末にarXivで公開した論文とそっくりな論文が先週金曜に中国のグループからarXivに出ていた。危なかった！	2020-01-21 18:35:51
+__dingdongbell	ロールパンナちゃん	1134	568	https://t.co/QaVYvyaaBV 論文はこれだと思う	2020-01-21 18:26:58
+n0rr	草	1782	1674	@ONK50146 これで使った https://t.co/LkbslNeERv	2020-01-21 17:44:56
+SN_star_ppd	Shota Notsu	888	1002	米国のMartin Luther King, Jr. Holidayの為、今日はarXivの更新はお休みとの事。 https://t.co/KPUQATashI	2020-01-21 16:49:10
+harbour_gomahu	Kotaro Tamaoka	484	259	今日はarxiv更新ないのか	2020-01-21 16:22:52
+h8t0	ハヤテマル	907	823	arXivの更新でアメリカの祝日に気づくやつをやってる（キング牧師の誕生日らしい）	2020-01-21 16:12:29
+watakandai	kandai	415	677	階層強化学習のHIRO(https://t.co/AAttIpRGfM)を実装しました。 https://t.co/TuKskcdzqi https://t.co/CgHcq3EG08	2020-01-21 15:28:02
+mitharzo	寝不足のみりん風調味料	118	247	arXivの論文読んでたら唐突にPlease state this more clearly for the reader.って書いてあって笑わずにはいられなかった。	2020-01-21 13:31:39
+omusubi_phys	おむすび	285	302	まだ今日のarXiv更新されてないと思って調べたらやはりアメリカは祝日だった	2020-01-21 13:09:17
+ElectronNest	NaN	197	59	これ自分のアーキテクチャで有効かもしれない： Sideways: Depth-Parallel Training of Video Models https://t.co/pyqkfEKFtz	2020-01-21 13:07:03
+10539R	トポロジカルよこりん	446	580	次はarXivか・・・	2020-01-21 13:01:41
+ohnabe	ohnabe	799	1399	Snapshot ensemble と比較してくれや。https://t.co/NEe1O5n5CJ	2020-01-21 11:54:20
+ohnabe	ohnabe	799	1399	学習データの順番で精度変わるって話だけど、どういう順番だったらって話がないのでうーん。https://t.co/Bza8hd8g2w	2020-01-21 11:37:44
+dojodedojo	dojo	18	147	既存手法との違いが提案手法になるように実験デザインをするのは基本だけど、深層学習系のarxiv論文にはこれが蔑ろにされてるケースが散見される	2020-01-21 11:19:16
+Spike23645	Spike@1週間ふぁぼ禁	2490	1605	MCMC関連でさらに共有。  計算速度はリアルタイムなParticle Filterに劣りますけど、事後分布厳密計算！  pdfの提案手法Continuous Tempered HMC（CT HMC）は、多峰的分布でも近似性能良！  Parallel TemperingとHMCのハイブリッド。  GitHubも。  https://t.co/a3yeihvBem  https://t.co/Migyfyqs01 https://t.co/NOiQA3g7eZ	2020-01-21 11:13:32
+ceekz	Mitsuo Yoshida; AI bot	5627	694	「...人工知能や機械学習の分野では，論文の著者版をarXivで公開する場合もあり，それらのarXiv論文に関するツイートも数多くなされている．本研究では，arXiv論文の言及者のソーシャルグラフを取得し，そのコミュニティ構造を明らかにする．」 1ヶ月後くらいには明らかになってると思います。	2020-01-21 10:58:25
+miyox	miyox	820	624	HPVM，PPoPP'18だけどarXivには2016にアップロードされてたのね． https://t.co/dDaZvh685I	2020-01-21 09:53:36
+nana4_japan	ななよ（七代）	117	142	査読というシステムは、既に主流ではないので、今更何の議論なのかの疑問。 数学・物理などは、https://t.co/mMu8NqinMdがあり、学術誌はその解説.. https://t.co/MSnd2pkBRe  「科学は巧いウソをつく競争になっている - 「査読」というシステムの限界」https://t.co/DEZIoGNM9F にコメントしました。	2020-01-21 08:23:36
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-21 08:00:45
+hillbig	Daisuke Okanohara	17556	263	ビデオでフレーム毎に予測する場合、勾配計算時に誤差と対応する同じ時刻の活性値でなく隣接フレームの活性値を使っても精度は落ちずむしろ汎化性能が改善される。誤差が返ってくるまで待つ必要がなくなり、順伝播と逆伝播を並列に計算でき計算効率を大幅に改善できる https://t.co/j4U4XqaFbF	2020-01-21 07:53:44
+narita_yusuke	成田 悠輔 Yusuke Narita	1361	426	【市場が効率的ならP=NP】科学界最大の未解決問題P=NP予想。トレーダーや経済学者を惑わしつづける効率的市場仮説（=現在の価格は過去の情報をすべて反映している）。2つは同じ予想だとわかったそうです。市場が効率的なら、市場を使ってNP完全問題を素早く解ける。逆も然り  https://t.co/sqnNOGhcxq	2020-01-21 07:00:26
+fudoumyousan	宮島	208	173	言語理解や推論や常識・知識がないと解けないと想定されてきた中学2年生レベルの科学の試験で、モデル「ARISTO」がスコア90％を超え、余裕をもって合格水準に達した。高校3年生レベルの問題では80％越え https://t.co/aZMzsPq4wL	2020-01-21 05:51:45
+q9ac	將籠林檎 / ブラックマジシャン	389	312	非線型媒質中でフォトンが引き合ったり退けあったりする https://t.co/TJg1Gfxab2	2020-01-21 04:13:20
+q9ac	將籠林檎 / ブラックマジシャン	389	312	泡にはフォトニックバンドギャップがあるというお話🛁 https://t.co/pIXZ8uZCzA	2020-01-21 03:43:09
+q9ac	將籠林檎 / ブラックマジシャン	389	312	ディラック半金属からの高調波発生の実験 https://t.co/eZ3rY9a2hl	2020-01-21 03:26:29
+q9ac	將籠林檎 / ブラックマジシャン	389	312	スクゥイーズされた熱浴中での2準位系からの自然放出・誘導放出の理論 https://t.co/5qlkRcFBy7	2020-01-21 03:22:29
+q9ac	將籠林檎 / ブラックマジシャン	389	312	Tight bindingとpseudo magnetic fieldをつかった曲がった空間中のディラック電子の量子ホール効果 https://t.co/JmLvKaDBCS	2020-01-21 03:19:00
+Cubism_FM	【みく柱】みくです！@読書好き	188	232	【Kruskal's theorem】 代数幾何学なのですか？ https://t.co/gwHHFyf0wu	2020-01-21 00:36:22
+shosakaino	Sho Sakaino (境野 翔)	146	12	AI系だと結構常識かもしれないけど、ロボット系、制御系だと知らない人がとても多かったので一応大事な小技ということで、みんなarxivに同時投稿しましょう。	2020-01-21 00:03:39
+shosakaino	Sho Sakaino (境野 翔)	146	12	ちなみに今回はOpen Access論文ですが、IEEEはarxivを特例扱いで認めているので、IEEEのconferenceやjounalは全部arxivに同時投稿することで擬似Open Access化できます。 IEEEも以下のように公式で認めています。 https://t.co/X9AUt822nD	2020-01-21 00:02:19
+AkiraTOSEI	akira	945	1387	https://t.co/BbUPmAjQG0 領域分割と近隣画素が同一物体に所属するかの問題の２つを解くことにより、物体別のセグメンテーションを行う研究。その後に画素同士の結合をグラフと見做して、同じインスタンスに所属するエッジを予測するという問題をとく。 https://t.co/Rt4sDRzmPh	2020-01-20 22:42:27
+AkiraTOSEI	akira	945	1387	https://t.co/66bmujT3Br 複数の候補マスクとそれぞれの係数を算出させ、それらの線形結合でInstance Segmentationを実施する研究。並列で処理できるため高速処理が可能で、30FPS以上の速度を1GPUで処理できる。 https://t.co/EhOf2QTp22	2020-01-20 22:41:08
+7shi	七誌	4415	4974	"@subarusatosi @neet2go @adhara_mathphys ところで ""Superspinors and Graded Lorentz Groups in Three, Four and Five Dimensions"" の関連論文として以下の論文をお勧めされました。Academiaだとダウンロードに登録が必要なのでarXivを貼ります。  Deformations of Maxwell Superalgebras and Their Applications https://t.co/6EMlLW0fmb"	2020-01-20 21:39:50
+re_hako_moon	はこつき＠VR	432	496	https://t.co/8ahNJUWrDr 点群をKd-Treeに変換して特徴量を得るKd-Networkの提案。Kd-Treeの葉ノードから根ノードに向かって、分割軸ごとに重みを共有した層で特徴量を伝搬する。同じ木を使ってEncoder-Decoder構造にしてSkip-connectionを導入することでセマンティックセグメンテーションも実現。	2020-01-20 21:37:45
+fudoumyousan	宮島	208	173	機械翻訳コンペであるWMT19において優勝したFAIRのシステムは（ニ人による評価で人による翻訳を大きく上回った。近年順調に翻訳の精度向上が進む中でいよいよ人の翻訳を超えた https://t.co/v83LHvh1LW	2020-01-20 20:21:47
+arXiv_0813	けい♪憐@iPhone5	32	8	＃パズドラ  フレンド募集中でさぁ♪IDは189223408！	2020-01-20 20:00:45
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	1646	2248	NASによって発見した real-time segmentation のモデルに関する論文。 従来のreal-time segmentationよりも30%高速化に成功した。30%は本当に速すぎる。 https://t.co/JSXtAqrjDU	2020-01-20 19:36:48
+forthshinji	Shinnosuke Takamichi (高道 慎之介)	1857	366	( `•ω•)╮-=ﾆ=ﾟ｡ arXiv	2020-01-20 19:22:53
+THsama2	Dr. THsama	104	254	取り組んでいる研究トピックがレッドオーシャンだから、大きい会議の締め切り前後にArxivに投稿された論文を調べるのが怖い	2020-01-20 18:52:12
+myamada0	Makoto Yamada	2298	442	速攻arXivあげる系	2020-01-20 18:17:49
+esXFdfOJxiGBFLx	人工知能 Deep Learning AI image medical machine learni	1646	2248	深層学習って光学イメージングの線形回帰より、常に優れているの？ 従来手法に戻って考えてみたって内容ですね。 近年、DLに対する再現性や回帰においてDL使うより、従来の方が性能が高かったりした影響からこういったarXivも出てきましたね。 https://t.co/1VcOz2EojZ	2020-01-20 17:23:22
+ceptree	ceptree	2119	344	arxivでプレスリリースなんか	2020-01-20 16:10:30
+q9ac	將籠林檎 / ブラックマジシャン	389	312	本業がバタバタとし始めて時間が取りづらくなってるけど、arxivチェックはなるべく意図的にするようにしてる。  広いジャンルの最先端をザッピングするのはとても良い刺激になっていることを、後々研究テーマを発想するときに気がつく	2020-01-20 13:15:40
+sea85419	依水	48	132	イイコトキイタ、難しい問題だが、とりあえず、みんな、もっとarXivに投稿して欲しい　論文海賊版サイトSci-Hubは学術コミュニティの「究極の破壊者」だという主張 - GIGAZINE https://t.co/OtPQ2G5bAl	2020-01-20 13:07:01
+arXiv_reaDer	arXiv reaDer bot	86	0	Unsupervised Learning of Camera Pose with Compositional Re-estimation 組成再推定によるカメラポーズの教師なし学習  2020-01-17T18:59:07+00:00  arXiv: https://t.co/KeDvjMLrSS 英/日サマリ↓ https://t.co/zye4xE1Dnj	2020-01-20 11:44:39
+arXiv_reaDer	arXiv reaDer bot	86	0	Spatiotemporal Camera-LiDAR Calibration: A Targetless and Structureless Approach 時空間カメラ-LiDARキャリブレーション：ターゲットレスおよび構造レスアプローチ  2020-01-17T07:25:59+00:00  arXiv: https://t.co/RWY8xcVdHs 英/日サマリ↓ https://t.co/eHiEX7vM12	2020-01-20 11:35:39
+arXiv_reaDer	arXiv reaDer bot	86	0	Spatio-Temporal Ranked-Attention Networks for Video Captioning ビデオキャプションのための時空間ランク付き注意ネットワーク  2020-01-17T01:00:45+00:00  arXiv: https://t.co/0LKmVpXGwe 英/日サマリ↓ https://t.co/DcKlF86C0l	2020-01-20 11:33:19
+arXiv_reaDer	arXiv reaDer bot	86	0	Code-Bridged Classifier (CBC): A Low or Negative Overhead Defense for Making a CNN Classifier Robust Again ... Code-Bridged Classifier（CBC）：敵の攻撃に対してロバストなCNN分類器を作成するための低または負のオーバーヘッド防御  arXiv: https://t.co/kIuZ6bOx6U https://t.co/S5dxi3AfWx	2020-01-20 11:32:02
+ultimatile	Tsuji Katabira	2021	1901	掲載後arXivだ Phys. Rev. B 101, 020406(R) (2020) - Random singlet state in ${\mathrm{Ba}}_{5}{\mathrm{CuIr}}_{3}{\mathrm{O}}_{12}$ single crystals https://t.co/PXiXzUTh5S	2020-01-20 11:07:34
